@@ -1,5 +1,5 @@
 """
-Vijay Hazare Trophy 2024-25 Dashboard
+Vijay Hazare Trophy 2025-26 Dashboard
 =====================================
 Complete 9-page interactive dashboard built with Dash and Plotly.
 
@@ -1952,7 +1952,7 @@ def create_page_champions():
         dbc.CardBody([
             html.Div([
                 html.Span('🏆', style={'fontSize': '4rem'}),
-                html.H2('VIDARBHA - VIJAY HAZARE TROPHY 2024-25 CHAMPIONS', 
+                html.H2('VIDARBHA - VIJAY HAZARE TROPHY 2025-26 CHAMPIONS', 
                        className='mb-2 mt-2', style={'color': COLORS['gold'], 'fontWeight': 'bold'}),
                 html.H5(f"Final: VID 317-8 (50 ov) beat SAUR 279 (48.5 ov) by 38 runs", className='text-muted'),
                 html.P('First Vijay Hazare Trophy title for Vidarbha!', className='mb-0 mt-2')
@@ -2281,12 +2281,12 @@ app = dash.Dash(
 server = app.server  # This line is REQUIRED for Gunicorn/Render
 # ============================================================================
 
-app.title = 'Vijay Hazare Trophy 2024-25 Dashboard'
+app.title = 'Vijay Hazare Trophy 2025-26 Dashboard'
 
 # Sidebar
 sidebar = html.Div([
     html.Div([
-        html.H4('🏏 VHT 2024-25', className='text-white mb-0'),
+        html.H4('🏏 VHT 2025-26', className='text-white mb-0'),
         html.Small('Dashboard', className='text-white-50')
     ], className='p-3'),
     html.Hr(className='my-2', style={'borderColor': 'rgba(255,255,255,0.2)'}),
@@ -2507,7 +2507,7 @@ def update_comparison_stats(team1, team2):
 
 if __name__ == '__main__':
     print('='*60)
-    print('VIJAY HAZARE TROPHY 2024-25 DASHBOARD')
+    print('VIJAY HAZARE TROPHY 2025-26 DASHBOARD')
     print('='*60)
     print(f'\nLoaded Data:')
     print(f'  - Matches: {len(matches)}')
