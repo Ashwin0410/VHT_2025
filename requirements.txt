@@ -7,9 +7,9 @@
 dash==2.14.2
 dash-bootstrap-components==1.5.0
 
-# Data Processing
-pandas==2.1.4
-numpy==1.26.2
+# Data Processing (using versions with pre-built wheels)
+pandas==2.0.3
+numpy==1.24.3
 
 # Visualization
 plotly==5.18.0
