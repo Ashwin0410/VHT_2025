@@ -1,0 +1,136 @@
+match_id,is_plate,team1,team2,team1_runs,team1_wickets,team1_overs,team2_runs,team2_wickets,team2_overs,venue,day_name,month,day_num,stage,toss_winner,toss_decision,batting_first,winner,win_type,win_margin,total_runs,total_wickets,team1_group,team2_group
+APvsDEL,False,AP,DEL,298.0,8.0,50.0,300.0,6.0,37.4,"BCCI Centre of Excellence Ground 1, Bengaluru",Wed,Dec,24.0,Group Stage,DEL,Bowl,AP,DEL,wickets,4.0,598.0,14.0,Group D,Group D
+APvsODSA,False,AP,ODSA,221.0,10.0,49.2,223.0,4.0,43.4,"KSCA Cricket Ground, Alur",Mon,Dec,29.0,Group Stage,ODSA,Bowl,AP,ODSA,wickets,6.0,444.0,14.0,Group D,Group D
+ASMvsBRD,False,ASM,BRD,282.0,10.0,48.4,283.0,5.0,47.5,"Niranjan Shah Stadium C, Rajkot",Wed,Dec,24.0,Group Stage,BRD,Bowl,ASM,BRD,wickets,5.0,565.0,15.0,Group B,Group B
+ASMvsCDG,False,ASM,CDG,284.0,7.0,50.0,286.0,3.0,47.2,"Sanosara Cricket Ground B, Rajkot",Tue,Jan,6.0,Group Stage,ASM,Bat,ASM,CDG,wickets,7.0,570.0,10.0,Group B,Group B
+ASMvsUP,False,ASM,UP,308.0,10.0,48.4,291.0,2.0,42.0,"Niranjan Shah Stadium, Khandheri, Rajkot",Wed,Dec,31.0,Group Stage,ASM,Bat,ASM,ASM,runs,17.0,599.0,12.0,Group B,Group B
+BENvsASM,False,BEN,ASM,302.0,7.0,50.0,217.0,10.0,42.1,"Sanosara Cricket Ground B, Rajkot",Sat,Jan,3.0,Group Stage,ASM,Bowl,BEN,BEN,runs,85.0,519.0,17.0,Group B,Group B
+BENvsBRD,False,BEN,BRD,205.0,10.0,38.3,209.0,6.0,38.5,"Niranjan Shah Stadium C, Rajkot",Fri,Dec,26.0,Group Stage,BRD,Bowl,BEN,BRD,wickets,4.0,414.0,16.0,Group B,Group B
+BENvsUP,False,BEN,UP,269.0,10.0,45.1,272.0,5.0,42.2,"Sanosara Cricket Ground B, Rajkot",Thu,Jan,8.0,Group Stage,UP,Bowl,BEN,UP,wickets,5.0,541.0,15.0,Group B,Group B
+BRDvsCDG,False,BRD,CDG,391.0,10.0,49.1,242.0,10.0,40.0,"Niranjan Shah Stadium, Khandheri, Rajkot",Thu,Jan,8.0,Group Stage,BRD,Bat,BRD,BRD,runs,149.0,633.0,20.0,Group B,Group B
+BRDvsHYD,False,BRD,HYD,417.0,4.0,50.0,380.0,10.0,49.5,"Sanosara Cricket Ground B, Rajkot",Wed,Dec,31.0,Group Stage,HYD,Bowl,BRD,BRD,runs,37.0,797.0,14.0,Group B,Group B
+BRDvsJK,False,BRD,JK,332.0,10.0,50.0,256.0,10.0,45.3,"Sanosara Cricket Ground A, Rajkot",Tue,Jan,6.0,Group Stage,BRD,Bat,BRD,BRD,runs,76.0,588.0,20.0,Group B,Group B
+BRDvsVID,False,BRD,VID,293.0,9.0,50.0,296.0,1.0,41.4,"Niranjan Shah Stadium, Khandheri, Rajkot",Sat,Jan,3.0,Group Stage,VID,Bowl,BRD,VID,wickets,9.0,589.0,10.0,Group B,Group B
+CDGvsBEN,False,CDG,BEN,319.0,10.0,48.2,320.0,4.0,47.4,"Niranjan Shah Stadium, Khandheri, Rajkot",Mon,Dec,29.0,Group Stage,BEN,Bowl,CDG,BEN,wickets,6.0,639.0,14.0,Group B,Group B
+CDGvsJK,False,CDG,JK,208.0,10.0,39.5,209.0,0.0,37.0,"Sanosara Cricket Ground B, Rajkot",Wed,Dec,24.0,Group Stage,Jammu and Kashmir,Bowl,CDG,JK,wickets,10.0,417.0,10.0,Group B,Group B
+CDGvsVID,False,CDG,VID,113.0,10.0,29.1,114.0,2.0,22.3,"Niranjan Shah Stadium C, Rajkot",Wed,Dec,31.0,Group Stage,VID,Bowl,CDG,VID,wickets,8.0,227.0,12.0,Group B,Group B
+CGvsGOA,False,CG,GOA,233.0,10.0,48.5,234.0,4.0,44.1,"Jaipuria Vidyalaya Ground, Jaipur",Wed,Dec,24.0,Group Stage,GOA,Bowl,CG,GOA,wickets,6.0,467.0,14.0,Group C,Group C
+CGvsMAH,False,CG,MAH,166.0,10.0,29.0,160.0,8.0,31.0,"Anantam Ground, Jaipur",Tue,Jan,6.0,Group Stage,MAH,Bowl,CG,CG,runs,6.0,326.0,18.0,Group C,Group C
+CGvsMUM,False,CG,MUM,142.0,10.0,38.1,144.0,1.0,24.0,"Jaipuria Vidyalaya Ground, Jaipur",Mon,Dec,29.0,Group Stage,MUM,Bowl,CG,MUM,wickets,9.0,286.0,11.0,Group C,Group C
+CGvsPUN,False,CG,PUN,253.0,10.0,48.4,254.0,1.0,42.1,"Anantam Ground, Jaipur",Fri,Dec,26.0,Group Stage,PUN,Bowl,CG,PUN,wickets,9.0,507.0,11.0,Group C,Group C
+CGvsSKM,False,CG,SKM,355.0,3.0,50.0,126.0,10.0,34.0,"Sawai Mansingh Stadium, Jaipur",Wed,Dec,31.0,Group Stage,SKM,Bowl,CG,CG,runs,229.0,481.0,13.0,Group C,Group C
+CGvsUTK,False,CG,UTK,265.0,10.0,50.0,258.0,8.0,50.0,"KL Saini Ground, Jaipur",Thu,Jan,8.0,Group Stage,UTK,Bowl,CG,CG,runs,7.0,523.0,18.0,Group C,Group C
+DELvsGUJ,False,DEL,GUJ,254.0,9.0,50.0,247.0,10.0,47.4,"BCCI Centre of Excellence Ground 1, Bengaluru",Fri,Dec,26.0,Group Stage,GUJ,Bowl,DEL,DEL,runs,7.0,501.0,19.0,Group D,Group D
+GOAvsHP,False,GOA,HP,285.0,9.0,50.0,277.0,10.0,49.3,"Jaipuria Vidyalaya Ground, Jaipur",Fri,Dec,26.0,Group Stage,HP,Bowl,GOA,GOA,runs,8.0,562.0,19.0,Group C,Group C
+GOAvsPUN,False,GOA,PUN,211.0,10.0,33.3,212.0,4.0,35.0,"KL Saini Ground, Jaipur",Tue,Jan,6.0,Group Stage,PUN,Bowl,GOA,PUN,wickets,6.0,423.0,14.0,Group C,Group C
+GOAvsSKM,False,GOA,SKM,309.0,8.0,50.0,247.0,7.0,50.0,"KL Saini Ground, Jaipur",Mon,Dec,29.0,Group Stage,SKM,Bowl,GOA,GOA,runs,62.0,556.0,15.0,Group C,Group C
+GOAvsUTK,False,GOA,UTK,270.0,10.0,49.1,274.0,3.0,46.2,"KL Saini Ground, Jaipur",Sat,Jan,3.0,Group Stage,UTK,Bowl,GOA,UTK,wickets,7.0,544.0,13.0,Group C,Group C
+GUJvsAP,False,GUJ,AP,318.0,9.0,50.0,311.0,7.0,50.0,"KSCA Cricket (3) Ground, Alur",Sat,Jan,3.0,Group Stage,AP,Bowl,GUJ,GUJ,runs,7.0,629.0,16.0,Group D,Group D
+GUJvsODSA,False,GUJ,ODSA,333.0,6.0,50.0,100.0,10.0,28.1,"BCCI Centre of Excellence Ground 3, Bengaluru",Tue,Jan,6.0,Group Stage,ODSA,Bowl,GUJ,GUJ,runs,233.0,433.0,16.0,Group D,Group D
+GUJvsRLYS,False,GUJ,RLYS,283.0,10.0,47.4,287.0,6.0,48.0,"KSCA Cricket (2) Ground, Alur",Wed,Dec,31.0,Group Stage,GUJ,Bat,GUJ,RLYS,wickets,4.0,570.0,16.0,Group D,Group D
+HARvsAP,False,HAR,AP,324.0,10.0,49.5,307.0,7.0,48.0,"KSCA Cricket (3) Ground, Alur",Tue,Jan,6.0,Group Stage,AP,Bowl,HAR,HAR,runs,17.0,631.0,17.0,Group D,Group D
+HARvsDEL,False,HAR,DEL,105.0,10.0,25.4,107.0,1.0,13.3,"BCCI Centre of Excellence Ground 3, Bengaluru",Thu,Jan,8.0,Group Stage,DEL,Bowl,HAR,DEL,wickets,9.0,212.0,11.0,Group D,Group D
+HARvsGUJ,False,HAR,GUJ,299.0,10.0,49.4,273.0,10.0,47.1,"BCCI Centre of Excellence Ground 2, Bengaluru",Mon,Dec,29.0,Group Stage,GUJ,Bowl,HAR,HAR,runs,26.0,572.0,20.0,Group D,Group D
+HARvsRLYS,False,HAR,RLYS,267.0,9.0,50.0,270.0,4.0,43.4,"KSCA Cricket (3) Ground, Alur",Wed,Dec,24.0,Group Stage,RLYS,Bowl,HAR,RLYS,wickets,6.0,537.0,13.0,Group D,Group D
+HPvsCG,False,HP,CG,320.0,8.0,50.0,321.0,7.0,49.4,"Anantam Ground, Jaipur",Sat,Jan,3.0,Group Stage,HP,Bat,HP,CG,wickets,3.0,641.0,15.0,Group C,Group C
+HPvsMAH,False,HP,MAH,271.0,10.0,49.4,264.0,10.0,50.0,"Sawai Mansingh Stadium, Jaipur",Mon,Dec,29.0,Group Stage,MAH,Bowl,HP,HP,runs,7.0,535.0,20.0,Group C,Group C
+HPvsPUN,False,HP,PUN,221.0,10.0,47.2,223.0,4.0,36.1,"KL Saini Ground, Jaipur",Wed,Dec,31.0,Group Stage,PUN,Bowl,HP,PUN,wickets,6.0,444.0,14.0,Group C,Group C
+HPvsUTK,False,HP,UTK,259.0,10.0,47.3,164.0,10.0,40.3,"KL Saini Ground, Jaipur",Wed,Dec,24.0,Group Stage,UTK,Bowl,HP,HP,runs,95.0,423.0,20.0,Group C,Group C
+HYDvsASM,False,HYD,ASM,310.0,8.0,50.0,314.0,6.0,49.3,"Niranjan Shah Stadium C, Rajkot",Mon,Dec,29.0,Group Stage,HYD,Bat,HYD,ASM,wickets,4.0,624.0,14.0,Group B,Group B
+HYDvsBEN,False,HYD,BEN,352.0,5.0,50.0,245.0,10.0,44.4,"Niranjan Shah Stadium, Khandheri, Rajkot",Tue,Jan,6.0,Group Stage,BEN,Bowl,HYD,HYD,runs,107.0,597.0,15.0,Group B,Group B
+HYDvsCDG,False,HYD,CDG,286.0,9.0,50.0,150.0,10.0,37.4,"Sanosara Cricket Ground A, Rajkot",Sat,Jan,3.0,Group Stage,CDG,Bowl,HYD,HYD,runs,136.0,436.0,19.0,Group B,Group B
+HYDvsJK,False,HYD,JK,268.0,9.0,50.0,272.0,7.0,47.5,"Niranjan Shah Stadium C, Rajkot",Thu,Jan,8.0,Group Stage,Jammu and Kashmir,Bowl,HYD,JK,wickets,3.0,540.0,16.0,Group B,Group B
+JHKDvsKAR,False,JHKD,KAR,412.0,9.0,50.0,413.0,5.0,47.3,"Narendra Modi Stadium B Ground, Ahmedabad",Wed,Dec,24.0,Group Stage,KAR,Bowl,JHKD,KAR,wickets,5.0,825.0,14.0,Group A,Group A
+JHKDvsKER,False,JHKD,KER,311.0,7.0,50.0,313.0,2.0,42.3,"ADSA Railways Cricket Ground, Ahmedabad",Sat,Jan,3.0,Group Stage,JHKD,Bat,JHKD,KER,wickets,8.0,624.0,9.0,Group A,Group A
+JHKDvsPDC,False,JHKD,PDC,368.0,7.0,50.0,235.0,10.0,41.4,"Narendra Modi Stadium B Ground, Ahmedabad",Mon,Dec,29.0,Group Stage,PDC,Bowl,JHKD,JHKD,runs,133.0,603.0,17.0,Group A,Group A
+JHKDvsRAJ,False,JHKD,RAJ,301.0,10.0,50.0,228.0,10.0,50.0,"Narendra Modi Stadium, Ahmedabad",Fri,Dec,26.0,Group Stage,RAJ,Bowl,JHKD,JHKD,runs,73.0,529.0,20.0,Group A,Group A
+JKvsASM,False,JK,ASM,341.0,7.0,50.0,199.0,10.0,36.1,"Niranjan Shah Stadium, Khandheri, Rajkot",Fri,Dec,26.0,Group Stage,ASM,Bowl,JK,JK,runs,142.0,540.0,17.0,Group B,Group B
+JKvsBEN,False,JK,BEN,63.0,10.0,20.4,64.0,1.0,9.3,"Sanosara Cricket Ground A, Rajkot",Wed,Dec,31.0,Group Stage,BEN,Bowl,JK,BEN,wickets,9.0,127.0,11.0,Group B,Group B
+JKvsVID,False,JK,VID,311.0,9.0,50.0,315.0,5.0,48.3,"Sanosara Cricket Ground B, Rajkot",Mon,Dec,29.0,Group Stage,VID,Bowl,JK,VID,wickets,5.0,626.0,14.0,Group B,Group B
+KARvsMP,False,KAR,MP,207.0,10.0,47.4,208.0,3.0,23.2,"Narendra Modi Stadium, Ahmedabad",Thu,Jan,8.0,Group Stage,MP,Bowl,KAR,MP,wickets,7.0,415.0,13.0,Group A,Group A
+KARvsPDC,False,KAR,PDC,363.0,4.0,50.0,296.0,10.0,50.0,"ADSA Railways Cricket Ground, Ahmedabad",Wed,Dec,31.0,Group Stage,KAR,Bat,KAR,KAR,runs,67.0,659.0,14.0,Group A,Group A
+KARvsRAJ,False,KAR,RAJ,324.0,7.0,50.0,174.0,10.0,38.0,"Gujarat College Ground, Ahmedabad",Tue,Jan,6.0,Group Stage,RAJ,Bowl,KAR,KAR,runs,150.0,498.0,17.0,Group A,Group A
+KARvsTRI,False,KAR,TRI,332.0,7.0,50.0,252.0,10.0,49.0,"Narendra Modi Stadium, Ahmedabad",Sat,Jan,3.0,Group Stage,TRI,Bowl,KAR,KAR,runs,80.0,584.0,17.0,Group A,Group A
+KARvsVID,False,KAR,VID,280.0,10.0,49.4,284.0,4.0,46.2,"BCCI Centre of Excellence Ground 1, Bengaluru",Thu,Jan,15.0,Semi Final,KAR,Bat,KAR,VID,wickets,6.0,564.0,14.0,Group A,Group B
+KERvsKAR,False,KER,KAR,284.0,7.0,50.0,285.0,2.0,48.2,"Narendra Modi Stadium B Ground, Ahmedabad",Fri,Dec,26.0,Group Stage,KAR,Bowl,KER,KAR,wickets,8.0,569.0,9.0,Group A,Group A
+KERvsTRI,False,KER,TRI,348.0,8.0,50.0,203.0,10.0,36.5,"Gujarat College Ground, Ahmedabad",Wed,Dec,24.0,Group Stage,TRI,Bowl,KER,KER,runs,145.0,551.0,18.0,Group A,Group A
+MAHvsGOA,False,MAH,GOA,249.0,7.0,50.0,244.0,9.0,50.0,"Dr Soni Stadium, Jaipur",Thu,Jan,8.0,Group Stage,MAH,Bat,MAH,MAH,runs,5.0,493.0,16.0,Group C,Group C
+MAHvsMUM,False,MAH,MUM,366.0,4.0,50.0,238.0,10.0,42.0,"Sawai Mansingh Stadium, Jaipur",Sat,Jan,3.0,Group Stage,MAH,Bat,MAH,MAH,runs,128.0,604.0,14.0,Group C,Group C
+MAHvsUTK,False,MAH,UTK,331.0,7.0,50.0,202.0,10.0,43.4,"Anantam Ground, Jaipur",Wed,Dec,31.0,Group Stage,UTK,Bowl,MAH,MAH,runs,129.0,533.0,17.0,Group C,Group C
+MPvsJHKD,False,MP,JHKD,277.0,10.0,48.4,278.0,8.0,47.4,"ADSA Railways Cricket Ground, Ahmedabad",Tue,Jan,6.0,Group Stage,JHKD,Bowl,MP,JHKD,wickets,2.0,555.0,18.0,Group A,Group A
+MPvsKER,False,MP,KER,214.0,10.0,46.1,167.0,10.0,40.1,"Narendra Modi Stadium, Ahmedabad",Mon,Dec,29.0,Group Stage,KER,Bowl,MP,MP,runs,47.0,381.0,20.0,Group A,Group A
+MPvsPDC,False,MP,PDC,228.0,10.0,49.5,229.0,6.0,43.0,"Gujarat College Ground, Ahmedabad",Sat,Jan,3.0,Group Stage,PDC,Bowl,MP,PDC,wickets,4.0,457.0,16.0,Group A,Group A
+MPvsRAJ,False,MP,RAJ,287.0,5.0,50.0,188.0,10.0,43.2,"ADSA Railways Cricket Ground, Ahmedabad",Wed,Dec,24.0,Group Stage,MP,Bat,MP,MP,runs,99.0,475.0,15.0,Group A,Group A
+MUMvsGOA,False,MUM,GOA,444.0,8.0,50.0,357.0,9.0,50.0,"Jaipuria Vidyalaya Ground, Jaipur",Wed,Dec,31.0,Group Stage,GOA,Bowl,MUM,MUM,runs,87.0,801.0,17.0,Group C,Group C
+MUMvsHP,False,MUM,HP,299.0,9.0,33.0,292.0,10.0,32.4,"Jaipuria Vidyalaya Ground, Jaipur",Tue,Jan,6.0,Group Stage,HP,Bowl,MUM,MUM,runs,7.0,591.0,19.0,Group C,Group C
+MUMvsKAR,False,MUM,KAR,254.0,8.0,50.0,187.0,1.0,33.0,"BCCI Centre of Excellence Ground 1, Bengaluru",Mon,Jan,12.0,Quarter Final,KAR,Bowl,MUM,MUM,runs,67.0,441.0,9.0,Group C,Group A
+MUMvsUTK,False,MUM,UTK,331.0,7.0,50.0,280.0,9.0,50.0,"Sawai Mansingh Stadium, Jaipur",Fri,Dec,26.0,Group Stage,UTK,Bowl,MUM,MUM,runs,51.0,611.0,16.0,Group C,Group C
+ODSAvsDEL,False,ODSA,DEL,272.0,8.0,50.0,193.0,10.0,42.3,"KSCA Cricket (3) Ground, Alur",Wed,Dec,31.0,Group Stage,DEL,Bowl,ODSA,ODSA,runs,79.0,465.0,18.0,Group D,Group D
+ODSAvsHAR,False,ODSA,HAR,305.0,9.0,50.0,309.0,6.0,48.4,"KSCA Cricket (2) Ground, Alur",Sat,Jan,3.0,Group Stage,HAR,Bowl,ODSA,HAR,wickets,4.0,614.0,15.0,Group D,Group D
+ODSAvsRLYS,False,ODSA,RLYS,251.0,10.0,49.5,254.0,5.0,45.2,"KSCA Cricket Ground, Alur",Thu,Jan,8.0,Group Stage,RLYS,Bowl,ODSA,RLYS,wickets,5.0,505.0,15.0,Group D,Group D
+ODSAvsSAUR,False,ODSA,SAUR,345.0,6.0,50.0,347.0,5.0,48.5,"KSCA Cricket Ground, Alur",Wed,Dec,24.0,Group Stage,SAUR,Bowl,ODSA,SAUR,wickets,5.0,692.0,11.0,Group D,Group D
+PDCvsKER,False,PDC,KER,247.0,10.0,47.4,252.0,2.0,29.0,"Narendra Modi Stadium A Ground, Ahmedabad",Tue,Jan,6.0,Group Stage,KER,Bowl,PDC,KER,wickets,8.0,499.0,12.0,Group A,Group A
+PDCvsTRI,False,PDC,TRI,150.0,10.0,41.3,151.0,3.0,32.3,"ADSA Railways Cricket Ground, Ahmedabad",Fri,Dec,26.0,Group Stage,PDC,Bat,PDC,TRI,wickets,7.0,301.0,13.0,Group A,Group A
+PUNvsMAH,False,PUN,MAH,347.0,6.0,50.0,296.0,8.0,50.0,"Anantam Ground, Jaipur",Wed,Dec,24.0,Group Stage,MAH,Bowl,PUN,PUN,runs,51.0,643.0,14.0,Group C,Group C
+PUNvsMP,False,PUN,MP,345.0,6.0,50.0,162.0,10.0,31.2,"BCCI Centre of Excellence Ground 1, Bengaluru",Tue,Jan,13.0,Quarter Final,MP,Bowl,PUN,PUN,runs,183.0,507.0,16.0,Group C,Group A
+PUNvsMUM,False,PUN,MUM,216.0,10.0,45.1,215.0,10.0,26.2,"Jaipuria Vidyalaya Ground, Jaipur",Thu,Jan,8.0,Group Stage,MUM,Bowl,PUN,PUN,runs,1.0,431.0,20.0,Group C,Group C
+PUNvsSAUR,False,PUN,SAUR,291.0,10.0,50.0,293.0,1.0,39.3,"BCCI Centre of Excellence Ground 1, Bengaluru",Fri,Jan,16.0,Semi Final,SAUR,Bowl,PUN,SAUR,wickets,9.0,584.0,11.0,Group C,Group D
+PUNvsUTK,False,PUN,UTK,269.0,8.0,50.0,270.0,5.0,47.4,"Anantam Ground, Jaipur",Mon,Dec,29.0,Group Stage,UTK,Bowl,PUN,UTK,wickets,5.0,539.0,13.0,Group C,Group C
+RAJvsKER,False,RAJ,KER,343.0,7.0,50.0,348.0,8.0,50.0,"Gujarat College Ground, Ahmedabad",Wed,Dec,31.0,Group Stage,RAJ,Bat,RAJ,KER,wickets,2.0,691.0,15.0,Group A,Group A
+RAJvsPDC,False,RAJ,PDC,269.0,8.0,50.0,137.0,10.0,26.5,"Narendra Modi Stadium B Ground, Ahmedabad",Thu,Jan,8.0,Group Stage,PDC,Bowl,RAJ,RAJ,runs,132.0,406.0,18.0,Group A,Group A
+RAJvsTN,False,RAJ,TN,225.0,10.0,46.5,215.0,10.0,41.4,"Narendra Modi Stadium B Ground, Ahmedabad",Sat,Jan,3.0,Group Stage,TN,Bowl,RAJ,RAJ,runs,10.0,440.0,20.0,Group A,Group A
+RLYSvsAP,False,RLYS,AP,266.0,9.0,50.0,271.0,4.0,44.4,"KSCA Cricket Ground, Alur",Fri,Dec,26.0,Group Stage,AP,Bowl,RLYS,AP,wickets,6.0,537.0,13.0,Group D,Group D
+RLYSvsDEL,False,RLYS,DEL,179.0,10.0,40.4,182.0,4.0,21.4,"KSCA Cricket (2) Ground, Alur",Tue,Jan,6.0,Group Stage,RLYS,Bat,RLYS,DEL,wickets,6.0,361.0,14.0,Group D,Group D
+RLYSvsSER,False,RLYS,SER,365.0,7.0,50.0,281.0,10.0,47.2,"KSCA Cricket (3) Ground, Alur",Mon,Dec,29.0,Group Stage,SER,Bowl,RLYS,RLYS,runs,84.0,646.0,17.0,Group D,Group D
+SAURvsAP,False,SAUR,AP,254.0,7.0,50.0,180.0,10.0,47.2,"BCCI Centre of Excellence Ground 2, Bengaluru",Wed,Dec,31.0,Group Stage,AP,Bowl,SAUR,SAUR,runs,74.0,434.0,17.0,Group D,Group D
+SAURvsDEL,False,SAUR,DEL,320.0,7.0,50.0,321.0,7.0,48.5,"KSCA Cricket (2) Ground, Alur",Mon,Dec,29.0,Group Stage,DEL,Bowl,SAUR,DEL,wickets,3.0,641.0,14.0,Group D,Group D
+SAURvsGUJ,False,SAUR,GUJ,383.0,4.0,50.0,238.0,10.0,40.0,"KSCA Cricket (3) Ground, Alur",Thu,Jan,8.0,Group Stage,GUJ,Bowl,SAUR,SAUR,runs,145.0,621.0,14.0,Group D,Group D
+SAURvsHAR,False,SAUR,HAR,253.0,10.0,48.1,256.0,4.0,39.0,"KSCA Cricket (2) Ground, Alur",Fri,Dec,26.0,Group Stage,HAR,Bowl,SAUR,HAR,wickets,6.0,509.0,14.0,Group D,Group D
+SAURvsRLYS,False,SAUR,RLYS,294.0,8.0,50.0,263.0,10.0,49.1,"KSCA Cricket Ground, Alur",Sat,Jan,3.0,Group Stage,RLYS,Bowl,SAUR,SAUR,runs,31.0,557.0,18.0,Group D,Group D
+SAURvsSER,False,SAUR,SER,349.0,5.0,50.0,238.0,10.0,45.5,"KSCA Cricket Ground, Alur",Tue,Jan,6.0,Group Stage,SER,Bowl,SAUR,SAUR,runs,111.0,587.0,15.0,Group D,Group D
+SERvsAP,False,SER,AP,165.0,10.0,45.0,168.0,5.0,38.1,"KSCA Cricket (2) Ground, Alur",Thu,Jan,8.0,Group Stage,AP,Bowl,SER,AP,wickets,5.0,333.0,15.0,Group D,Group D
+SERvsDEL,False,SER,DEL,178.0,10.0,42.5,182.0,2.0,19.4,"BCCI Centre of Excellence Ground 2, Bengaluru",Sat,Jan,3.0,Group Stage,DEL,Bowl,SER,DEL,wickets,8.0,360.0,12.0,Group D,Group D
+SERvsGUJ,False,SER,GUJ,184.0,10.0,42.2,185.0,2.0,34.5,"KSCA Cricket (2) Ground, Alur",Wed,Dec,24.0,Group Stage,GUJ,Bowl,SER,GUJ,wickets,8.0,369.0,12.0,Group D,Group D
+SERvsHAR,False,SER,HAR,271.0,8.0,50.0,275.0,3.0,43.1,"KSCA Cricket Ground, Alur",Wed,Dec,31.0,Group Stage,HAR,Bowl,SER,HAR,wickets,7.0,546.0,11.0,Group D,Group D
+SERvsODSA,False,SER,ODSA,83.0,10.0,21.5,84.0,6.0,24.3,"KSCA Cricket (3) Ground, Alur",Fri,Dec,26.0,Group Stage,ODSA,Bowl,SER,ODSA,wickets,4.0,167.0,16.0,Group D,Group D
+SKMvsHP,False,SKM,HP,160.0,6.0,38.0,163.0,1.0,26.1,"Anantam Ground, Jaipur",Thu,Jan,8.0,Group Stage,SKM,Bat,SKM,HP,wickets,9.0,323.0,7.0,Group C,Group C
+SKMvsMAH,False,SKM,MAH,150.0,10.0,40.2,153.0,2.0,18.0,"KL Saini Ground, Jaipur",Fri,Dec,26.0,Group Stage,MAH,Bowl,SKM,MAH,wickets,8.0,303.0,12.0,Group C,Group C
+SKMvsMUM,False,SKM,MUM,236.0,7.0,50.0,237.0,2.0,30.3,"Sawai Mansingh Stadium, Jaipur",Wed,Dec,24.0,Group Stage,SKM,Bat,SKM,MUM,wickets,8.0,473.0,9.0,Group C,Group C
+SKMvsPUN,False,SKM,PUN,75.0,10.0,22.2,81.0,0.0,6.2,"Jaipuria Vidyalaya Ground, Jaipur",Sat,Jan,3.0,Group Stage,PUN,Bowl,SKM,PUN,wickets,10.0,156.0,10.0,Group C,Group C
+SKMvsUTK,False,SKM,UTK,219.0,8.0,33.0,223.0,4.0,31.1,"Dr Soni Stadium, Jaipur",Tue,Jan,6.0,Group Stage,UTK,Bowl,SKM,UTK,wickets,6.0,442.0,12.0,Group C,Group C
+TNvsJHKD,False,TN,JHKD,243.0,10.0,45.0,244.0,1.0,41.0,"Narendra Modi Stadium, Ahmedabad",Wed,Dec,31.0,Group Stage,JHKD,Bowl,TN,JHKD,wickets,9.0,487.0,11.0,Group A,Group A
+TNvsKAR,False,TN,KAR,288.0,10.0,49.5,293.0,6.0,47.1,"Gujarat College Ground, Ahmedabad",Mon,Dec,29.0,Group Stage,KAR,Bowl,TN,KAR,wickets,4.0,581.0,16.0,Group A,Group A
+TNvsKER,False,TN,KER,294.0,8.0,50.0,217.0,10.0,40.2,"ADSA Railways Cricket Ground, Ahmedabad",Thu,Jan,8.0,Group Stage,KER,Bowl,TN,TN,runs,77.0,511.0,18.0,Group A,Group A
+TNvsMP,False,TN,MP,280.0,10.0,49.3,283.0,8.0,49.2,"Gujarat College Ground, Ahmedabad",Fri,Dec,26.0,Group Stage,TN,Bat,TN,MP,wickets,2.0,563.0,18.0,Group A,Group A
+TNvsPDC,False,TN,PDC,310.0,7.0,50.0,209.0,10.0,46.5,"Narendra Modi Stadium, Ahmedabad",Wed,Dec,24.0,Group Stage,PDC,Bowl,TN,TN,runs,101.0,519.0,17.0,Group A,Group A
+TNvsTRI,False,TN,TRI,259.0,6.0,50.0,205.0,10.0,42.4,"Narendra Modi Stadium B Ground, Ahmedabad",Tue,Jan,6.0,Group Stage,TRI,Bowl,TN,TN,runs,54.0,464.0,16.0,Group A,Group A
+TRIvsJHKD,False,TRI,JHKD,320.0,10.0,50.0,123.0,10.0,31.1,"Gujarat College Ground, Ahmedabad",Thu,Jan,8.0,Group Stage,TRI,Bat,TRI,TRI,runs,197.0,443.0,20.0,Group A,Group A
+TRIvsMP,False,TRI,MP,286.0,7.0,50.0,287.0,6.0,44.0,"Narendra Modi Stadium B Ground, Ahmedabad",Wed,Dec,31.0,Group Stage,MP,Bowl,TRI,MP,wickets,4.0,573.0,13.0,Group A,Group A
+TRIvsRAJ,False,TRI,RAJ,286.0,10.0,49.5,220.0,10.0,44.2,"ADSA Railways Cricket Ground, Ahmedabad",Mon,Dec,29.0,Group Stage,TRI,Bat,TRI,TRI,runs,66.0,506.0,20.0,Group A,Group A
+UPvsBRD,False,UP,BRD,369.0,7.0,50.0,315.0,10.0,50.0,"Sanosara Cricket Ground A, Rajkot",Mon,Dec,29.0,Group Stage,BRD,Bowl,UP,UP,runs,54.0,684.0,17.0,Group B,Group B
+UPvsCDG,False,UP,CDG,367.0,4.0,50.0,140.0,10.0,29.3,"Sanosara Cricket Ground A, Rajkot",Fri,Dec,26.0,Group Stage,CDG,Bowl,UP,UP,runs,227.0,507.0,14.0,Group B,Group B
+UPvsHYD,False,UP,HYD,324.0,5.0,50.0,240.0,10.0,43.0,"Niranjan Shah Stadium, Khandheri, Rajkot",Wed,Dec,24.0,Group Stage,HYD,Bowl,UP,UP,runs,84.0,564.0,15.0,Group B,Group B
+UPvsJK,False,UP,JK,322.0,5.0,48.0,264.0,8.0,48.0,"Niranjan Shah Stadium C, Rajkot",Sat,Jan,3.0,Group Stage,Jammu and Kashmir,Bowl,UP,UP,runs,58.0,586.0,13.0,Group B,Group B
+UPvsSAUR,False,UP,SAUR,310.0,8.0,50.0,238.0,3.0,40.1,"BCCI Centre of Excellence Ground 2, Bengaluru",Mon,Jan,12.0,Quarter Final,SAUR,Bowl,UP,UP,runs,72.0,548.0,11.0,Group B,Group D
+UPvsVID,False,UP,VID,339.0,5.0,50.0,285.0,9.0,50.0,"Niranjan Shah Stadium C, Rajkot",Tue,Jan,6.0,Group Stage,VID,Bowl,UP,UP,runs,54.0,624.0,14.0,Group B,Group B
+VIDvsASM,False,VID,ASM,308.0,7.0,50.0,148.0,10.0,35.0,"Sanosara Cricket Ground A, Rajkot",Thu,Jan,8.0,Group Stage,ASM,Bowl,VID,VID,runs,160.0,456.0,17.0,Group B,Group B
+VIDvsBEN,False,VID,BEN,382.0,5.0,50.0,383.0,7.0,48.5,"Sanosara Cricket Ground A, Rajkot",Wed,Dec,24.0,Group Stage,BEN,Bowl,VID,BEN,wickets,3.0,765.0,12.0,Group B,Group B
+VIDvsDEL,False,VID,DEL,300.0,9.0,50.0,224.0,10.0,45.1,"BCCI Centre of Excellence Ground 2, Bengaluru",Tue,Jan,13.0,Quarter Final,DEL,Bowl,VID,VID,runs,76.0,524.0,19.0,Group B,Group D
+VIDvsHYD,False,VID,HYD,365.0,5.0,50.0,276.0,10.0,49.2,"Sanosara Cricket Ground B, Rajkot",Fri,Dec,26.0,Group Stage,HYD,Bowl,VID,VID,runs,89.0,641.0,15.0,Group B,Group B
+VIDvsSAUR,False,VID,SAUR,317.0,8.0,50.0,279.0,10.0,48.5,"BCCI Centre of Excellence Ground 1, Bengaluru",Sun,Jan,18.0,Final,SAUR,Bowl,VID,VID,runs,38.0,596.0,18.0,Group B,Group D
+ARNPvsMGLY,True,ARNP,MGLY,189.0,10.0,44.2,193.0,4.0,23.1,"Usha Martin Ground, Ranchi",Wed,Dec,31.0,Plate Group,ARNP,Bat,ARNP,MGLY,wickets,6.0,382.0,14.0,Plate,Plate
+ARNPvsMIZ,True,ARNP,MIZ,254.0,10.0,49.4,219.0,10.0,44.4,"JSCA Oval Ground, Ranchi",Fri,Dec,26.0,Plate Group,ARNP,Bat,ARNP,ARNP,runs,35.0,473.0,20.0,Plate,Plate
+ARNPvsMNP,True,ARNP,MNP,246.0,10.0,49.5,250.0,6.0,46.3,"Usha Martin Ground, Ranchi",Mon,Dec,29.0,Plate Group,MNP,Bowl,ARNP,MNP,wickets,4.0,496.0,16.0,Plate,Plate
+ARNPvsNGL,True,ARNP,NGL,244.0,6.0,50.0,245.0,1.0,39.2,"JSCA International Stadium Complex, Ranchi",Sat,Jan,3.0,Plate Group,NGL,Bowl,ARNP,NGL,wickets,9.0,489.0,7.0,Plate,Plate
+BIHvsARNP,True,BIH,ARNP,574.0,6.0,50.0,177.0,10.0,42.1,"JSCA Oval Ground, Ranchi",Wed,Dec,24.0,Plate Group,BIH,Bat,BIH,BIH,runs,397.0,751.0,16.0,Plate,Plate
+BIHvsMNP,True,BIH,MNP,284.0,10.0,50.0,269.0,9.0,50.0,"JSCA International Stadium Complex, Ranchi",Fri,Dec,26.0,Plate Group,MNP,Bowl,BIH,BIH,runs,15.0,553.0,19.0,Plate,Plate
+MGLYvsBIH,True,MGLY,BIH,217.0,9.0,50.0,220.0,2.0,32.3,"JSCA International Stadium Complex, Ranchi",Mon,Dec,29.0,Plate Group,BIH,Bowl,MGLY,BIH,wickets,8.0,437.0,11.0,Plate,Plate
+MGLYvsMIZ,True,MGLY,MIZ,291.0,10.0,49.5,212.0,10.0,38.5,"JSCA International Stadium Complex, Ranchi",Wed,Dec,24.0,Plate Group,MIZ,Bowl,MGLY,MGLY,runs,79.0,503.0,20.0,Plate,Plate
+MGLYvsMNP,True,MGLY,MNP,238.0,10.0,45.0,241.0,7.0,43.3,"JSCA Oval Ground, Ranchi",Sat,Jan,3.0,Plate Group,MNP,Bowl,MGLY,MNP,wickets,3.0,479.0,17.0,Plate,Plate
+MGLYvsNGL,True,MGLY,NGL,190.0,10.0,49.3,192.0,3.0,36.5,"Usha Martin Ground, Ranchi",Fri,Dec,26.0,Plate Group,MGLY,Bat,MGLY,NGL,wickets,7.0,382.0,13.0,Plate,Plate
+MIZvsBIH,True,MIZ,BIH,258.0,10.0,45.4,262.0,5.0,34.1,"Usha Martin Ground, Ranchi",Sat,Jan,3.0,Plate Group,MIZ,Bat,MIZ,BIH,wickets,5.0,520.0,15.0,Plate,Plate
+MIZvsMNP,True,MIZ,MNP,200.0,10.0,45.5,205.0,2.0,34.1,"JSCA International Stadium Complex, Ranchi",Wed,Dec,31.0,Plate Group,MNP,Bowl,MIZ,MNP,wickets,8.0,405.0,12.0,Plate,Plate
+MNPvsBIH,True,MNP,BIH,169.0,10.0,47.5,170.0,4.0,31.2,"JSCA International Stadium Complex, Ranchi",Tue,Jan,6.0,Plate Group,BIH,Bowl,MNP,BIH,wickets,6.0,339.0,14.0,Plate,Plate
+NGLvsBIH,True,NGL,BIH,212.0,10.0,46.1,214.0,2.0,37.5,"JSCA Oval Ground, Ranchi",Wed,Dec,31.0,Plate Group,NGL,Bat,NGL,BIH,wickets,8.0,426.0,12.0,Plate,Plate
+NGLvsMIZ,True,NGL,MIZ,399.0,4.0,50.0,222.0,10.0,42.0,"JSCA Oval Ground, Ranchi",Mon,Dec,29.0,Plate Group,NGL,Bat,NGL,NGL,runs,177.0,621.0,14.0,Plate,Plate
+NGLvsMNP,True,NGL,MNP,237.0,10.0,48.3,241.0,9.0,49.5,"Usha Martin Ground, Ranchi",Wed,Dec,24.0,Plate Group,MNP,Bowl,NGL,MNP,wickets,1.0,478.0,19.0,Plate,Plate

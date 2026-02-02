@@ -1,0 +1,39 @@
+Group,Pos,Team,P,W,L,Pts,NRR,Team_Clean,Qualified,No_Result
+Group D,1,DEL (Q),7,6,1,24,1.809,DEL,True,0
+Group D,2,SAUR (Q),7,5,2,20,0.857,SAUR,True,0
+Group D,3,HAR (E),7,4,2,18,-0.306,HAR,False,0
+Group D,4,RLYS (E),7,4,3,16,-0.191,RLYS,False,0
+Group D,5,GUJ (E),7,3,4,12,0.382,GUJ,False,0
+Group D,6,ODSA (E),7,3,4,12,-0.109,ODSA,False,0
+Group D,7,AP (E),7,2,4,10,-0.276,AP,False,0
+Group D,8,SER (E),7,0,7,0,-2.177,SER,False,0
+Group C,1,PUN (Q),7,6,1,24,1.508,PUN,True,0
+Group C,2,MUM (Q),7,5,2,20,1.239,MUM,True,0
+Group C,3,MAH (E),7,4,3,16,1.461,MAH,False,0
+Group C,4,CG (E),7,4,3,16,-0.173,CG,False,0
+Group C,5,HP (E),7,3,4,12,0.239,HP,False,0
+Group C,6,GOA (E),7,3,4,12,-0.293,GOA,False,0
+Group C,7,UTK (E),7,3,4,12,-0.699,UTK,False,0
+Group C,8,SKM (E),7,0,7,0,-3.39,SKM,False,0
+Group B,1,UP (Q),7,7,0,28,1.737,UP,True,0
+Group B,2,VID (Q),7,5,2,20,1.264,VID,True,0
+Group B,3,BRD (E),7,5,2,20,0.712,BRD,False,0
+Group B,4,BEN (E),7,4,3,16,0.366,BEN,False,0
+Group B,5,JK (E),7,3,4,12,-0.426,JK,False,0
+Group B,6,HYD (E),7,2,5,8,0.026,HYD,False,0
+Group B,7,ASM (E),7,1,6,4,-1.38,ASM,False,0
+Group B,8,CDG (E),7,1,6,4,-2.219,CDG,False,0
+Group A,1,KAR (Q),7,6,1,24,0.544,KAR,True,0
+Group A,2,MP (Q),7,5,2,20,0.834,MP,True,0
+Group A,3,KER (E),7,4,3,16,0.554,KER,False,0
+Group A,4,JHKD (E),7,4,3,16,0.047,JHKD,False,0
+Group A,5,TN (E),7,3,4,12,0.431,TN,False,0
+Group A,6,TRI (E),7,3,4,12,0.125,TRI,False,0
+Group A,7,RAJ (E),7,2,5,8,-0.717,RAJ,False,0
+Group A,8,PDC (E),7,1,6,4,-1.849,PDC,False,0
+Plate,1,BIH (Q),5,5,0,20,3.067,BIH,True,0
+Plate,2,MNP (Q),5,4,1,16,0.564,MNP,True,0
+Plate,3,NGL,5,3,2,12,1.007,NGL,False,0
+Plate,4,MGLY,5,2,3,8,0.107,MGLY,False,0
+Plate,5,ARNP,5,1,4,4,-2.646,ARNP,False,0
+Plate,6,MIZ,5,0,5,0,-2.019,MIZ,False,0

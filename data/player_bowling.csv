@@ -1,0 +1,1670 @@
+Unnamed: 0,Against,Team,Bowler,Overs,Maidens,Runs,Wickets,Economy,match_id,is_plate,bowling_position
+0,AP,DEL,Ishant,7.0,3,28,0,0,APvsDEL,False,1
+1,AP,DEL,Navdeep Saini,10.0,0,79,0,3,APvsDEL,False,2
+2,AP,DEL,Simarjeet Singh,10.0,1,54,5,6,APvsDEL,False,3
+3,AP,DEL,Prince Yadav,10.0,2,50,3,3,APvsDEL,False,4
+4,AP,DEL,Harsh Tyagi,8.0,1,48,0,0,APvsDEL,False,5
+5,AP,DEL,Nitish Rana,5.0,0,33,0,0,APvsDEL,False,6
+6,DEL,AP,Nitish Kumar Reddy (c),5.0,0,49,1,0,APvsDEL,False,1
+7,DEL,AP,Satyanarayana Raju,10.0,0,74,2,1,APvsDEL,False,2
+8,DEL,AP,Tripurana Vijay,7.0,0,75,0,1,APvsDEL,False,3
+9,DEL,AP,Saurabh Kumar,9.0,0,52,0,1,APvsDEL,False,4
+10,DEL,AP,K S Narasimha Raju,5.0,0,44,1,0,APvsDEL,False,5
+11,DEL,AP,Maramreddy Hemanth Reddy,1.4,0,6,2,0,APvsDEL,False,6
+0,AP,ODSA,Rajesh Mohanty,10.0,0,58,1,0,APvsODSA,False,1
+1,AP,ODSA,Debabrata Pradhan,10.0,1,34,1,0,APvsODSA,False,2
+2,AP,ODSA,Sambit S Baral,8.0,1,31,1,0,APvsODSA,False,3
+3,AP,ODSA,Badal Biswal,6.0,2,22,1,0,APvsODSA,False,4
+4,AP,ODSA,Samantray (c),7.2,0,36,3,0,APvsODSA,False,5
+5,AP,ODSA,G Poddar,8.0,1,36,3,0,APvsODSA,False,6
+6,ODSA,AP,Nitish Kumar Reddy (c),8.0,1,37,1,0,APvsODSA,False,1
+7,ODSA,AP,Satyanarayana Raju,9.0,0,49,2,0,APvsODSA,False,2
+8,ODSA,AP,K S Narasimha Raju,6.0,0,31,0,0,APvsODSA,False,3
+9,ODSA,AP,Saurabh Kumar,10.0,0,35,0,0,APvsODSA,False,4
+10,ODSA,AP,Maramreddy Hemanth Reddy,5.4,0,35,1,0,APvsODSA,False,5
+11,ODSA,AP,Tripurana Vijay,5.0,0,36,0,0,APvsODSA,False,6
+0,ASM,BRD,Rasikh Salam,9.0,0,47,1,1,ASMvsBRD,False,1
+1,ASM,BRD,Raj Limbani,10.0,0,66,3,1,ASMvsBRD,False,2
+2,ASM,BRD,A Sheth,8.4,0,56,4,1,ASMvsBRD,False,3
+3,ASM,BRD,Krunal Pandya (c),10.0,0,51,0,1,ASMvsBRD,False,4
+4,ASM,BRD,Aryan Chavda,10.0,1,47,2,0,ASMvsBRD,False,5
+5,ASM,BRD,Priyanshu Moliya,1.0,0,3,0,0,ASMvsBRD,False,6
+6,BRD,ASM,Mukhtar Hussain,9.0,0,57,0,0,ASMvsBRD,False,1
+7,BRD,ASM,Ayushman Malakar,5.0,0,27,1,1,ASMvsBRD,False,2
+8,BRD,ASM,Akash Sengupta,5.0,0,37,0,0,ASMvsBRD,False,3
+9,BRD,ASM,Avinov Choudhury,9.5,0,63,0,0,ASMvsBRD,False,4
+10,BRD,ASM,Bhargab Lahkar,8.0,0,43,1,0,ASMvsBRD,False,5
+11,BRD,ASM,Swarupam Purkayastha,9.0,0,44,3,0,ASMvsBRD,False,6
+12,BRD,ASM,Sibsankar Roy,2.0,0,11,0,0,ASMvsBRD,False,7
+0,ASM,CDG,Jagjit Singh,10.0,0,61,0,0,ASMvsCDG,False,1
+1,ASM,CDG,Rohit Dhanda,8.0,0,38,2,0,ASMvsCDG,False,2
+2,ASM,CDG,Nishunk Birla,10.0,0,37,3,0,ASMvsCDG,False,3
+3,ASM,CDG,Hartejassvi Kapoor,9.0,0,59,0,0,ASMvsCDG,False,4
+4,ASM,CDG,Taranpreet Singh,3.0,0,25,0,0,ASMvsCDG,False,5
+5,ASM,CDG,Vishu Kashyap,10.0,0,58,1,0,ASMvsCDG,False,6
+6,CDG,ASM,Mukhtar Hussain,10.0,1,43,0,0,ASMvsCDG,False,1
+7,CDG,ASM,Akash Sengupta,10.0,0,65,1,0,ASMvsCDG,False,2
+8,CDG,ASM,Abdul Ajij Kuraishi,4.0,0,42,0,0,ASMvsCDG,False,3
+9,CDG,ASM,Rahul Singh,7.2,0,50,0,0,ASMvsCDG,False,4
+10,CDG,ASM,Avinov Choudhury,5.0,0,41,0,0,ASMvsCDG,False,5
+11,CDG,ASM,Swarupam Purkayastha,10.0,0,37,1,0,ASMvsCDG,False,6
+12,CDG,ASM,Denish Das,1.0,0,3,1,0,ASMvsCDG,False,7
+0,ASM,UP,Kunal Tyagi,9.0,0,76,1,12,ASMvsUP,False,1
+1,ASM,UP,Karan Chaudhary,7.0,2,14,1,0,ASMvsUP,False,2
+2,ASM,UP,Prashant Veer,9.0,0,53,1,1,ASMvsUP,False,3
+3,ASM,UP,Zeeshan Ansari,10.0,0,60,3,2,ASMvsUP,False,4
+4,ASM,UP,Vipraj Nigam,9.4,0,66,4,2,ASMvsUP,False,5
+5,ASM,UP,Rinku Singh (c),4.0,0,31,0,0,ASMvsUP,False,6
+6,UP,ASM,Mukhtar Hussain,7.0,1,44,0,0,ASMvsUP,False,1
+7,UP,ASM,Akash Sengupta,6.0,0,45,1,2,ASMvsUP,False,2
+8,UP,ASM,Rahul Singh,9.0,0,46,1,0,ASMvsUP,False,3
+9,UP,ASM,Avinov Choudhury,6.0,0,52,0,3,ASMvsUP,False,4
+10,UP,ASM,Abdul Ajij Kuraishi,8.0,0,63,0,3,ASMvsUP,False,5
+11,UP,ASM,Denish Das,5.0,0,30,0,0,ASMvsUP,False,6
+12,UP,ASM,Swarupam Purkayastha,1.0,0,9,0,0,ASMvsUP,False,7
+0,BEN,ASM,Mukhtar Hussain,8.0,0,59,0,0,BENvsASM,False,1
+1,BEN,ASM,Akash Sengupta,8.0,0,53,2,0,BENvsASM,False,2
+2,BEN,ASM,Avinov Choudhury,10.0,0,57,2,0,BENvsASM,False,3
+3,BEN,ASM,Abdul Ajij Kuraishi,6.0,0,22,1,0,BENvsASM,False,4
+4,BEN,ASM,Rahul Singh,9.0,0,51,2,0,BENvsASM,False,5
+5,BEN,ASM,Denish Das,2.0,0,14,0,0,BENvsASM,False,6
+6,BEN,ASM,Purkayastha,7.0,0,46,0,0,BENvsASM,False,7
+7,ASM,BEN,Mohammed Shami,9.0,0,55,3,0,BENvsASM,False,1
+8,ASM,BEN,Akash Deep,8.0,2,22,0,0,BENvsASM,False,2
+9,ASM,BEN,Mukesh Kumar,7.0,0,47,1,0,BENvsASM,False,3
+10,ASM,BEN,Shahbaz Ahmed,8.0,1,31,1,0,BENvsASM,False,4
+11,ASM,BEN,Rohit Das,9.1,0,41,2,0,BENvsASM,False,5
+12,ASM,BEN,Karan Lal,1.0,0,9,0,0,BENvsASM,False,6
+0,BEN,BRD,Rasikh Salam,7.0,0,37,1,0,BENvsBRD,False,1
+1,BEN,BRD,Raj Limbani,10.0,0,65,5,0,BENvsBRD,False,2
+2,BEN,BRD,A Sheth,6.0,0,35,0,0,BENvsBRD,False,3
+3,BEN,BRD,Krunal Pandya (c),10.0,0,39,3,0,BENvsBRD,False,4
+4,BEN,BRD,Aryan Chavda,5.3,0,27,1,0,BENvsBRD,False,5
+5,BRD,BEN,Mohammed Shami,9.0,2,42,1,0,BENvsBRD,False,1
+6,BRD,BEN,Mukesh Kumar,5.0,0,33,0,0,BENvsBRD,False,2
+7,BRD,BEN,Akash Deep,7.5,0,46,1,0,BENvsBRD,False,3
+8,BRD,BEN,Aamir Gani,10.0,0,33,2,0,BENvsBRD,False,4
+9,BRD,BEN,Shahbaz Ahmed,7.0,0,52,2,0,BENvsBRD,False,5
+0,BEN,UP,Kunal Tyagi,6.0,0,55,1,0,BENvsUP,False,1
+1,BEN,UP,Karan Chaudhary,7.0,0,41,2,0,BENvsUP,False,2
+2,BEN,UP,Prashant Veer,9.0,0,59,1,0,BENvsUP,False,3
+3,BEN,UP,Zeeshan Ansari,9.0,0,33,3,0,BENvsUP,False,4
+4,BEN,UP,Vipraj Nigam,7.1,0,36,2,0,BENvsUP,False,5
+5,BEN,UP,Rinku Singh (c),7.0,0,41,1,0,BENvsUP,False,6
+6,UP,BEN,Mohammed Shami,7.0,0,53,1,0,BENvsUP,False,1
+7,UP,BEN,Akash Deep,6.0,0,27,1,0,BENvsUP,False,2
+8,UP,BEN,Shahbaz Ahmed,7.0,0,49,0,1,BENvsUP,False,3
+9,UP,BEN,Ankit Mishra,9.0,0,68,1,1,BENvsUP,False,4
+10,UP,BEN,Vishal Sunil Bhati,2.0,0,17,0,0,BENvsUP,False,5
+11,UP,BEN,Rohit Das,9.2,1,45,1,2,BENvsUP,False,6
+12,UP,BEN,Karan Lal,2.0,0,6,0,0,BENvsUP,False,7
+0,BRD,CDG,Jagjit Singh,9.1,0,54,3,1,BRDvsCDG,False,1
+1,BRD,CDG,Rohit Dhanda,10.0,0,73,2,0,BRDvsCDG,False,2
+2,BRD,CDG,Nishunk Birla,10.0,0,67,1,0,BRDvsCDG,False,3
+3,BRD,CDG,Hartejassvi Kapoor,10.0,0,80,2,3,BRDvsCDG,False,4
+4,BRD,CDG,Vishu Kashyap,6.0,0,57,1,0,BRDvsCDG,False,5
+5,BRD,CDG,Taranpreet Singh,4.0,0,59,1,1,BRDvsCDG,False,6
+6,CDG,BRD,Hardik Pandya,10.0,0,66,3,4,BRDvsCDG,False,1
+7,CDG,BRD,Rasikh Dar Salam,5.0,0,22,2,3,BRDvsCDG,False,2
+8,CDG,BRD,Raj Limbani,5.0,0,31,0,0,BRDvsCDG,False,3
+9,CDG,BRD,Krunal Pandya (c),8.0,0,44,1,2,BRDvsCDG,False,4
+10,CDG,BRD,Ninad Ashvinkumar Rathva,6.0,0,45,1,2,BRDvsCDG,False,5
+11,CDG,BRD,Mahesh Pithiya,6.0,0,34,3,0,BRDvsCDG,False,6
+0,BRD,HYD,Chinntla Rakshan Readdi,10.0,0,75,0,0,BRDvsHYD,False,1
+1,BRD,HYD,Milind (c),10.0,0,78,2,0,BRDvsHYD,False,2
+2,BRD,HYD,T Thyagarajan,8.0,0,71,1,0,BRDvsHYD,False,3
+3,BRD,HYD,Arfaz Ahmed Mohammad,8.0,0,70,0,0,BRDvsHYD,False,4
+4,BRD,HYD,Nitin Sai Yadav,8.0,0,69,0,0,BRDvsHYD,False,5
+5,BRD,HYD,K Nitesh Reddy,4.0,0,38,0,0,BRDvsHYD,False,6
+6,BRD,HYD,Aelgani Varun Goud,2.0,0,13,1,0,BRDvsHYD,False,7
+7,HYD,BRD,Karan Umatt,10.0,0,84,2,0,BRDvsHYD,False,1
+8,HYD,BRD,Atit Sheth,10.0,0,73,3,0,BRDvsHYD,False,2
+9,HYD,BRD,Mahesh Pithiya,9.5,0,64,3,0,BRDvsHYD,False,3
+10,HYD,BRD,Raj Limbani,10.0,0,96,2,0,BRDvsHYD,False,4
+11,HYD,BRD,Krunal Pandya (c),10.0,0,59,0,0,BRDvsHYD,False,5
+0,BRD,JK,Auqib Nabi,10.0,1,52,4,0,BRDvsJK,False,1
+1,BRD,JK,Yudhvir Singh,10.0,0,56,3,0,BRDvsJK,False,2
+2,BRD,JK,Sunil Kumar,10.0,0,67,1,0,BRDvsJK,False,3
+3,BRD,JK,Abid Mushtaq,5.0,0,40,0,0,BRDvsJK,False,4
+4,BRD,JK,Vanshaj Sharma,10.0,0,74,1,0,BRDvsJK,False,5
+5,BRD,JK,Sahil Lotra,5.0,0,34,0,0,BRDvsJK,False,6
+6,JK,BRD,Rasikh Dar Salam,5.0,2,15,1,0,BRDvsJK,False,1
+7,JK,BRD,Karan Umatt,8.0,0,42,2,0,BRDvsJK,False,2
+8,JK,BRD,Atit Sheth,7.3,0,63,2,0,BRDvsJK,False,3
+9,JK,BRD,Krunal Pandya (c),9.0,0,45,2,0,BRDvsJK,False,4
+10,JK,BRD,Aryan Chavda,8.0,0,55,0,0,BRDvsJK,False,5
+11,JK,BRD,Mahesh Pithiya,8.0,0,29,2,0,BRDvsJK,False,6
+0,BRD,VID,Praful Hinge,10.0,1,47,1,0,BRDvsVID,False,1
+1,BRD,VID,Nachiket Bhute,10.0,0,61,2,2,BRDvsVID,False,2
+2,BRD,VID,Harsh Dubey (c),10.0,1,41,0,0,BRDvsVID,False,3
+3,BRD,VID,Yash Thakur,10.0,0,64,4,6,BRDvsVID,False,4
+4,BRD,VID,Parth Rekhade,10.0,0,80,2,0,BRDvsVID,False,5
+5,VID,BRD,Hardik Pandya,2.0,0,15,0,3,BRDvsVID,False,1
+6,VID,BRD,Karan Umatt,7.0,0,55,0,1,BRDvsVID,False,2
+7,VID,BRD,Atit Sheth,7.0,0,60,0,0,BRDvsVID,False,3
+8,VID,BRD,Raj Limbani,9.4,0,78,0,8,BRDvsVID,False,4
+9,VID,BRD,Mahesh Pithiya,8.0,0,40,1,0,BRDvsVID,False,5
+10,VID,BRD,Krunal Pandya (c),8.0,0,48,0,4,BRDvsVID,False,6
+0,CDG,BEN,Shami,9.2,1,69,3,3,CDGvsBEN,False,1
+1,CDG,BEN,Akash Deep,9.0,0,56,0,4,CDGvsBEN,False,2
+2,CDG,BEN,Mukesh Kumar,10.0,0,59,5,5,CDGvsBEN,False,3
+3,CDG,BEN,Shahbaz Ahmed,9.0,0,51,2,0,CDGvsBEN,False,4
+4,CDG,BEN,Karan Lal,8.0,0,53,0,1,CDGvsBEN,False,5
+5,CDG,BEN,Vishal Bhati,3.0,0,20,0,0,CDGvsBEN,False,6
+6,BEN,CDG,Jagjit Singh,8.0,0,76,1,2,CDGvsBEN,False,1
+7,BEN,CDG,Rohit Dhanda,10.0,1,66,1,1,CDGvsBEN,False,2
+8,BEN,CDG,Hartejassvi Kapoor,9.0,0,71,0,3,CDGvsBEN,False,3
+9,BEN,CDG,Nishunk Birla,10.0,0,50,1,1,CDGvsBEN,False,4
+10,BEN,CDG,Arslan Khan,7.0,0,38,0,0,CDGvsBEN,False,5
+11,BEN,CDG,Taranpreet Singh,3.4,0,15,1,0,CDGvsBEN,False,6
+0,CDG,JK,Auqib Nabi,8.0,1,26,2,1,CDGvsJK,False,1
+1,CDG,JK,Yudhvir Singh,7.0,0,49,0,1,CDGvsJK,False,2
+2,CDG,JK,Nasir Lone,9.0,1,44,4,1,CDGvsJK,False,3
+3,CDG,JK,M Ashwin,9.0,0,57,1,1,CDGvsJK,False,4
+4,CDG,JK,Abid Mushtaq,6.5,1,25,2,0,CDGvsJK,False,5
+5,JK,CDG,Sandeep Sharma,6.0,0,37,0,1,CDGvsJK,False,1
+6,JK,CDG,Jagjit Singh,6.0,0,47,0,1,CDGvsJK,False,2
+7,JK,CDG,Rohit Dhanda,6.0,0,36,0,0,CDGvsJK,False,3
+8,JK,CDG,Nishunk Birla,10.0,0,32,0,0,CDGvsJK,False,4
+9,JK,CDG,Taranpreet Singh,4.0,1,24,0,0,CDGvsJK,False,5
+10,JK,CDG,Vishu Kashyap,5.0,0,32,0,1,CDGvsJK,False,6
+0,CDG,VID,Darshan Nalkande,6.1,0,33,4,1,CDGvsVID,False,1
+1,CDG,VID,Nachiket Bhute,7.0,1,18,2,1,CDGvsVID,False,2
+2,CDG,VID,Yash Kadam,6.0,0,23,1,0,CDGvsVID,False,3
+3,CDG,VID,Dipesh Parwani,5.0,0,22,2,1,CDGvsVID,False,4
+4,CDG,VID,Harsh Dubey (c),5.0,0,12,0,0,CDGvsVID,False,5
+5,VID,CDG,Sandeep Sharma,4.0,0,16,1,0,CDGvsVID,False,1
+6,VID,CDG,Jagjit Singh,6.0,0,24,0,1,CDGvsVID,False,2
+7,VID,CDG,Rohit Dhanda,6.0,0,35,1,1,CDGvsVID,False,3
+8,VID,CDG,Nishunk Birla,4.0,0,19,0,1,CDGvsVID,False,4
+9,VID,CDG,Taranpreet Singh,1.3,0,11,0,0,CDGvsVID,False,5
+10,VID,CDG,Arslan Khan,1.0,0,8,0,0,CDGvsVID,False,6
+0,CG,GOA,V Koushik,9.5,0,40,4,0,CGvsGOA,False,1
+1,CG,GOA,Samit Mishra,9.0,1,42,1,0,CGvsGOA,False,2
+2,CG,GOA,Deepraj Gaonkar (c),10.0,0,35,4,0,CGvsGOA,False,3
+3,CG,GOA,Lalit Yadav,6.0,0,39,0,0,CGvsGOA,False,4
+4,CG,GOA,Darshan Misal,8.0,0,39,1,0,CGvsGOA,False,5
+5,CG,GOA,Vikash Kanwar,6.0,0,36,0,0,CGvsGOA,False,6
+6,GOA,CG,Ravi Kiran,9.0,1,34,0,0,CGvsGOA,False,1
+7,GOA,CG,Sourabh Majumdar,7.0,1,19,0,0,CGvsGOA,False,2
+8,GOA,CG,Mayank Yadav,6.0,0,46,0,0,CGvsGOA,False,3
+9,GOA,CG,Ajay Jadav Mandal,9.0,0,40,1,0,CGvsGOA,False,4
+10,GOA,CG,Shubham Agarwal,10.0,0,73,3,0,CGvsGOA,False,5
+11,GOA,CG,Vikalp Tiwari,3.0,0,18,0,0,CGvsGOA,False,6
+12,GOA,CG,Sanjeet Desai,0.1,0,1,0,0,CGvsGOA,False,7
+0,CG,MAH,Pradeep Dadhe,5.0,0,25,3,0,CGvsMAH,False,1
+1,CG,MAH,Ramakrishna Ghosh,3.0,0,23,0,0,CGvsMAH,False,2
+2,CG,MAH,Rajvardhan Hangargekar,4.0,0,22,1,0,CGvsMAH,False,3
+3,CG,MAH,Vicky Ostwal,7.0,0,33,3,0,CGvsMAH,False,4
+4,CG,MAH,Satyajeet Bachhav,5.0,0,33,1,0,CGvsMAH,False,5
+5,CG,MAH,Siddhesh Veer,5.0,0,25,0,0,CGvsMAH,False,6
+6,MAH,CG,Ravi Kiran,6.0,0,30,3,0,CGvsMAH,False,1
+7,MAH,CG,Dev Aditya Singh,5.0,0,18,0,0,CGvsMAH,False,2
+8,MAH,CG,Mohit Raut,6.0,0,32,1,0,CGvsMAH,False,3
+9,MAH,CG,Vashudev Bareth,3.0,0,30,0,0,CGvsMAH,False,4
+10,MAH,CG,Ajay Jadav Mandal,7.0,0,30,2,0,CGvsMAH,False,5
+11,MAH,CG,Vikalp Tiwari,4.0,0,19,1,0,CGvsMAH,False,6
+0,CG,MUM,Thakur (c),5.0,1,13,4,0,CGvsMUM,False,1
+1,CG,MUM,Tushar Deshpande,4.0,0,19,0,0,CGvsMUM,False,2
+2,CG,MUM,Tanush Kotian,10.0,1,34,0,0,CGvsMUM,False,3
+3,CG,MUM,Onkar Tarmale,5.0,1,26,0,0,CGvsMUM,False,4
+4,CG,MUM,Shams Mulani,9.1,1,31,5,0,CGvsMUM,False,5
+5,CG,MUM,Musheer Khan,5.0,0,15,1,0,CGvsMUM,False,6
+6,MUM,CG,Ravi Kiran,5.0,0,18,0,0,CGvsMUM,False,1
+7,MUM,CG,Aditya Sarwate,5.0,0,25,0,0,CGvsMUM,False,2
+8,MUM,CG,Sourabh Majumdar,5.0,0,18,0,0,CGvsMUM,False,3
+9,MUM,CG,Harsh Yadav,4.0,1,44,1,0,CGvsMUM,False,4
+10,MUM,CG,Ajay Jadav Mandal,3.0,0,20,0,0,CGvsMUM,False,5
+11,MUM,CG,Mohit Raut,2.0,0,12,0,0,CGvsMUM,False,6
+0,CG,PUN,Gurnoor Brar,10.0,1,57,1,0,CGvsPUN,False,1
+1,CG,PUN,Sukhdeep Bajwa,7.4,0,43,2,0,CGvsPUN,False,2
+2,CG,PUN,Krish Bhagat,8.0,0,33,3,0,CGvsPUN,False,3
+3,CG,PUN,Ramandeep Singh,3.0,0,14,0,0,CGvsPUN,False,4
+4,CG,PUN,Harpreet Brar,10.0,0,56,0,0,CGvsPUN,False,5
+5,CG,PUN,Raghu Sharma,10.0,0,45,2,0,CGvsPUN,False,6
+6,PUN,CG,Ravi Kiran,8.0,1,30,0,0,CGvsPUN,False,1
+7,PUN,CG,Sourabh Majumdar,8.0,0,48,0,0,CGvsPUN,False,2
+8,PUN,CG,Harsh Yadav,5.0,0,41,0,0,CGvsPUN,False,3
+9,PUN,CG,Mohit Raut,9.0,0,41,1,0,CGvsPUN,False,4
+10,PUN,CG,Vikalp Tiwari,4.0,0,25,0,0,CGvsPUN,False,5
+11,PUN,CG,Shubham Agarwal,7.0,0,57,0,0,CGvsPUN,False,6
+12,PUN,CG,Aayush Pandey,1.0,0,8,0,0,CGvsPUN,False,7
+13,PUN,CG,Sanjeet Desai,0.1,0,4,0,0,CGvsPUN,False,8
+0,CG,SKM,Palzor Tamang,10.0,2,77,0,0,CGvsSKM,False,1
+1,CG,SKM,Kranthi Kumar,8.0,0,70,0,3,CGvsSKM,False,2
+2,CG,SKM,Lee Yong Lepcha (c),6.0,0,50,0,1,CGvsSKM,False,3
+3,CG,SKM,Abishek Kumar,10.0,0,45,1,1,CGvsSKM,False,4
+4,CG,SKM,Gurinder Singh,7.0,0,55,0,1,CGvsSKM,False,5
+5,CG,SKM,Md Saptulla,4.0,0,24,1,0,CGvsSKM,False,6
+6,CG,SKM,Ankur Malik,5.0,0,34,1,0,CGvsSKM,False,7
+7,SKM,CG,Dev Aditya Singh,8.0,0,25,4,0,CGvsSKM,False,1
+8,SKM,CG,Harsh Yadav,5.0,1,11,1,0,CGvsSKM,False,2
+9,SKM,CG,Sourabh Majumdar,5.0,1,23,0,0,CGvsSKM,False,3
+10,SKM,CG,Aditya Sarwate,7.0,0,21,0,0,CGvsSKM,False,4
+11,SKM,CG,Ajay Jadav Mandal,7.0,0,40,4,0,CGvsSKM,False,5
+12,SKM,CG,Vikalp Tiwari,2.0,0,5,1,0,CGvsSKM,False,6
+0,CG,UTK,Abhay Negi,10.0,2,41,2,0,CGvsUTK,False,1
+1,CG,UTK,Devendra Singh Bora,9.0,0,55,3,0,CGvsUTK,False,2
+2,CG,UTK,Shashwat Dangwal,4.0,0,21,0,0,CGvsUTK,False,3
+3,CG,UTK,Mayank Mishra,10.0,0,48,2,0,CGvsUTK,False,4
+4,CG,UTK,Agnivesh Ayachi,6.0,0,31,2,0,CGvsUTK,False,5
+5,CG,UTK,Jagadeesha Suchith,6.0,0,37,1,0,CGvsUTK,False,6
+6,CG,UTK,Harshit Paliwal,5.0,0,28,0,0,CGvsUTK,False,7
+7,UTK,CG,Dev Aditya Singh,10.0,1,33,4,0,CGvsUTK,False,1
+8,UTK,CG,Sourabh Majumdar,10.0,1,46,1,0,CGvsUTK,False,2
+9,UTK,CG,Vashudev Bareth,9.0,0,62,1,0,CGvsUTK,False,3
+10,UTK,CG,Prateek Yadav,3.0,0,19,0,0,CGvsUTK,False,4
+11,UTK,CG,Ajay Jadav Mandal,10.0,0,46,2,0,CGvsUTK,False,5
+12,UTK,CG,Vikalp Tiwari,8.0,0,50,0,0,CGvsUTK,False,6
+0,DEL,GUJ,Nagwaswalla,10.0,1,56,1,4,DELvsGUJ,False,1
+1,DEL,GUJ,Chintan Gaja (c),10.0,1,47,1,0,DELvsGUJ,False,2
+2,DEL,GUJ,Ravi Bishnoi,10.0,0,50,2,0,DELvsGUJ,False,3
+3,DEL,GUJ,Vishal Jayswal,10.0,0,42,4,0,DELvsGUJ,False,4
+4,DEL,GUJ,Amit Desai,10.0,0,59,0,2,DELvsGUJ,False,5
+5,GUJ,DEL,Ishant Sharma,6.0,0,28,2,1,DELvsGUJ,False,1
+6,GUJ,DEL,Navdeep Saini,7.0,0,34,1,4,DELvsGUJ,False,2
+7,GUJ,DEL,Simarjeet Singh,8.0,0,53,1,3,DELvsGUJ,False,3
+8,GUJ,DEL,Prince Yadav,8.4,1,37,3,2,DELvsGUJ,False,4
+9,GUJ,DEL,Nitish Rana,3.0,0,17,0,0,DELvsGUJ,False,5
+10,GUJ,DEL,Ayush Badoni,5.0,0,21,0,0,DELvsGUJ,False,6
+11,GUJ,DEL,Arpit Rana,5.0,0,39,2,0,DELvsGUJ,False,7
+12,GUJ,DEL,Harsh Tyagi,5.0,1,13,0,0,DELvsGUJ,False,8
+0,GOA,HP,Vaibhav Arora,9.0,0,53,1,0,GOAvsHP,False,1
+1,GOA,HP,Rohit Kumar,10.0,0,55,5,0,GOAvsHP,False,2
+2,GOA,HP,Aryaman Singh Dhaliwal,10.0,0,53,0,0,GOAvsHP,False,3
+3,GOA,HP,Akash Vasisht,8.0,0,42,0,0,GOAvsHP,False,4
+4,GOA,HP,Nitin Sharma,2.0,0,16,0,0,GOAvsHP,False,5
+5,GOA,HP,Mridul Surroch (c),10.0,0,50,2,0,GOAvsHP,False,6
+6,GOA,HP,Amanpreet Singh,1.0,0,14,0,0,GOAvsHP,False,7
+7,HP,GOA,Vasuki Koushik,9.3,1,34,2,0,GOAvsHP,False,1
+8,HP,GOA,Arjun Tendulkar,6.0,0,58,0,0,GOAvsHP,False,2
+9,HP,GOA,Deepraj Gaonkar (c),10.0,0,50,5,0,GOAvsHP,False,3
+10,HP,GOA,Shubham Desai,8.0,0,47,1,0,GOAvsHP,False,4
+11,HP,GOA,Darshan Misal,6.0,0,41,1,0,GOAvsHP,False,5
+12,HP,GOA,Lalit Yadav,10.0,0,43,0,0,GOAvsHP,False,6
+0,GOA,PUN,Arshdeep Singh,6.0,0,26,2,0,GOAvsPUN,False,1
+1,GOA,PUN,Sukhdeep Bajwa,4.0,0,32,2,0,GOAvsPUN,False,2
+2,GOA,PUN,Gurnoor Brar,5.0,0,46,0,0,GOAvsPUN,False,3
+3,GOA,PUN,Krish Bhagat,4.3,0,33,2,0,GOAvsPUN,False,4
+4,GOA,PUN,Markande,8.0,0,29,3,0,GOAvsPUN,False,5
+5,GOA,PUN,Naman Dhir,6.0,1,37,1,0,GOAvsPUN,False,6
+6,PUN,GOA,Vasuki Koushik,8.0,0,22,2,0,GOAvsPUN,False,1
+7,PUN,GOA,Arjun Tendulkar,6.0,0,48,0,0,GOAvsPUN,False,2
+8,PUN,GOA,Shubham Tari,6.0,0,49,1,0,GOAvsPUN,False,3
+9,PUN,GOA,Lalit Yadav,5.0,0,34,1,0,GOAvsPUN,False,4
+10,PUN,GOA,Deepraj Gaonkar (c),6.0,0,23,0,0,GOAvsPUN,False,5
+11,PUN,GOA,Vikash Kanwar Singh,4.0,0,34,0,0,GOAvsPUN,False,6
+0,GOA,SKM,Palzor Tamang,10.0,0,61,2,0,GOAvsSKM,False,1
+1,GOA,SKM,Kranthi Kumar,10.0,0,51,1,0,GOAvsSKM,False,2
+2,GOA,SKM,Gurinder Singh,9.0,1,51,2,0,GOAvsSKM,False,3
+3,GOA,SKM,Abishek Kumar,9.0,1,55,1,0,GOAvsSKM,False,4
+4,GOA,SKM,Lee Yong Lepcha (c),6.0,0,46,0,0,GOAvsSKM,False,5
+5,GOA,SKM,Ankur Malik,2.0,0,16,0,0,GOAvsSKM,False,6
+6,GOA,SKM,Md Saptulla,4.0,0,23,1,0,GOAvsSKM,False,7
+7,SKM,GOA,Arjun Tendulkar,9.0,2,49,0,0,GOAvsSKM,False,1
+8,SKM,GOA,Vasuki Koushik,10.0,3,34,3,0,GOAvsSKM,False,2
+9,SKM,GOA,Deepraj Gaonkar (c),7.0,0,29,0,0,GOAvsSKM,False,3
+10,SKM,GOA,Shubham Desai,4.0,0,25,0,0,GOAvsSKM,False,4
+11,SKM,GOA,Darshan Misal,10.0,0,63,1,0,GOAvsSKM,False,5
+12,SKM,GOA,Lalit Yadav,10.0,0,45,1,0,GOAvsSKM,False,6
+0,GOA,UTK,Devendra Singh Bora,8.1,1,41,1,0,GOAvsUTK,False,1
+1,GOA,UTK,Abhay Negi,10.0,0,50,3,0,GOAvsUTK,False,2
+2,GOA,UTK,Agnivesh Ayachi,8.0,0,54,0,0,GOAvsUTK,False,3
+3,GOA,UTK,Mayank Mishra,10.0,0,41,1,0,GOAvsUTK,False,4
+4,GOA,UTK,J Suchith,10.0,0,54,3,0,GOAvsUTK,False,5
+5,GOA,UTK,Shashwat Dangwal,3.0,0,23,0,0,GOAvsUTK,False,6
+6,UTK,GOA,Vasuki Koushik,8.0,0,28,1,0,GOAvsUTK,False,1
+7,UTK,GOA,Arjun Tendulkar,8.0,0,54,0,0,GOAvsUTK,False,2
+8,UTK,GOA,Deepraj Gaonkar (c),9.0,0,57,0,0,GOAvsUTK,False,3
+9,UTK,GOA,Lalit Yadav,10.0,0,50,0,0,GOAvsUTK,False,4
+10,UTK,GOA,Darshan Misal,7.0,0,53,1,0,GOAvsUTK,False,5
+11,UTK,GOA,Shubham Desai,4.2,0,30,1,0,GOAvsUTK,False,6
+0,GUJ,AP,Nitish Reddy (c),10.0,0,65,2,0,GUJvsAP,False,1
+1,GUJ,AP,Satyanarayana Raju,10.0,0,53,4,1,GUJvsAP,False,2
+2,GUJ,AP,Yara Sandeep,10.0,0,46,0,0,GUJvsAP,False,3
+3,GUJ,AP,Jagarlapudi Ram,10.0,0,59,1,1,GUJvsAP,False,4
+4,GUJ,AP,Midde Anjaneyulu,5.0,0,45,2,2,GUJvsAP,False,5
+5,GUJ,AP,Maramreddy Hemanth Reddy,5.0,0,50,0,0,GUJvsAP,False,6
+6,AP,GUJ,Chintan Gaja (c),6.0,0,42,0,1,GUJvsAP,False,1
+7,AP,GUJ,Arzan Nagwaswalla,10.0,0,69,2,1,GUJvsAP,False,2
+8,AP,GUJ,Japagnya Bhatt,9.0,1,61,0,0,GUJvsAP,False,3
+9,AP,GUJ,Axar Patel,6.0,0,27,2,1,GUJvsAP,False,4
+10,AP,GUJ,Vishal Jayswal,10.0,0,47,0,2,GUJvsAP,False,5
+11,AP,GUJ,Ravi Bishnoi,9.0,0,64,3,1,GUJvsAP,False,6
+0,GUJ,ODSA,Rajesh Mohanty,10.0,0,76,0,0,GUJvsODSA,False,1
+1,GUJ,ODSA,Sambit S Baral,4.0,0,25,0,0,GUJvsODSA,False,2
+2,GUJ,ODSA,Debabrata Pradhan,8.0,0,57,1,0,GUJvsODSA,False,3
+3,GUJ,ODSA,Soumya Ranjan Lenka,4.0,0,19,1,0,GUJvsODSA,False,4
+4,GUJ,ODSA,Sayed Tufayl Ahmad,7.0,0,55,0,0,GUJvsODSA,False,5
+5,GUJ,ODSA,G Poddar,10.0,0,44,1,0,GUJvsODSA,False,6
+6,GUJ,ODSA,Kartik Biswal,3.0,0,23,0,0,GUJvsODSA,False,7
+7,GUJ,ODSA,Samantray (c),4.0,0,33,2,0,GUJvsODSA,False,8
+8,ODSA,GUJ,Arzan Nagwaswalla,6.0,1,26,2,0,GUJvsODSA,False,1
+9,ODSA,GUJ,Chintan Gaja (c),9.1,1,31,6,0,GUJvsODSA,False,2
+10,ODSA,GUJ,Japagnya Bhatt,6.0,0,22,2,0,GUJvsODSA,False,3
+11,ODSA,GUJ,Axar Patel,5.0,0,14,0,0,GUJvsODSA,False,4
+12,ODSA,GUJ,Ravi Bishnoi,2.0,0,6,0,0,GUJvsODSA,False,5
+0,GUJ,RLYS,Rahul Sharma,7.0,0,42,1,0,GUJvsRLYS,False,1
+1,GUJ,RLYS,Adarsh Singh,6.0,0,61,1,0,GUJvsRLYS,False,2
+2,GUJ,RLYS,Zubair Ali,9.0,0,38,2,0,GUJvsRLYS,False,3
+3,GUJ,RLYS,Karn Sharma (c),10.0,0,38,2,0,GUJvsRLYS,False,4
+4,GUJ,RLYS,Raj Choudhary,8.4,0,57,3,0,GUJvsRLYS,False,5
+5,GUJ,RLYS,Ansh Yadav,7.0,0,40,1,0,GUJvsRLYS,False,6
+6,RLYS,GUJ,Arzan Nagwaswalla,9.0,0,52,1,0,GUJvsRLYS,False,1
+7,RLYS,GUJ,Chintan Gaja (c),10.0,2,35,2,0,GUJvsRLYS,False,2
+8,RLYS,GUJ,Harshal Patel,9.0,0,63,0,0,GUJvsRLYS,False,3
+9,RLYS,GUJ,Ravi Bishnoi,10.0,0,54,1,0,GUJvsRLYS,False,4
+10,RLYS,GUJ,Jaymeet Patel,3.0,0,25,0,0,GUJvsRLYS,False,5
+11,RLYS,GUJ,Vishal Jayswal,7.0,0,51,2,0,GUJvsRLYS,False,6
+0,HAR,AP,Satyanarayana Raju,9.5,1,44,5,0,HARvsAP,False,1
+1,HAR,AP,Kodavandla Sudharsan,5.0,0,54,0,0,HARvsAP,False,2
+2,HAR,AP,B Vinay Kumar,5.0,0,51,0,0,HARvsAP,False,3
+3,HAR,AP,Jagarlapudi Ram,10.0,0,61,3,0,HARvsAP,False,4
+4,HAR,AP,Bhupathiraju Munish Varma,7.0,0,44,1,0,HARvsAP,False,5
+5,HAR,AP,Maramreddy Hemanth Reddy (c),10.0,0,46,1,0,HARvsAP,False,6
+6,HAR,AP,Yara Sandeep,3.0,0,20,0,0,HARvsAP,False,7
+7,AP,HAR,Anshul Kamboj,10.0,1,40,3,0,HARvsAP,False,1
+8,AP,HAR,Ajay Singh,8.0,0,67,0,0,HARvsAP,False,2
+9,AP,HAR,Anuj Thakral,8.0,0,53,0,0,HARvsAP,False,3
+10,AP,HAR,Samant Jakhar,4.0,0,38,2,0,HARvsAP,False,4
+11,AP,HAR,Parth Vats,8.0,0,55,0,0,HARvsAP,False,5
+12,AP,HAR,Amit Rana,10.0,0,52,1,0,HARvsAP,False,6
+0,HAR,DEL,Ishant,7.0,1,17,3,0,HARvsDEL,False,1
+1,HAR,DEL,Navdeep Saini,6.0,0,30,3,0,HARvsDEL,False,2
+2,HAR,DEL,Prince Yadav,6.4,1,35,3,0,HARvsDEL,False,3
+3,HAR,DEL,Hrithik Shokeen,4.0,0,12,0,0,HARvsDEL,False,4
+4,HAR,DEL,Harsh Tyagi,2.0,0,10,1,0,HARvsDEL,False,5
+5,DEL,HAR,Anshul Kamboj,5.0,0,29,0,0,HARvsDEL,False,1
+6,DEL,HAR,Anuj Thakral,5.0,1,30,1,0,HARvsDEL,False,2
+7,DEL,HAR,Ankit Kumar (c),2.0,0,26,0,0,HARvsDEL,False,3
+8,DEL,HAR,Amit Rana,1.3,0,21,0,0,HARvsDEL,False,4
+0,HAR,GUJ,Nagwaswalla,10.0,0,69,3,0,HARvsGUJ,False,1
+1,HAR,GUJ,Chintan Gaja (c),9.0,1,45,0,0,HARvsGUJ,False,2
+2,HAR,GUJ,Hemang Patel,9.4,1,69,3,0,HARvsGUJ,False,3
+3,HAR,GUJ,Jaymeet Patel,4.0,0,30,1,0,HARvsGUJ,False,4
+4,HAR,GUJ,Ravi Bishnoi,10.0,0,43,2,0,HARvsGUJ,False,5
+5,HAR,GUJ,Vishal Jayswal,7.0,1,43,0,0,HARvsGUJ,False,6
+6,GUJ,HAR,Anshul Kamboj,10.0,0,49,3,0,HARvsGUJ,False,1
+7,GUJ,HAR,Sumit Kumar,9.0,0,56,1,0,HARvsGUJ,False,2
+8,GUJ,HAR,Anuj Thakral,9.0,0,52,2,0,HARvsGUJ,False,3
+9,GUJ,HAR,Samant Jakhar,8.0,0,57,1,0,HARvsGUJ,False,4
+10,GUJ,HAR,Amit Rana,4.0,0,25,1,0,HARvsGUJ,False,5
+11,GUJ,HAR,Mayank Shandilya,3.0,0,16,0,0,HARvsGUJ,False,6
+12,GUJ,HAR,Parth Vats,4.1,0,16,2,0,HARvsGUJ,False,7
+0,HAR,RLYS,Rahul Sharma,7.0,3,19,2,0,HARvsRLYS,False,1
+1,HAR,RLYS,Zubair Ali,8.0,0,52,0,0,HARvsRLYS,False,2
+2,HAR,RLYS,Adarsh Singh,9.0,1,39,3,0,HARvsRLYS,False,3
+3,HAR,RLYS,Ashutosh Sharma,4.0,0,36,0,0,HARvsRLYS,False,4
+4,HAR,RLYS,Karn Sharma (c),10.0,0,54,2,0,HARvsRLYS,False,5
+5,HAR,RLYS,Raj Choudhary,10.0,0,53,0,0,HARvsRLYS,False,6
+6,HAR,RLYS,Ansh Yadav,2.0,0,14,0,0,HARvsRLYS,False,7
+7,RLYS,HAR,Anshul Kamboj,9.0,0,74,0,0,HARvsRLYS,False,1
+8,RLYS,HAR,Sumit Kumar,9.0,2,32,2,0,HARvsRLYS,False,2
+9,RLYS,HAR,Anuj Thakral,7.0,1,31,1,0,HARvsRLYS,False,3
+10,RLYS,HAR,Himanshu Rana,3.0,0,12,0,0,HARvsRLYS,False,4
+11,RLYS,HAR,Amit Rana,8.4,0,63,1,0,HARvsRLYS,False,5
+12,RLYS,HAR,Bhuwan Rohilla,6.0,0,37,0,0,HARvsRLYS,False,6
+13,RLYS,HAR,Parth Vats,1.0,0,20,0,0,HARvsRLYS,False,7
+0,HP,CG,Ravi Kiran,9.0,0,65,3,0,HPvsCG,False,1
+1,HP,CG,Dev Aditya Singh,9.0,0,60,2,0,HPvsCG,False,2
+2,HP,CG,Vashudev Bareth,9.0,0,49,0,0,HPvsCG,False,3
+3,HP,CG,Sarwate,7.0,0,44,1,0,HPvsCG,False,4
+4,HP,CG,Ajay Mandal,9.0,0,57,0,0,HPvsCG,False,5
+5,HP,CG,Aayush Pandey,7.0,0,38,0,0,HPvsCG,False,6
+6,CG,HP,Vaibhav Arora,9.4,0,70,2,0,HPvsCG,False,1
+7,CG,HP,Rohit Kumar,10.0,0,79,2,0,HPvsCG,False,2
+8,CG,HP,Mridul Surroch (c),8.0,0,27,1,0,HPvsCG,False,3
+9,CG,HP,Amanpreet Singh,1.0,0,8,0,0,HPvsCG,False,4
+10,CG,HP,Aryaman Singh Dhaliwal,10.0,0,74,1,0,HPvsCG,False,5
+11,CG,HP,Nitin Sharma,2.0,0,15,0,0,HPvsCG,False,6
+12,CG,HP,Mayank Dagar,9.0,0,42,0,0,HPvsCG,False,7
+0,HP,MAH,Pradeep Dadhe,9.0,0,48,1,0,HPvsMAH,False,1
+1,HP,MAH,Ramakrishna Ghosh,9.4,0,42,7,0,HPvsMAH,False,2
+2,HP,MAH,Rajvardhan Hangargekar,10.0,0,67,1,0,HPvsMAH,False,3
+3,HP,MAH,Arshin Kulkarni,1.0,0,8,0,0,HPvsMAH,False,4
+4,HP,MAH,Vicky Ostwal,10.0,0,27,0,0,HPvsMAH,False,5
+5,HP,MAH,Siddhesh Veer,5.0,0,37,0,0,HPvsMAH,False,6
+6,HP,MAH,Satyajeet Bachhav,5.0,0,38,1,0,HPvsMAH,False,7
+7,MAH,HP,Vaibhav Arora,10.0,1,56,1,0,HPvsMAH,False,1
+8,MAH,HP,Rohit Kumar,10.0,0,47,2,0,HPvsMAH,False,2
+9,MAH,HP,Aryaman Singh Dhaliwal,10.0,0,55,2,0,HPvsMAH,False,3
+10,MAH,HP,Nitin Sharma,3.0,0,21,0,0,HPvsMAH,False,4
+11,MAH,HP,Akash Vasisht,10.0,0,45,0,0,HPvsMAH,False,5
+12,MAH,HP,Mridul Surroch (c),7.0,0,36,2,0,HPvsMAH,False,6
+0,HP,PUN,Sukhdeep Bajwa,7.2,1,17,4,3,HPvsPUN,False,1
+1,HP,PUN,Sumit Sharma,6.0,0,35,1,5,HPvsPUN,False,2
+2,HP,PUN,Markande,10.0,0,41,0,0,HPvsPUN,False,3
+3,HP,PUN,Krish Bhagat,5.0,0,28,0,1,HPvsPUN,False,4
+4,HP,PUN,Gaurav Chaudhary,7.0,0,36,1,2,HPvsPUN,False,5
+5,HP,PUN,Ramandeep Singh,4.0,0,32,0,0,HPvsPUN,False,6
+6,HP,PUN,Naman Dhir,8.0,1,28,2,0,HPvsPUN,False,7
+7,PUN,HP,Rohit Kumar,6.1,0,32,2,2,HPvsPUN,False,1
+8,PUN,HP,Vaibhav Arora,7.0,0,47,1,7,HPvsPUN,False,2
+9,PUN,HP,Aryaman Singh Dhaliwal,9.0,0,42,0,2,HPvsPUN,False,3
+10,PUN,HP,Akash Vasisht,6.0,0,43,1,0,HPvsPUN,False,4
+11,PUN,HP,Mridul Surroch (c),5.0,0,39,0,0,HPvsPUN,False,5
+12,PUN,HP,Nitin Sharma,2.0,0,12,0,0,HPvsPUN,False,6
+13,PUN,HP,Kushal Pal,1.0,0,8,0,0,HPvsPUN,False,7
+0,HP,UTK,Akash Madhwal,1.3,0,6,0,0,HPvsUTK,False,1
+1,HP,UTK,Jagmohan Nagarkoti,7.0,0,36,1,0,HPvsUTK,False,2
+2,HP,UTK,Kunal Chandela (c),1.3,0,6,0,0,HPvsUTK,False,3
+3,HP,UTK,Devendra Singh Bora,8.3,0,44,4,0,HPvsUTK,False,4
+4,HP,UTK,Avneesh Sudha,7.0,0,38,0,0,HPvsUTK,False,5
+5,HP,UTK,Mayank Mishra,10.0,0,51,1,0,HPvsUTK,False,6
+6,HP,UTK,Shashwat Dangwal,3.0,0,19,1,0,HPvsUTK,False,7
+7,HP,UTK,J Suchith,9.0,1,47,2,0,HPvsUTK,False,8
+8,UTK,HP,Vaibhav Arora,7.0,2,26,1,0,HPvsUTK,False,1
+9,UTK,HP,Rohit Kumar,8.0,0,18,1,0,HPvsUTK,False,2
+10,UTK,HP,Mayank Dagar,2.0,0,13,1,0,HPvsUTK,False,3
+11,UTK,HP,Nitin Sharma,4.0,1,29,0,0,HPvsUTK,False,4
+12,UTK,HP,Akash Vasisht,7.3,0,30,3,0,HPvsUTK,False,5
+13,UTK,HP,Mridul Surroch (c),9.0,0,34,1,0,HPvsUTK,False,6
+14,UTK,HP,Amanpreet Singh,3.0,0,13,2,0,HPvsUTK,False,7
+0,HYD,ASM,Mukhtar Hussain,4.0,0,27,0,0,HYDvsASM,False,1
+1,HYD,ASM,Ayushman Malakar,10.0,0,77,1,0,HYDvsASM,False,2
+2,HYD,ASM,Abdul Ajij Kuraishi,9.0,1,71,3,0,HYDvsASM,False,3
+3,HYD,ASM,Purkayastha,9.0,0,60,2,0,HYDvsASM,False,4
+4,HYD,ASM,Avinov Choudhury,10.0,0,40,0,0,HYDvsASM,False,5
+5,HYD,ASM,Sibsankar Roy,5.0,0,26,2,0,HYDvsASM,False,6
+6,HYD,ASM,Denish Das,3.0,0,5,0,0,HYDvsASM,False,7
+7,ASM,HYD,B Punnaiah,9.0,0,67,0,0,HYDvsASM,False,1
+8,ASM,HYD,Chama V Milind (c),10.0,1,68,3,0,HYDvsASM,False,2
+9,ASM,HYD,Nitin Sai Yadav,10.0,0,49,0,0,HYDvsASM,False,3
+10,ASM,HYD,Aniketh Reddy,10.0,0,52,0,0,HYDvsASM,False,4
+11,ASM,HYD,K Nitesh Reddy,3.0,0,23,0,0,HYDvsASM,False,5
+12,ASM,HYD,Aelgani Varun Goud,7.3,0,52,1,0,HYDvsASM,False,6
+0,HYD,BEN,Shami,10.0,1,70,3,2,HYDvsBEN,False,1
+1,HYD,BEN,Akash Deep,8.0,0,78,0,7,HYDvsBEN,False,2
+2,HYD,BEN,Mukesh Kumar,7.0,0,55,0,1,HYDvsBEN,False,3
+3,HYD,BEN,Shahbaz Ahmed,10.0,0,57,1,0,HYDvsBEN,False,4
+4,HYD,BEN,Rohit Das,10.0,0,61,1,0,HYDvsBEN,False,5
+5,HYD,BEN,Karan Lal,5.0,0,28,0,0,HYDvsBEN,False,6
+6,BEN,HYD,Mohammed Siraj,10.0,0,58,4,4,HYDvsBEN,False,1
+7,BEN,HYD,Chama V Milind,7.0,0,38,1,0,HYDvsBEN,False,2
+8,BEN,HYD,Chinntla Rakshan Readdi,7.0,0,27,1,0,HYDvsBEN,False,3
+9,BEN,HYD,Nitin Sai Yadav,7.0,0,38,1,0,HYDvsBEN,False,4
+10,BEN,HYD,Pranav Varma,7.0,0,46,1,1,HYDvsBEN,False,5
+11,BEN,HYD,K Nitesh Reddy,6.4,0,32,2,0,HYDvsBEN,False,6
+0,HYD,CDG,Jagjit Singh,10.0,2,43,3,0,HYDvsCDG,False,1
+1,HYD,CDG,Rohit Dhanda,10.0,0,64,2,0,HYDvsCDG,False,2
+2,HYD,CDG,Hartejassvi Kapoor,8.0,0,47,2,0,HYDvsCDG,False,3
+3,HYD,CDG,Vishu Kashyap,10.0,0,58,2,0,HYDvsCDG,False,4
+4,HYD,CDG,Hardik Chowdhry,4.0,0,34,0,0,HYDvsCDG,False,5
+5,HYD,CDG,Taranpreet Singh,8.0,0,38,0,0,HYDvsCDG,False,6
+6,CDG,HYD,Mohammed Siraj,8.0,3,19,1,0,HYDvsCDG,False,1
+7,CDG,HYD,Chama V Milind,6.0,2,20,2,0,HYDvsCDG,False,2
+8,CDG,HYD,Aniketh Reddy,7.1,0,24,1,0,HYDvsCDG,False,3
+9,CDG,HYD,Chinntla Rakshan Readdi,7.0,1,34,3,0,HYDvsCDG,False,4
+10,CDG,HYD,Tilak Varma (c),2.0,0,24,0,0,HYDvsCDG,False,5
+11,CDG,HYD,K Nitesh Reddy,6.5,0,27,2,0,HYDvsCDG,False,6
+12,CDG,HYD,Aelgani Varun Goud,0.4,0,0,1,0,HYDvsCDG,False,7
+0,HYD,JK,Auqib Nabi Dar,10.0,0,56,3,0,HYDvsJK,False,1
+1,HYD,JK,Yudhvir Singh Charak,5.0,0,50,1,0,HYDvsJK,False,2
+2,HYD,JK,Sunil Kumar,7.0,0,39,0,0,HYDvsJK,False,3
+3,HYD,JK,Vanshaj Sharma,10.0,0,29,1,0,HYDvsJK,False,4
+4,HYD,JK,Abid Mushtaq,10.0,0,50,2,0,HYDvsJK,False,5
+5,HYD,JK,Sahil Lotra,8.0,0,38,1,0,HYDvsJK,False,6
+6,JK,HYD,Mohammed Siraj,10.0,2,45,2,4,HYDvsJK,False,1
+7,JK,HYD,Chama V Milind (c),8.0,0,54,2,0,HYDvsJK,False,2
+8,JK,HYD,Chinntla Rakshan Readdi,9.0,0,47,1,4,HYDvsJK,False,3
+9,JK,HYD,Nitin Sai Yadav,10.0,0,40,1,0,HYDvsJK,False,4
+10,JK,HYD,Pranav Varma,6.5,0,45,0,0,HYDvsJK,False,5
+11,JK,HYD,K Nitesh Reddy,3.0,0,17,0,0,HYDvsJK,False,6
+12,JK,HYD,Aelgani Varun Goud,1.0,0,22,0,0,HYDvsJK,False,7
+0,JHKD,KAR,Abhilash Shetty,10.0,1,72,4,6,JHKDvsKAR,False,1
+1,JHKD,KAR,Vidyadhar Patil,10.0,0,66,2,5,JHKDvsKAR,False,2
+2,JHKD,KAR,Vijaykumar Vyshak,10.0,0,81,0,7,JHKDvsKAR,False,3
+3,JHKD,KAR,Shreyas Gopal,10.0,0,79,2,4,JHKDvsKAR,False,4
+4,JHKD,KAR,Dhruv Prabhakar,7.0,0,74,1,2,JHKDvsKAR,False,5
+5,JHKD,KAR,Karun Nair,3.0,0,30,0,0,JHKDvsKAR,False,6
+6,KAR,JHKD,Vikash Singh,7.0,0,85,0,2,JHKDvsKAR,False,1
+7,KAR,JHKD,Saurabh Shekhar,8.0,0,81,2,3,JHKDvsKAR,False,2
+8,KAR,JHKD,Sushant Mishra,8.0,0,75,1,3,JHKDvsKAR,False,3
+9,KAR,JHKD,Shubh Sharma,4.3,0,37,0,3,JHKDvsKAR,False,4
+10,KAR,JHKD,Anukul Roy,10.0,0,61,0,1,JHKDvsKAR,False,5
+11,KAR,JHKD,Utkarsh Singh,10.0,0,71,2,2,JHKDvsKAR,False,6
+0,JHKD,KER,Nidheesh,10.0,3,46,4,0,JHKDvsKER,False,1
+1,JHKD,KER,Eden Apple,10.0,0,76,1,0,JHKDvsKER,False,2
+2,JHKD,KER,Ankit Sharma,10.0,0,41,0,0,JHKDvsKER,False,3
+3,JHKD,KER,Muhammed Sharafuddeen,4.0,0,41,0,0,JHKDvsKER,False,4
+4,JHKD,KER,Aparajith,10.0,0,56,2,0,JHKDvsKER,False,5
+5,JHKD,KER,Vignesh Puthur,6.0,0,40,0,0,JHKDvsKER,False,6
+6,KER,JHKD,Vikash Singh,8.0,0,63,1,0,JHKDvsKER,False,1
+7,KER,JHKD,Shubham Singh,8.0,0,46,1,0,JHKDvsKER,False,2
+8,KER,JHKD,Anukul Roy,10.0,1,66,0,0,JHKDvsKER,False,3
+9,KER,JHKD,Manishi,10.0,0,72,0,0,JHKDvsKER,False,4
+10,KER,JHKD,Rajandeep Singh,2.0,0,26,0,0,JHKDvsKER,False,5
+11,KER,JHKD,Utkarsh Singh,3.0,0,25,0,0,JHKDvsKER,False,6
+12,KER,JHKD,Shikhar Mohan,1.3,0,13,0,0,JHKDvsKER,False,7
+0,JHKD,PDC,Vishal Khokhar,6.0,0,37,1,0,JHKDvsPDC,False,1
+1,JHKD,PDC,Parth Vaghani,9.0,0,55,3,0,JHKDvsPDC,False,2
+2,JHKD,PDC,Aman Khan (c),10.0,0,123,1,0,JHKDvsPDC,False,3
+3,JHKD,PDC,Jayant Yadav,10.0,0,50,1,0,JHKDvsPDC,False,4
+4,JHKD,PDC,Sagar Udeshi,10.0,1,63,1,0,JHKDvsPDC,False,5
+5,JHKD,PDC,Krishna Pandey,4.0,0,29,0,0,JHKDvsPDC,False,6
+6,JHKD,PDC,Akash Pugazhanthi,1.0,0,9,0,0,JHKDvsPDC,False,7
+7,PDC,JHKD,Sushant Mishra,7.0,1,23,2,0,JHKDvsPDC,False,1
+8,PDC,JHKD,Shubham Singh,7.0,1,48,0,0,JHKDvsPDC,False,2
+9,PDC,JHKD,Rajandeep Singh,8.0,0,47,3,0,JHKDvsPDC,False,3
+10,PDC,JHKD,Anukul Roy,9.4,0,58,2,0,JHKDvsPDC,False,4
+11,PDC,JHKD,Manishi,10.0,0,57,1,0,JHKDvsPDC,False,5
+0,JHKD,RAJ,Khaleel Ahmed,10.0,2,49,4,0,JHKDvsRAJ,False,1
+1,JHKD,RAJ,Aniket Choudhary,10.0,0,59,1,0,JHKDvsRAJ,False,2
+2,JHKD,RAJ,Manav Suthar (c),8.0,0,55,0,1,JHKDvsRAJ,False,3
+3,JHKD,RAJ,Ashok Sharma,9.0,0,58,2,0,JHKDvsRAJ,False,4
+4,JHKD,RAJ,Kukna Ajay Singh,4.0,0,19,1,2,JHKDvsRAJ,False,5
+5,JHKD,RAJ,Deepak Hooda,9.0,0,50,0,1,JHKDvsRAJ,False,6
+6,RAJ,JHKD,Sushant Mishra,10.0,1,32,2,2,JHKDvsRAJ,False,1
+7,RAJ,JHKD,Shubham Singh,10.0,1,50,6,0,JHKDvsRAJ,False,2
+8,RAJ,JHKD,Shubh Sharma,3.0,1,14,0,1,JHKDvsRAJ,False,3
+9,RAJ,JHKD,Anukul Roy,10.0,0,43,0,1,JHKDvsRAJ,False,4
+10,RAJ,JHKD,Rajandeep Singh,2.0,0,8,0,0,JHKDvsRAJ,False,5
+11,RAJ,JHKD,Manishi,9.0,0,40,1,0,JHKDvsRAJ,False,6
+12,RAJ,JHKD,Utkarsh Singh,6.0,0,38,1,1,JHKDvsRAJ,False,7
+0,JK,ASM,Mukhtar Hussain,10.0,0,84,0,1,JKvsASM,False,1
+1,JK,ASM,Ayushman Malakar,10.0,1,73,2,2,JKvsASM,False,2
+2,JK,ASM,Avinov Choudhury,10.0,0,63,1,1,JKvsASM,False,3
+3,JK,ASM,Rahul Singh,10.0,0,53,1,1,JKvsASM,False,4
+4,JK,ASM,Denish Das,8.0,0,46,2,0,JKvsASM,False,5
+5,JK,ASM,Purkayastha,2.0,0,17,0,0,JKvsASM,False,6
+6,ASM,JK,Auqib Nabi Dar,5.0,1,27,0,1,JKvsASM,False,1
+7,ASM,JK,Yudhvir Singh Charak,7.0,0,30,2,6,JKvsASM,False,2
+8,ASM,JK,Abid Mushtaq,8.1,0,52,1,5,JKvsASM,False,3
+9,ASM,JK,Lone Nasir Muzaffar,4.0,0,29,1,0,JKvsASM,False,4
+10,ASM,JK,Murugan Ashwin,9.0,0,34,5,6,JKvsASM,False,5
+11,ASM,JK,Abdul Samad,3.0,0,21,1,0,JKvsASM,False,6
+0,JK,BEN,Shami,6.0,2,14,2,0,JKvsBEN,False,1
+1,JK,BEN,Akash Deep,8.4,1,32,4,0,JKvsBEN,False,2
+2,JK,BEN,Mukesh Kumar,6.0,0,16,4,0,JKvsBEN,False,3
+3,BEN,JK,Auqib Nabi Dar,3.0,0,21,1,0,JKvsBEN,False,1
+4,BEN,JK,Sunil Kumar,3.0,0,18,0,0,JKvsBEN,False,2
+5,BEN,JK,Yudhvir Singh Charak,3.0,0,22,0,0,JKvsBEN,False,3
+6,BEN,JK,Shubham Khajuria,0.3,0,2,0,0,JKvsBEN,False,4
+0,JK,VID,Praful Hinge,9.0,0,68,1,0,JKvsVID,False,1
+1,JK,VID,Darshan Nalkande,7.0,0,58,2,0,JKvsVID,False,2
+2,JK,VID,Yash Thakur,10.0,0,73,3,0,JKvsVID,False,3
+3,JK,VID,Harsh Dubey (c),10.0,0,46,1,0,JKvsVID,False,4
+4,JK,VID,Parth Rekhade,10.0,0,50,0,0,JKvsVID,False,5
+5,JK,VID,Yash Kadam,4.0,0,10,2,0,JKvsVID,False,6
+6,VID,JK,Auqib Nabi Dar,9.3,1,65,2,0,JKvsVID,False,1
+7,VID,JK,Yudhvir Singh Charak,10.0,0,69,3,0,JKvsVID,False,2
+8,VID,JK,Lone Nasir Muzaffar,7.0,0,58,0,0,JKvsVID,False,3
+9,VID,JK,Abid Mushtaq,10.0,0,49,0,0,JKvsVID,False,4
+10,VID,JK,Murugan Ashwin,10.0,0,59,0,0,JKvsVID,False,5
+11,VID,JK,Shubham Khajuria,1.0,0,4,0,0,JKvsVID,False,6
+12,VID,JK,Abdul Samad,1.0,0,8,0,0,JKvsVID,False,7
+0,KAR,MP,Venkatesh Iyer (c),5.0,0,31,0,4,KARvsMP,False,1
+1,KAR,MP,Aryan Pandey,5.4,1,28,1,0,KARvsMP,False,2
+2,KAR,MP,Tripuresh Singh,7.0,0,29,1,1,KARvsMP,False,3
+3,KAR,MP,Saransh Jain,10.0,2,25,0,1,KARvsMP,False,4
+4,KAR,MP,Kumar Kartikeya,10.0,1,46,1,5,KARvsMP,False,5
+5,KAR,MP,Shivang Kumar,10.0,0,45,5,2,KARvsMP,False,6
+6,MP,KAR,Vidhwath Kaverappa,6.0,1,57,0,2,KARvsMP,False,1
+7,MP,KAR,Abhilash Shetty,3.2,0,31,0,1,KARvsMP,False,2
+8,MP,KAR,Shreesha Achar,5.0,0,42,1,1,KARvsMP,False,3
+9,MP,KAR,Vidyadhar Patil,5.0,0,24,1,0,KARvsMP,False,4
+10,MP,KAR,Shreyas Gopal,3.0,0,36,1,0,KARvsMP,False,5
+11,MP,KAR,Devdutt Padikkal,1.0,0,15,0,0,KARvsMP,False,6
+0,KAR,PDC,Vishal Khokhar,8.0,0,76,1,5,KARvsPDC,False,1
+1,KAR,PDC,Parth Vaghani,9.0,1,73,1,1,KARvsPDC,False,2
+2,KAR,PDC,Aman Khan (c),5.0,0,29,0,0,KARvsPDC,False,3
+3,KAR,PDC,Jayant Yadav,9.0,1,41,1,1,KARvsPDC,False,4
+4,KAR,PDC,Sagar Udeshi,10.0,0,64,0,1,KARvsPDC,False,5
+5,KAR,PDC,Sidak Singh,9.0,0,79,1,0,KARvsPDC,False,6
+6,PDC,KAR,Vidhwath Kaverappa,9.0,0,30,2,0,KARvsPDC,False,1
+7,PDC,KAR,Abhilash Shetty,9.0,0,52,1,0,KARvsPDC,False,2
+8,PDC,KAR,Shreesha Achar,10.0,0,46,1,0,KARvsPDC,False,3
+9,PDC,KAR,Manvanth Kumar L,8.0,0,52,3,0,KARvsPDC,False,4
+10,PDC,KAR,Shreyas Gopal,9.0,0,72,1,0,KARvsPDC,False,5
+11,PDC,KAR,Karun Nair,5.0,0,38,2,0,KARvsPDC,False,6
+0,KAR,RAJ,Khaleel Ahmed,10.0,0,68,1,0,KARvsRAJ,False,1
+1,KAR,RAJ,Aman Shekhawat,10.0,0,71,1,0,KARvsRAJ,False,2
+2,KAR,RAJ,Kukna Ajay Singh,10.0,0,66,2,0,KARvsRAJ,False,3
+3,KAR,RAJ,Ashok Sharma,10.0,0,66,1,0,KARvsRAJ,False,4
+4,KAR,RAJ,Manav Suthar (c),10.0,0,51,2,0,KARvsRAJ,False,5
+5,RAJ,KAR,Prasidh Krishna,8.0,0,36,5,0,KARvsRAJ,False,1
+6,RAJ,KAR,Vijaykumar Vyshak,7.0,0,33,1,0,KARvsRAJ,False,2
+7,RAJ,KAR,Manvanth Kumar L,4.0,0,15,0,0,KARvsRAJ,False,3
+8,RAJ,KAR,Shreesha Achar,9.0,0,35,2,0,KARvsRAJ,False,4
+9,RAJ,KAR,Shreyas Gopal,7.0,0,45,2,0,KARvsRAJ,False,5
+10,RAJ,KAR,Karun Nair,3.0,0,10,0,0,KARvsRAJ,False,6
+0,KAR,TRI,Abhijit K Sarkar,10.0,0,50,4,2,KARvsTRI,False,1
+1,KAR,TRI,M Murasingh (c),10.0,0,64,1,3,KARvsTRI,False,2
+2,KAR,TRI,Ajay Sarkar,10.0,1,84,1,0,KARvsTRI,False,3
+3,KAR,TRI,Viki Saha,10.0,0,53,1,0,KARvsTRI,False,4
+4,KAR,TRI,Swapnil Singh,7.0,0,55,0,4,KARvsTRI,False,5
+5,KAR,TRI,Vijay Shankar,3.0,0,25,0,1,KARvsTRI,False,6
+6,TRI,KAR,Prasidh Krishna,9.0,1,47,1,3,KARvsTRI,False,1
+7,TRI,KAR,Vidyadhar Patil,6.0,0,44,1,7,KARvsTRI,False,2
+8,TRI,KAR,Vijaykumar Vyshak,10.0,0,54,3,0,KARvsTRI,False,3
+9,TRI,KAR,Shreesha Achar,10.0,0,38,1,0,KARvsTRI,False,4
+10,TRI,KAR,Shreyas Gopal,9.0,0,33,3,0,KARvsTRI,False,5
+11,TRI,KAR,Devdutt Padikkal,3.0,0,14,0,0,KARvsTRI,False,6
+12,TRI,KAR,Karun Nair,2.0,0,18,0,6,KARvsTRI,False,7
+0,KAR,VID,Yash Thakur,9.4,3,64,2,8,KARvsVID,False,1
+1,KAR,VID,Nachiket Bhute,9.0,0,46,1,4,KARvsVID,False,2
+2,KAR,VID,Darshan Nalkande,10.0,0,48,5,1,KARvsVID,False,3
+3,KAR,VID,Harsh Dubey (c),10.0,0,51,0,0,KARvsVID,False,4
+4,KAR,VID,Yash Kadam,8.0,0,39,1,0,KARvsVID,False,5
+5,KAR,VID,Atharva Taide,3.0,0,24,0,4,KARvsVID,False,6
+6,VID,KAR,Vidhwath Kaverappa,10.0,2,50,0,2,KARvsVID,False,1
+7,VID,KAR,Abhilash Shetty,10.0,0,48,3,1,KARvsVID,False,2
+8,VID,KAR,Vijaykumar Vyshak,4.0,0,28,0,0,KARvsVID,False,3
+9,VID,KAR,Vidyadhar Patil,9.0,1,61,1,1,KARvsVID,False,4
+10,VID,KAR,Shreyas Gopal,8.0,0,55,0,0,KARvsVID,False,5
+11,VID,KAR,Manvanth Kumar L,4.2,0,32,0,0,KARvsVID,False,6
+12,VID,KAR,Dhruv Prabhakar,1.0,0,8,0,0,KARvsVID,False,7
+0,KER,KAR,Vidhwath Kaverappa,10.0,0,70,1,0,KERvsKAR,False,1
+1,KER,KAR,Abhilash Shetty,10.0,1,59,3,0,KERvsKAR,False,2
+2,KER,KAR,Vidyadhar Patil,10.0,0,36,1,0,KERvsKAR,False,3
+3,KER,KAR,Shreesha Achar,10.0,0,56,0,0,KERvsKAR,False,4
+4,KER,KAR,Shreyas Gopal,10.0,0,61,2,0,KERvsKAR,False,5
+5,KAR,KER,MD Nidheesh,9.2,1,48,1,0,KERvsKAR,False,1
+6,KAR,KER,Akhil Scaria,7.0,1,44,1,0,KERvsKAR,False,2
+7,KAR,KER,KM Asif,8.0,0,60,0,0,KERvsKAR,False,3
+8,KAR,KER,Vignesh Puthur,10.0,0,48,0,0,KERvsKAR,False,4
+9,KAR,KER,Baba Aparajith,8.0,0,52,0,0,KERvsKAR,False,5
+10,KAR,KER,Ankit Sharma,6.0,0,32,0,0,KERvsKAR,False,6
+0,KER,TRI,Saurabh Das,8.0,0,71,0,1,KERvsTRI,False,1
+1,KER,TRI,M Murasingh (c),10.0,0,72,3,3,KERvsTRI,False,2
+2,KER,TRI,Swapnil Singh,10.0,0,61,0,1,KERvsTRI,False,3
+3,KER,TRI,Abhijit K Sarkar,10.0,0,60,2,3,KERvsTRI,False,4
+4,KER,TRI,Vijay Shankar,10.0,0,57,2,0,KERvsTRI,False,5
+5,KER,TRI,Viki Saha,2.0,0,21,0,0,KERvsTRI,False,6
+6,TRI,KER,MD Nidheesh,6.0,0,35,1,0,KERvsTRI,False,1
+7,TRI,KER,KM Asif,6.0,0,48,1,0,KERvsTRI,False,2
+8,TRI,KER,Akhil Scaria,4.0,0,26,0,0,KERvsTRI,False,3
+9,TRI,KER,Ankit Sharma,9.0,0,49,2,0,KERvsTRI,False,4
+10,TRI,KER,Vignesh Puthur,6.0,0,28,1,0,KERvsTRI,False,5
+11,TRI,KER,Baba Aparajith,5.5,1,15,5,0,KERvsTRI,False,6
+0,MAH,GOA,Vasuki Koushik,10.0,2,38,3,0,MAHvsGOA,False,1
+1,MAH,GOA,Arjun Tendulkar,8.0,1,39,1,0,MAHvsGOA,False,2
+2,MAH,GOA,Deepraj Gaonkar (c),9.0,1,65,1,0,MAHvsGOA,False,3
+3,MAH,GOA,Darshan Misal,10.0,0,48,1,0,MAHvsGOA,False,4
+4,MAH,GOA,Vikash Kanwar Singh,7.0,0,31,0,0,MAHvsGOA,False,5
+5,MAH,GOA,Lalit Yadav,6.0,0,28,1,0,MAHvsGOA,False,6
+6,GOA,MAH,Ramakrishna Ghosh,10.0,2,35,1,0,MAHvsGOA,False,1
+7,GOA,MAH,Pradeep Dadhe,9.0,0,49,1,0,MAHvsGOA,False,2
+8,GOA,MAH,Vicky Ostwal,10.0,0,45,1,0,MAHvsGOA,False,3
+9,GOA,MAH,Rajvardhan Hangargekar,10.0,0,53,2,0,MAHvsGOA,False,4
+10,GOA,MAH,Prashant Solanki,10.0,1,56,4,0,MAHvsGOA,False,5
+11,GOA,MAH,Siddharth Mhatre,1.0,0,4,0,0,MAHvsGOA,False,6
+0,MAH,MUM,Thakur (c),6.5,1,25,0,0,MAHvsMUM,False,1
+1,MAH,MUM,Tushar Deshpande,10.0,0,83,2,0,MAHvsMUM,False,2
+2,MAH,MUM,Sylvester DSouza,9.0,0,81,0,0,MAHvsMUM,False,3
+3,MAH,MUM,Tanush Kotian,4.1,0,26,0,0,MAHvsMUM,False,4
+4,MAH,MUM,Shams Mulani,10.0,0,79,1,0,MAHvsMUM,False,5
+5,MAH,MUM,Musheer Khan,10.0,0,64,1,0,MAHvsMUM,False,6
+6,MUM,MAH,Pradeep Dadhe,8.0,0,43,3,0,MAHvsMUM,False,1
+7,MUM,MAH,Ramakrishna Ghosh,7.0,0,50,1,0,MAHvsMUM,False,2
+8,MUM,MAH,Rajvardhan Hangargekar,8.0,0,47,1,0,MAHvsMUM,False,3
+9,MUM,MAH,Vicky Ostwal,10.0,1,43,1,0,MAHvsMUM,False,4
+10,MUM,MAH,Satyajeet Bachhav,8.3,0,44,2,0,MAHvsMUM,False,5
+11,MUM,MAH,Arshin Kulkarni,0.3,0,6,1,0,MAHvsMUM,False,6
+0,MAH,UTK,Devendra Singh Bora,10.0,0,81,3,8,MAHvsUTK,False,1
+1,MAH,UTK,Naveen Kumar Singh,5.0,0,42,0,2,MAHvsUTK,False,2
+2,MAH,UTK,Abhay Negi,10.0,1,61,2,1,MAHvsUTK,False,3
+3,MAH,UTK,Mayank Mishra,10.0,1,52,1,0,MAHvsUTK,False,4
+4,MAH,UTK,J Suchith,10.0,0,54,1,0,MAHvsUTK,False,5
+5,MAH,UTK,Yuvraj Chaudhary,5.0,0,35,0,0,MAHvsUTK,False,6
+6,UTK,MAH,Pradeep Dadhe,6.0,0,34,0,1,MAHvsUTK,False,1
+7,UTK,MAH,Ramakrishna Ghosh,6.0,0,24,2,1,MAHvsUTK,False,2
+8,UTK,MAH,Vicky Ostwal,10.0,0,37,0,1,MAHvsUTK,False,3
+9,UTK,MAH,Arshin Kulkarni,2.0,0,15,0,0,MAHvsUTK,False,4
+10,UTK,MAH,Rajvardhan Hangargekar,6.0,0,37,3,0,MAHvsUTK,False,5
+11,UTK,MAH,Siddhesh Veer,9.0,0,33,2,3,MAHvsUTK,False,6
+12,UTK,MAH,Satyajeet Bachhav,4.4,1,22,3,1,MAHvsUTK,False,7
+0,MP,JHKD,Sushant Mishra,6.4,0,55,2,0,MPvsJHKD,False,1
+1,MP,JHKD,Shubham Singh,7.0,0,34,1,0,MPvsJHKD,False,2
+2,MP,JHKD,Utkarsh Singh,7.0,0,30,3,0,MPvsJHKD,False,3
+3,MP,JHKD,Anukul Roy,10.0,0,45,1,0,MPvsJHKD,False,4
+4,MP,JHKD,Manishi,10.0,0,46,0,0,MPvsJHKD,False,5
+5,MP,JHKD,Rajandeep Singh,1.0,0,8,0,0,MPvsJHKD,False,6
+6,MP,JHKD,Shikhar Mohan,3.0,0,21,0,0,MPvsJHKD,False,7
+7,MP,JHKD,Bal Krishna,4.0,0,35,2,0,MPvsJHKD,False,8
+8,JHKD,MP,Tripuresh Singh,8.0,1,45,0,0,MPvsJHKD,False,1
+9,JHKD,MP,Mangesh Yadav,4.0,0,23,0,0,MPvsJHKD,False,2
+10,JHKD,MP,Saransh Jain,10.0,0,45,0,0,MPvsJHKD,False,3
+11,JHKD,MP,Shubham Sharma,6.0,0,42,1,0,MPvsJHKD,False,4
+12,JHKD,MP,Kumar Kartikeya,10.0,0,63,3,0,MPvsJHKD,False,5
+13,JHKD,MP,Shivang Kumar,9.4,0,56,3,0,MPvsJHKD,False,6
+0,MP,KER,Nidheesh,7.1,1,35,1,2,MPvsKER,False,1
+1,MP,KER,Muhammed Sharafuddeen,4.0,0,15,0,0,MPvsKER,False,2
+2,MP,KER,Ankit Sharma,10.0,0,38,4,1,MPvsKER,False,3
+3,MP,KER,Eden Apple,6.0,0,28,1,2,MPvsKER,False,4
+4,MP,KER,Aparajith,10.0,0,36,3,0,MPvsKER,False,5
+5,MP,KER,Vignesh Puthur,8.0,0,56,0,2,MPvsKER,False,6
+6,MP,KER,Vishnu Vinod,1.0,0,4,0,0,MPvsKER,False,7
+7,KER,MP,Tripuresh Singh,6.1,1,36,1,2,MPvsKER,False,1
+8,KER,MP,Aryan Pandey,3.0,0,17,1,0,MPvsKER,False,2
+9,KER,MP,Saransh Jain,8.0,2,17,2,0,MPvsKER,False,3
+10,KER,MP,Kumar Kartikeya,10.0,1,37,1,0,MPvsKER,False,4
+11,KER,MP,Shivang Kumar,8.0,1,42,2,2,MPvsKER,False,5
+12,KER,MP,Shubham Sharma,5.0,0,16,3,1,MPvsKER,False,6
+0,MP,PDC,Sagar Udeshi,10.0,2,19,2,0,MPvsPDC,False,1
+1,MP,PDC,Parth Vaghani,8.5,0,40,2,0,MPvsPDC,False,2
+2,MP,PDC,Jayant Yadav,10.0,0,32,1,0,MPvsPDC,False,3
+3,MP,PDC,Sidak Singh,10.0,0,36,1,0,MPvsPDC,False,4
+4,MP,PDC,Thivagar Gopal,3.0,0,34,0,0,MPvsPDC,False,5
+5,MP,PDC,Aman Khan (c),8.0,0,58,3,0,MPvsPDC,False,6
+6,PDC,MP,Kumar Kartikeya,10.0,0,50,1,0,MPvsPDC,False,1
+7,PDC,MP,Saransh Jain,10.0,1,51,1,0,MPvsPDC,False,2
+8,PDC,MP,Aryan Pandey,4.0,0,21,0,0,MPvsPDC,False,3
+9,PDC,MP,Tripuresh Singh,9.0,1,30,0,0,MPvsPDC,False,4
+10,PDC,MP,Rahul Batham,4.0,0,25,1,0,MPvsPDC,False,5
+11,PDC,MP,Shubham Sharma,4.0,0,27,2,0,MPvsPDC,False,6
+12,PDC,MP,Venkatesh Iyer (c),2.0,0,15,0,0,MPvsPDC,False,7
+0,MP,RAJ,Khaleel Ahmed,7.0,0,29,0,0,MPvsRAJ,False,1
+1,MP,RAJ,Aniket Choudhary,8.0,0,57,0,0,MPvsRAJ,False,2
+2,MP,RAJ,Manav Suthar (c),10.0,0,54,2,0,MPvsRAJ,False,3
+3,MP,RAJ,Ashok Sharma,9.0,0,62,0,0,MPvsRAJ,False,4
+4,MP,RAJ,Kukna Ajay Singh,10.0,0,54,1,0,MPvsRAJ,False,5
+5,MP,RAJ,Deepak Hooda,6.0,0,25,2,0,MPvsRAJ,False,6
+6,RAJ,MP,Tripuresh Singh,6.0,0,25,0,0,MPvsRAJ,False,1
+7,RAJ,MP,Aryan Pandey,8.2,0,28,2,0,MPvsRAJ,False,2
+8,RAJ,MP,Kumar Kartikeya,10.0,0,43,2,0,MPvsRAJ,False,3
+9,RAJ,MP,Mangesh Yadav,6.0,0,42,1,0,MPvsRAJ,False,4
+10,RAJ,MP,Saransh Jain,10.0,0,37,3,0,MPvsRAJ,False,5
+11,RAJ,MP,Venkatesh Iyer (c),3.0,0,11,1,0,MPvsRAJ,False,6
+0,MUM,GOA,Arjun Tendulkar,8.0,0,78,0,2,MUMvsGOA,False,1
+1,MUM,GOA,V Koushik,10.0,2,60,2,8,MUMvsGOA,False,2
+2,MUM,GOA,Deepraj Gaonkar (c),7.0,0,57,1,1,MUMvsGOA,False,3
+3,MUM,GOA,Shubham Tari,7.0,0,52,0,0,MUMvsGOA,False,4
+4,MUM,GOA,Darshan Misal,9.0,0,98,3,1,MUMvsGOA,False,5
+5,MUM,GOA,Lalit Yadav,9.0,0,93,2,0,MUMvsGOA,False,6
+6,GOA,MUM,Shardul Thakur (c),6.0,0,20,3,1,MUMvsGOA,False,1
+7,GOA,MUM,Tushar Deshpande,7.0,0,53,1,2,MUMvsGOA,False,2
+8,GOA,MUM,Sylvester DSouza,7.0,1,43,1,0,MUMvsGOA,False,3
+9,GOA,MUM,Shams Mulani,9.0,0,69,0,3,MUMvsGOA,False,4
+10,GOA,MUM,Musheer Khan,10.0,0,62,1,1,MUMvsGOA,False,5
+11,GOA,MUM,Tanush Kotian,8.0,0,57,0,2,MUMvsGOA,False,6
+12,GOA,MUM,Yashasvi Jaiswal,3.0,0,52,2,1,MUMvsGOA,False,7
+0,MUM,HP,Vaibhav Arora,7.0,0,63,3,0,MUMvsHP,False,1
+1,MUM,HP,Rohit Kumar,7.0,0,65,0,0,MUMvsHP,False,2
+2,MUM,HP,Abhishek Kumar,7.0,0,62,3,0,MUMvsHP,False,3
+3,MUM,HP,Mayank Dagar,6.0,1,54,0,0,MUMvsHP,False,4
+4,MUM,HP,Kushal Pal,6.0,0,52,3,0,MUMvsHP,False,5
+5,HP,MUM,Tushar Deshpande,7.0,1,53,1,0,MUMvsHP,False,1
+6,HP,MUM,Sairaj Patil,7.0,0,50,2,0,MUMvsHP,False,2
+7,HP,MUM,Shams Mulani,5.0,0,53,1,0,MUMvsHP,False,3
+8,HP,MUM,Shivam Dube,6.4,0,68,4,0,MUMvsHP,False,4
+9,HP,MUM,Shashank Attarde,2.0,0,17,0,0,MUMvsHP,False,5
+10,HP,MUM,Musheer Khan,5.0,0,47,1,0,MUMvsHP,False,6
+0,MUM,KAR,Vidhwath Kaverappa,10.0,0,43,2,5,MUMvsKAR,False,1
+1,MUM,KAR,Abhilash Shetty,10.0,0,59,2,2,MUMvsKAR,False,2
+2,MUM,KAR,Vidyadhar Patil,10.0,0,42,3,2,MUMvsKAR,False,3
+3,MUM,KAR,Vijaykumar Vyshak,10.0,1,59,1,2,MUMvsKAR,False,4
+4,MUM,KAR,Shreyas Gopal,10.0,0,45,0,0,MUMvsKAR,False,5
+5,KAR,MUM,Mohit Avasthi,6.0,0,24,1,1,MUMvsKAR,False,1
+6,KAR,MUM,Onkar Tukaram Tarmale,6.0,0,42,0,7,MUMvsKAR,False,2
+7,KAR,MUM,Sairaj Patil,4.0,0,24,0,3,MUMvsKAR,False,3
+8,KAR,MUM,Suryansh Shedge,4.0,0,24,0,2,MUMvsKAR,False,4
+9,KAR,MUM,Shams Mulani,4.0,0,32,0,0,MUMvsKAR,False,5
+10,KAR,MUM,Tanush Kotian,6.0,0,28,0,1,MUMvsKAR,False,6
+11,KAR,MUM,Musheer Khan,3.0,1,8,0,0,MUMvsKAR,False,7
+0,MUM,UTK,Devendra Singh Bora,10.0,0,74,3,0,MUMvsUTK,False,1
+1,MUM,UTK,Jagmohan Nagarkoti,6.0,0,44,1,0,MUMvsUTK,False,2
+2,MUM,UTK,Abhay Negi,10.0,0,66,0,0,MUMvsUTK,False,3
+3,MUM,UTK,Mayank Mishra,10.0,0,57,1,0,MUMvsUTK,False,4
+4,MUM,UTK,J Suchith,10.0,0,60,1,0,MUMvsUTK,False,5
+5,MUM,UTK,Yuvraj Chaudhary,4.0,0,27,1,0,MUMvsUTK,False,6
+6,UTK,MUM,Shardul Thakur (c),7.0,1,28,2,0,MUMvsUTK,False,1
+7,UTK,MUM,Tushar Deshpande,9.0,0,53,0,0,MUMvsUTK,False,2
+8,UTK,MUM,Onkar Tukaram Tarmale,7.0,0,40,2,0,MUMvsUTK,False,3
+9,UTK,MUM,Shams Mulani,9.0,0,44,1,0,MUMvsUTK,False,4
+10,UTK,MUM,Tanush Kotian,9.0,0,50,1,0,MUMvsUTK,False,5
+11,UTK,MUM,Musheer Khan,8.0,0,57,2,0,MUMvsUTK,False,6
+12,UTK,MUM,Siddhesh Lad,1.0,0,7,0,0,MUMvsUTK,False,7
+0,ODSA,DEL,Navdeep Saini,10.0,1,47,0,0,ODSAvsDEL,False,1
+1,ODSA,DEL,Divij Mehra,6.0,0,46,0,0,ODSAvsDEL,False,2
+2,ODSA,DEL,Prince Yadav,10.0,0,57,2,0,ODSAvsDEL,False,3
+3,ODSA,DEL,Harsh Tyagi,10.0,0,41,0,0,ODSAvsDEL,False,4
+4,ODSA,DEL,Hrithik Shokeen,10.0,1,27,4,0,ODSAvsDEL,False,5
+5,ODSA,DEL,Nitish Rana,4.0,0,48,1,0,ODSAvsDEL,False,6
+6,DEL,ODSA,Rajesh Mohanty,8.0,0,42,2,0,ODSAvsDEL,False,1
+7,DEL,ODSA,Debabrata Pradhan,7.3,1,28,3,0,ODSAvsDEL,False,2
+8,DEL,ODSA,Sambit S Baral,8.0,0,34,3,0,ODSAvsDEL,False,3
+9,DEL,ODSA,Govinda Poddar,10.0,0,54,0,0,ODSAvsDEL,False,4
+10,DEL,ODSA,Biplab Samantray (c),2.0,0,12,0,0,ODSAvsDEL,False,5
+11,DEL,ODSA,Badal Biswal,7.0,1,18,1,0,ODSAvsDEL,False,6
+0,ODSA,HAR,Anshul Kamboj,10.0,1,76,1,2,ODSAvsHAR,False,1
+1,ODSA,HAR,Sumit Kumar,3.0,1,4,0,0,ODSAvsHAR,False,2
+2,ODSA,HAR,Anuj Thakral,10.0,1,68,3,5,ODSAvsHAR,False,3
+3,ODSA,HAR,Samant Jakhar,7.0,0,48,1,2,ODSAvsHAR,False,4
+4,ODSA,HAR,Parth Vats,10.0,0,60,3,2,ODSAvsHAR,False,5
+5,ODSA,HAR,Amit Rana,10.0,0,41,0,0,ODSAvsHAR,False,6
+6,HAR,ODSA,Rajesh Mohanty,9.0,1,52,1,3,ODSAvsHAR,False,1
+7,HAR,ODSA,Debabrata Pradhan,8.0,0,56,2,0,ODSAvsHAR,False,2
+8,HAR,ODSA,Soumya Ranjan Lenka,5.0,0,23,1,1,ODSAvsHAR,False,3
+9,HAR,ODSA,Sambit S Baral,9.0,0,59,0,1,ODSAvsHAR,False,4
+10,HAR,ODSA,Badal Biswal,5.0,0,45,0,1,ODSAvsHAR,False,5
+11,HAR,ODSA,Govinda Poddar,6.0,0,20,0,0,ODSAvsHAR,False,6
+12,HAR,ODSA,Biplab Samantray (c),6.4,0,48,2,1,ODSAvsHAR,False,7
+0,ODSA,RLYS,Varun,9.5,0,53,3,0,ODSAvsRLYS,False,1
+1,ODSA,RLYS,Akash Pandey,10.0,0,52,1,0,ODSAvsRLYS,False,2
+2,ODSA,RLYS,Zubair Ali khan,9.0,0,55,2,0,ODSAvsRLYS,False,3
+3,ODSA,RLYS,Karn Sharma (c),10.0,0,44,1,0,ODSAvsRLYS,False,4
+4,ODSA,RLYS,Raj Choudhary,10.0,0,32,3,0,ODSAvsRLYS,False,5
+5,ODSA,RLYS,Sahab Yuvraj,1.0,0,14,0,0,ODSAvsRLYS,False,6
+6,RLYS,ODSA,Rajesh Mohanty,7.0,0,41,0,0,ODSAvsRLYS,False,1
+7,RLYS,ODSA,Debabrata Pradhan,6.2,1,29,1,0,ODSAvsRLYS,False,2
+8,RLYS,ODSA,Sambit S Baral,5.0,0,33,1,0,ODSAvsRLYS,False,3
+9,RLYS,ODSA,Soumya Ranjan Lenka,4.0,0,17,0,0,ODSAvsRLYS,False,4
+10,RLYS,ODSA,Govinda Poddar,10.0,2,46,2,0,ODSAvsRLYS,False,5
+11,RLYS,ODSA,Sayed Tufayl Ahmad,10.0,0,60,0,0,ODSAvsRLYS,False,6
+12,RLYS,ODSA,Om T Munde,1.0,0,7,1,0,ODSAvsRLYS,False,7
+13,RLYS,ODSA,Biplab Samantray (c),2.0,0,16,0,0,ODSAvsRLYS,False,8
+0,ODSA,SAUR,Chetan Sakariya,8.0,0,66,0,0,ODSAvsSAUR,False,1
+1,ODSA,SAUR,Ankur Panwar,10.0,1,68,3,0,ODSAvsSAUR,False,2
+2,ODSA,SAUR,Chirag Jani,9.0,0,52,2,0,ODSAvsSAUR,False,3
+3,ODSA,SAUR,Prerak Mankad,7.0,0,38,1,0,ODSAvsSAUR,False,4
+4,ODSA,SAUR,DA Jadeja,8.0,0,61,0,0,ODSAvsSAUR,False,5
+5,ODSA,SAUR,Parth Bhut,8.0,0,59,0,0,ODSAvsSAUR,False,6
+6,SAUR,ODSA,Rajesh Mohanty,9.0,2,61,0,0,ODSAvsSAUR,False,1
+7,SAUR,ODSA,Debabrata Pradhan,9.0,0,73,3,0,ODSAvsSAUR,False,2
+8,SAUR,ODSA,Sambit S Baral,3.0,0,17,0,0,ODSAvsSAUR,False,3
+9,SAUR,ODSA,Prayash Singh,7.0,0,58,0,0,ODSAvsSAUR,False,4
+10,SAUR,ODSA,Govinda Poddar,6.5,0,39,1,0,ODSAvsSAUR,False,5
+11,SAUR,ODSA,Badal Biswal,7.0,0,45,0,0,ODSAvsSAUR,False,6
+12,SAUR,ODSA,Biplab Samantray (c),6.0,0,41,1,0,ODSAvsSAUR,False,7
+13,SAUR,ODSA,Om T Munde,1.0,0,13,0,0,ODSAvsSAUR,False,8
+0,PDC,KER,Nidheesh,8.0,0,41,4,0,PDCvsKER,False,1
+1,PDC,KER,Eden Apple,6.4,1,33,2,2,PDCvsKER,False,2
+2,PDC,KER,Ankit Sharma,10.0,0,42,2,0,PDCvsKER,False,3
+3,PDC,KER,Muhammed Sharafuddeen,3.0,0,14,0,0,PDCvsKER,False,4
+4,PDC,KER,Biju Narayanan,10.0,0,56,1,0,PDCvsKER,False,5
+5,PDC,KER,Aparajith,10.0,0,53,1,1,PDCvsKER,False,6
+6,KER,PDC,Bhupender Chauhan,5.0,0,37,1,0,PDCvsKER,False,1
+7,KER,PDC,Parth Vaghani,5.3,0,47,1,1,PDCvsKER,False,2
+8,KER,PDC,Sagar Udeshi,6.0,0,68,0,0,PDCvsKER,False,3
+9,KER,PDC,Sidak Singh,6.3,0,57,0,0,PDCvsKER,False,4
+10,KER,PDC,Jayant Yadav,6.0,0,37,0,0,PDCvsKER,False,5
+0,PDC,TRI,Saruk Hossain,4.0,1,16,0,0,PDCvsTRI,False,1
+1,PDC,TRI,M Murasingh (c),8.0,2,19,1,0,PDCvsTRI,False,2
+2,PDC,TRI,Swapnil Singh,10.0,1,49,3,0,PDCvsTRI,False,3
+3,PDC,TRI,Abhijit K Sarkar,7.0,0,30,1,0,PDCvsTRI,False,4
+4,PDC,TRI,Viki Saha,8.3,0,23,3,0,PDCvsTRI,False,5
+5,PDC,TRI,Vijay Shankar,4.0,0,12,0,0,PDCvsTRI,False,6
+6,TRI,PDC,Parth Vaghani,1.0,0,8,0,0,PDCvsTRI,False,1
+7,TRI,PDC,Sagar Udeshi,10.0,3,16,2,0,PDCvsTRI,False,2
+8,TRI,PDC,Sidak Singh,9.0,0,53,0,0,PDCvsTRI,False,3
+9,TRI,PDC,Jayant Yadav,9.0,0,40,1,0,PDCvsTRI,False,4
+10,TRI,PDC,Paras Santosh Ratnaparkhe,1.0,0,15,0,0,PDCvsTRI,False,5
+11,TRI,PDC,Pugazhendi Akash,2.3,0,15,0,0,PDCvsTRI,False,6
+0,PUN,MAH,Rajvardhan Hangargekar,10.0,0,76,1,0,PUNvsMAH,False,1
+1,PUN,MAH,Pradeep Dadhe,10.0,0,58,0,0,PUNvsMAH,False,2
+2,PUN,MAH,Ramakrishna Ghosh,10.0,0,73,3,0,PUNvsMAH,False,3
+3,PUN,MAH,Jalaj Saxena,9.0,0,58,0,0,PUNvsMAH,False,4
+4,PUN,MAH,Vicky Ostwal,10.0,1,54,1,0,PUNvsMAH,False,5
+5,PUN,MAH,Arshin Kulkarni,1.0,0,22,0,0,PUNvsMAH,False,6
+6,MAH,PUN,Gurnoor Brar,8.0,0,80,0,0,PUNvsMAH,False,1
+7,MAH,PUN,Sukhdeep Bajwa,8.0,0,36,2,0,PUNvsMAH,False,2
+8,MAH,PUN,Krish Bhagat,7.0,0,46,2,0,PUNvsMAH,False,3
+9,MAH,PUN,Abhishek Sharma (c),6.0,0,29,1,0,PUNvsMAH,False,4
+10,MAH,PUN,Raghu Sharma,10.0,1,43,1,0,PUNvsMAH,False,5
+11,MAH,PUN,Harpreet Brar,9.0,0,36,0,0,PUNvsMAH,False,6
+12,MAH,PUN,Ramandeep Singh,2.0,0,21,0,0,PUNvsMAH,False,7
+0,PUN,MP,Tripuresh Singh,10.0,1,61,2,0,PUNvsMP,False,1
+1,PUN,MP,Aryan Pandey,10.0,0,39,1,1,PUNvsMP,False,2
+2,PUN,MP,Kumar Kartikeya,9.0,0,69,0,0,PUNvsMP,False,3
+3,PUN,MP,Kuldeep Sen,6.0,0,56,1,8,PUNvsMP,False,4
+4,PUN,MP,Venkatesh Iyer (c),7.0,0,60,2,2,PUNvsMP,False,5
+5,PUN,MP,Saransh Jain,8.0,0,56,0,5,PUNvsMP,False,6
+6,MP,PUN,Gurnoor Brar,6.4,1,27,2,2,PUNvsMP,False,1
+7,MP,PUN,Sukhdeep Bajwa,6.0,0,23,0,2,PUNvsMP,False,2
+8,MP,PUN,Krish Bhagat,6.0,0,28,2,0,PUNvsMP,False,3
+9,MP,PUN,Sanvir Singh,6.0,0,31,3,1,PUNvsMP,False,4
+10,MP,PUN,Ramandeep Singh,3.4,0,23,2,7,PUNvsMP,False,5
+11,MP,PUN,Mayank Markande,3.0,0,26,1,0,PUNvsMP,False,6
+0,PUN,MUM,Onkar Tukaram Tarmale,8.0,0,38,2,0,PUNvsMUM,False,1
+1,PUN,MUM,Sairaj Patil,6.0,0,36,1,0,PUNvsMUM,False,2
+2,PUN,MUM,Shivam Dube,7.0,0,20,2,0,PUNvsMUM,False,3
+3,PUN,MUM,Shams Mulani,5.0,0,28,0,0,PUNvsMUM,False,4
+4,PUN,MUM,Shashank Attarde,10.0,0,57,2,0,PUNvsMUM,False,5
+5,PUN,MUM,Musheer Khan,9.1,0,37,3,0,PUNvsMUM,False,6
+6,MUM,PUN,Gurnoor Brar,10.0,1,57,4,0,PUNvsMUM,False,1
+7,MUM,PUN,Sukhdeep Bajwa,4.0,0,25,0,0,PUNvsMUM,False,2
+8,MUM,PUN,Abhishek Sharma (c),1.0,0,30,0,0,PUNvsMUM,False,3
+9,MUM,PUN,Harpreet Brar,2.0,1,20,1,0,PUNvsMUM,False,4
+10,MUM,PUN,Krish Bhagat,1.0,0,13,0,0,PUNvsMUM,False,5
+11,MUM,PUN,Ramandeep Singh,2.0,0,22,0,0,PUNvsMUM,False,6
+12,MUM,PUN,Mayank Markande,5.2,0,31,4,0,PUNvsMUM,False,7
+13,MUM,PUN,Harnoor Singh,1.0,0,2,1,0,PUNvsMUM,False,8
+0,PUN,SAUR,Jaydev Unadkat,10.0,0,39,0,1,PUNvsSAUR,False,1
+1,PUN,SAUR,Chetan Sakariya,10.0,0,60,4,4,PUNvsSAUR,False,2
+2,PUN,SAUR,Ankur Panwar,10.0,0,54,2,8,PUNvsSAUR,False,3
+3,PUN,SAUR,Chirag Jani,10.0,0,73,2,3,PUNvsSAUR,False,4
+4,PUN,SAUR,Prerak Mankad,7.0,0,36,0,0,PUNvsSAUR,False,5
+5,PUN,SAUR,Dharmendrasinh Jadeja,3.0,0,27,0,1,PUNvsSAUR,False,6
+6,SAUR,PUN,Gurnoor Brar,7.0,0,52,1,1,PUNvsSAUR,False,1
+7,SAUR,PUN,Sukhdeep Bajwa,9.0,0,70,0,0,PUNvsSAUR,False,2
+8,SAUR,PUN,Krish Bhagat,6.0,0,53,0,1,PUNvsSAUR,False,3
+9,SAUR,PUN,Sanvir Singh,5.0,0,29,0,1,PUNvsSAUR,False,4
+10,SAUR,PUN,Mayank Markande,6.0,0,36,0,0,PUNvsSAUR,False,5
+11,SAUR,PUN,Ramandeep Singh,3.0,0,27,0,1,PUNvsSAUR,False,6
+12,SAUR,PUN,Naman Dhir,3.3,0,20,0,0,PUNvsSAUR,False,7
+0,PUN,UTK,Devendra Singh Bora,9.0,1,67,1,0,PUNvsUTK,False,1
+1,PUN,UTK,Jagmohan Nagarkoti,7.0,0,48,2,0,PUNvsUTK,False,2
+2,PUN,UTK,Abhay Negi,8.0,1,38,1,0,PUNvsUTK,False,3
+3,PUN,UTK,Mayank Mishra,10.0,0,36,2,0,PUNvsUTK,False,4
+4,PUN,UTK,J Suchith,10.0,0,43,1,0,PUNvsUTK,False,5
+5,PUN,UTK,Yuvraj Chaudhary,6.0,0,31,1,0,PUNvsUTK,False,6
+6,UTK,PUN,Gurnoor Brar,9.4,0,74,2,0,PUNvsUTK,False,1
+7,UTK,PUN,Sukhdeep Bajwa,9.0,1,32,0,0,PUNvsUTK,False,2
+8,UTK,PUN,Krish Bhagat,6.0,0,32,0,0,PUNvsUTK,False,3
+9,UTK,PUN,Abhishek Sharma (c),9.0,0,39,2,0,PUNvsUTK,False,4
+10,UTK,PUN,Naman Dhir,2.0,0,12,0,0,PUNvsUTK,False,5
+11,UTK,PUN,Raghu Sharma,7.0,0,46,1,0,PUNvsUTK,False,6
+12,UTK,PUN,Harpreet Brar,5.0,0,30,0,0,PUNvsUTK,False,7
+0,RAJ,KER,Nidheesh,9.0,1,64,1,1,RAJvsKER,False,1
+1,RAJ,KER,Eden Apple,10.0,0,68,1,4,RAJvsKER,False,2
+2,RAJ,KER,Ankit Sharma,10.0,0,45,1,4,RAJvsKER,False,3
+3,RAJ,KER,Muhammed Sharafuddeen,9.0,1,55,3,1,RAJvsKER,False,4
+4,RAJ,KER,Vignesh Puthur,5.0,0,61,0,3,RAJvsKER,False,5
+5,RAJ,KER,Aparajith,7.0,0,44,1,1,RAJvsKER,False,6
+6,KER,RAJ,Aniket Choudhary,10.0,0,67,4,0,RAJvsKER,False,1
+7,KER,RAJ,Akash Maharaj Singh,10.0,0,96,0,6,RAJvsKER,False,2
+8,KER,RAJ,Manav Suthar (c),10.0,0,45,2,1,RAJvsKER,False,3
+9,KER,RAJ,Ashok Sharma,9.0,0,71,1,2,RAJvsKER,False,4
+10,KER,RAJ,Kukna Ajay Singh,10.0,0,50,0,1,RAJvsKER,False,5
+11,KER,RAJ,Mahipal Lomror,1.0,0,15,0,0,RAJvsKER,False,6
+0,RAJ,PDC,Sagar Udeshi,10.0,3,32,3,0,RAJvsPDC,False,1
+1,RAJ,PDC,Nitin Pranaav,8.0,1,51,2,0,RAJvsPDC,False,2
+2,RAJ,PDC,Kannan Vignesh,10.0,0,43,1,0,RAJvsPDC,False,3
+3,RAJ,PDC,Aman Khan (c),7.0,0,67,1,0,RAJvsPDC,False,4
+4,RAJ,PDC,Jayant Yadav,10.0,0,44,1,0,RAJvsPDC,False,5
+5,RAJ,PDC,Ragavan Ramamoorthy,5.0,1,28,0,0,RAJvsPDC,False,6
+6,PDC,RAJ,Khaleel Ahmed,5.0,0,30,2,0,RAJvsPDC,False,1
+7,PDC,RAJ,D Bhambhu,7.0,0,35,3,0,RAJvsPDC,False,2
+8,PDC,RAJ,Manav Suthar (c),8.5,1,38,2,0,RAJvsPDC,False,3
+9,PDC,RAJ,Ashok Sharma,4.0,0,27,2,0,RAJvsPDC,False,4
+10,PDC,RAJ,Kukna Ajay Singh,2.0,0,6,1,0,RAJvsPDC,False,5
+0,RAJ,TN,Gurjapneet Singh,7.5,0,44,2,0,RAJvsTN,False,1
+1,RAJ,TN,Sunny Sandhu,2.0,0,26,0,0,RAJvsTN,False,2
+2,RAJ,TN,Sonu Yadav,7.0,0,38,2,0,RAJvsTN,False,3
+3,RAJ,TN,Varun Chakaravarthy,10.0,2,25,4,0,RAJvsTN,False,4
+4,RAJ,TN,Washington Sundar,10.0,1,53,1,0,RAJvsTN,False,5
+5,RAJ,TN,Sai Kishore,10.0,0,36,1,0,RAJvsTN,False,6
+6,TN,RAJ,Khaleel Ahmed,8.4,0,46,1,0,RAJvsTN,False,1
+7,TN,RAJ,Akash Maharaj Singh,6.0,0,30,0,0,RAJvsTN,False,2
+8,TN,RAJ,Kukna Ajay Singh,6.0,0,31,0,0,RAJvsTN,False,3
+9,TN,RAJ,Ashok Sharma,10.0,1,58,5,0,RAJvsTN,False,4
+10,TN,RAJ,Manav Suthar (c),10.0,0,44,3,0,RAJvsTN,False,5
+11,TN,RAJ,Deepak Hooda,1.0,0,3,1,0,RAJvsTN,False,6
+0,RLYS,AP,Nitish Reddy (c),10.0,0,34,1,0,RLYSvsAP,False,1
+1,RLYS,AP,Satyanarayana Raju,10.0,1,41,3,0,RLYSvsAP,False,2
+2,RLYS,AP,K S Narasimha Raju,10.0,0,68,3,0,RLYSvsAP,False,3
+3,RLYS,AP,Saurabh Kumar,10.0,1,53,0,0,RLYSvsAP,False,4
+4,RLYS,AP,Tripurana Vijay,4.0,0,28,0,0,RLYSvsAP,False,5
+5,RLYS,AP,Maramreddy Hemanth Reddy,6.0,0,34,2,0,RLYSvsAP,False,6
+6,AP,RLYS,Rahul Sharma,9.0,1,48,1,0,RLYSvsAP,False,1
+7,AP,RLYS,Adarsh Singh,7.4,0,63,0,0,RLYSvsAP,False,2
+8,AP,RLYS,Zubair Ali khan,7.0,0,44,0,0,RLYSvsAP,False,3
+9,AP,RLYS,Karn Sharma (c),10.0,0,46,1,0,RLYSvsAP,False,4
+10,AP,RLYS,Raj Choudhary,10.0,0,58,0,0,RLYSvsAP,False,5
+11,AP,RLYS,Ansh Yadav,1.0,0,11,0,0,RLYSvsAP,False,6
+0,RLYS,DEL,Ishant,4.0,2,5,1,0,RLYSvsDEL,False,1
+1,RLYS,DEL,Harshit Rana,7.0,1,42,1,0,RLYSvsDEL,False,2
+2,RLYS,DEL,Navdeep Saini,5.4,0,30,3,0,RLYSvsDEL,False,3
+3,RLYS,DEL,Harsh Tyagi,8.0,0,40,1,0,RLYSvsDEL,False,4
+4,RLYS,DEL,Ayush Badoni,10.0,0,30,3,0,RLYSvsDEL,False,5
+5,RLYS,DEL,Prince Yadav,4.0,0,17,0,0,RLYSvsDEL,False,6
+6,RLYS,DEL,Nitish Rana,2.0,0,10,1,0,RLYSvsDEL,False,7
+7,DEL,RLYS,Rahul Sharma,1.4,0,14,0,0,RLYSvsDEL,False,1
+8,DEL,RLYS,Kunal Yadav,3.0,0,48,0,0,RLYSvsDEL,False,2
+9,DEL,RLYS,Zubair Ali khan,6.2,0,28,1,0,RLYSvsDEL,False,3
+10,DEL,RLYS,Raj Choudhary,4.0,0,46,3,0,RLYSvsDEL,False,4
+11,DEL,RLYS,Ansh Yadav,2.0,0,15,0,0,RLYSvsDEL,False,5
+12,DEL,RLYS,Karn Sharma (c),4.4,0,31,0,0,RLYSvsDEL,False,6
+0,RLYS,SER,Nitin Yadav,10.0,1,83,1,0,RLYSvsSER,False,1
+1,RLYS,SER,Mohit Jangra,9.0,0,65,1,0,RLYSvsSER,False,2
+2,RLYS,SER,Poonia,10.0,1,71,2,0,RLYSvsSER,False,3
+3,RLYS,SER,Arjun Sharma,9.0,0,67,1,0,RLYSvsSER,False,4
+4,RLYS,SER,Pulkit Narang,10.0,0,43,2,0,RLYSvsSER,False,5
+5,RLYS,SER,Irfan Ali,2.0,0,30,0,0,RLYSvsSER,False,6
+6,SER,RLYS,Rahul Sharma,7.0,0,52,1,0,RLYSvsSER,False,1
+7,SER,RLYS,Adarsh Singh,8.0,0,27,1,0,RLYSvsSER,False,2
+8,SER,RLYS,Zubair Ali khan,6.2,1,46,2,0,RLYSvsSER,False,3
+9,SER,RLYS,Karn Sharma (c),10.0,0,76,1,0,RLYSvsSER,False,4
+10,SER,RLYS,Raj Choudhary,10.0,0,27,3,0,RLYSvsSER,False,5
+11,SER,RLYS,Ansh Yadav,6.0,0,51,2,0,RLYSvsSER,False,6
+0,SAUR,AP,Nitish Reddy (c),10.0,0,59,1,0,SAURvsAP,False,1
+1,SAUR,AP,Satyanarayana Raju,10.0,1,45,3,0,SAURvsAP,False,2
+2,SAUR,AP,K S Narasimha Raju,10.0,1,64,2,0,SAURvsAP,False,3
+3,SAUR,AP,Jagarlapudi Ram,5.0,0,30,1,0,SAURvsAP,False,4
+4,SAUR,AP,Saurabh Kumar,10.0,1,32,0,0,SAURvsAP,False,5
+5,SAUR,AP,Maramreddy Hemanth Reddy,5.0,0,23,0,0,SAURvsAP,False,6
+6,AP,SAUR,Aditya Jadeja,6.0,1,33,0,0,SAURvsAP,False,1
+7,AP,SAUR,Chirag Jani,6.0,0,26,1,0,SAURvsAP,False,2
+8,AP,SAUR,Hiten Kanbi,6.0,0,43,1,0,SAURvsAP,False,3
+9,AP,SAUR,Ankur Panwar,10.0,2,27,5,0,SAURvsAP,False,4
+10,AP,SAUR,Prerak Mankad,7.0,0,27,0,0,SAURvsAP,False,5
+11,AP,SAUR,Parth Bhut,9.0,0,20,1,0,SAURvsAP,False,6
+12,AP,SAUR,Sammar Gajjar,3.2,0,4,1,0,SAURvsAP,False,7
+0,SAUR,DEL,Ishant,5.0,0,20,0,0,SAURvsDEL,False,1
+1,SAUR,DEL,Navdeep Saini,10.0,0,41,3,0,SAURvsDEL,False,2
+2,SAUR,DEL,Simarjeet Singh,10.0,0,86,0,0,SAURvsDEL,False,3
+3,SAUR,DEL,Prince Yadav,10.0,0,64,2,0,SAURvsDEL,False,4
+4,SAUR,DEL,Harsh Tyagi,10.0,0,66,1,0,SAURvsDEL,False,5
+5,SAUR,DEL,Nitish Rana,1.0,0,14,0,0,SAURvsDEL,False,6
+6,SAUR,DEL,Arpit Rana,4.0,0,27,1,0,SAURvsDEL,False,7
+7,DEL,SAUR,Chetan Sakariya,10.0,0,77,1,0,SAURvsDEL,False,1
+8,DEL,SAUR,Ankur Panwar,9.5,0,68,1,0,SAURvsDEL,False,2
+9,DEL,SAUR,Chirag Jani,10.0,0,51,2,0,SAURvsDEL,False,3
+10,DEL,SAUR,Hiten Kanbi,8.0,0,52,2,0,SAURvsDEL,False,4
+11,DEL,SAUR,Prerak Mankad,8.0,1,46,1,0,SAURvsDEL,False,5
+12,DEL,SAUR,Dharmendrasinh Jadeja,3.0,0,25,0,0,SAURvsDEL,False,6
+0,SAUR,GUJ,Chintan Gaja (c),9.0,0,75,0,0,SAURvsGUJ,False,1
+1,SAUR,GUJ,Arzan Nagwaswalla,10.0,0,80,1,0,SAURvsGUJ,False,2
+2,SAUR,GUJ,Japagnya Bhatt,9.0,0,80,1,0,SAURvsGUJ,False,3
+3,SAUR,GUJ,Vishal Jayswal,10.0,0,57,1,0,SAURvsGUJ,False,4
+4,SAUR,GUJ,Ravi Bishnoi,10.0,0,71,1,0,SAURvsGUJ,False,5
+5,SAUR,GUJ,Jaymeet Patel,2.0,0,19,0,0,SAURvsGUJ,False,6
+6,GUJ,SAUR,Chetan Sakariya,7.0,0,41,3,0,SAURvsGUJ,False,1
+7,GUJ,SAUR,Chirag Jani,4.0,0,34,1,0,SAURvsGUJ,False,2
+8,GUJ,SAUR,Ankur Panwar,5.0,0,34,1,0,SAURvsGUJ,False,3
+9,GUJ,SAUR,Ravindra Jadeja,10.0,0,62,3,0,SAURvsGUJ,False,4
+10,GUJ,SAUR,Pranav Karia,10.0,0,43,1,0,SAURvsGUJ,False,5
+11,GUJ,SAUR,Sammar Gajjar,4.0,1,24,0,0,SAURvsGUJ,False,6
+0,SAUR,HAR,Anshul Kamboj,10.0,3,30,3,0,SAURvsHAR,False,1
+1,SAUR,HAR,Sumit Kumar,9.0,1,45,0,0,SAURvsHAR,False,2
+2,SAUR,HAR,Anuj Thakral,8.1,0,38,2,0,SAURvsHAR,False,3
+3,SAUR,HAR,Samant Jakhar,8.0,0,60,2,0,SAURvsHAR,False,4
+4,SAUR,HAR,Amit Rana,7.0,0,38,0,0,SAURvsHAR,False,5
+5,SAUR,HAR,Nishant Sindhu,6.0,0,40,1,0,SAURvsHAR,False,6
+6,HAR,SAUR,Chetan Sakariya,9.0,0,67,1,0,SAURvsHAR,False,1
+7,HAR,SAUR,Ankur Panwar,10.0,0,51,3,0,SAURvsHAR,False,2
+8,HAR,SAUR,Prerak Mankad,5.0,0,30,0,0,SAURvsHAR,False,3
+9,HAR,SAUR,Dharmendrasinh Jadeja,8.0,0,45,0,0,SAURvsHAR,False,4
+10,HAR,SAUR,Pranav Karia,5.0,0,33,0,0,SAURvsHAR,False,5
+11,HAR,SAUR,Sammar Gajjar,2.0,0,30,0,0,SAURvsHAR,False,6
+0,SAUR,RLYS,Rahul Sharma,10.0,2,32,2,1,SAURvsRLYS,False,1
+1,SAUR,RLYS,Kunal Yadav,10.0,0,71,3,5,SAURvsRLYS,False,2
+2,SAUR,RLYS,Zubair Ali,10.0,0,82,3,1,SAURvsRLYS,False,3
+3,SAUR,RLYS,Sahab Yuvraj,4.0,0,34,0,0,SAURvsRLYS,False,4
+4,SAUR,RLYS,Karn Sharma (c),5.0,0,23,0,0,SAURvsRLYS,False,5
+5,SAUR,RLYS,Raj Choudhary,7.0,0,32,0,1,SAURvsRLYS,False,6
+6,SAUR,RLYS,Ansh Yadav,4.0,0,19,0,0,SAURvsRLYS,False,7
+7,RLYS,SAUR,Aditya Jadeja,5.0,0,20,1,1,SAURvsRLYS,False,1
+8,RLYS,SAUR,Chirag Jani,9.1,1,58,2,1,SAURvsRLYS,False,2
+9,RLYS,SAUR,Ankur Panwar,10.0,1,49,3,1,SAURvsRLYS,False,3
+10,RLYS,SAUR,Hiten Kanbi,5.0,0,33,0,3,SAURvsRLYS,False,4
+11,RLYS,SAUR,Dharmendrasinh Jadeja,10.0,0,43,0,0,SAURvsRLYS,False,5
+12,RLYS,SAUR,Prerak Mankad,9.0,0,48,3,3,SAURvsRLYS,False,6
+13,RLYS,SAUR,Sammar Gajjar,1.0,0,9,0,0,SAURvsRLYS,False,7
+0,SAUR,SER,Nitin Yadav,7.0,0,51,0,0,SAURvsSER,False,1
+1,SAUR,SER,Poonia,9.0,0,64,0,0,SAURvsSER,False,2
+2,SAUR,SER,A Shukla,8.0,0,46,0,0,SAURvsSER,False,3
+3,SAUR,SER,Raj Bahadur,9.0,0,83,1,0,SAURvsSER,False,4
+4,SAUR,SER,Pulkit Narang,10.0,0,62,3,0,SAURvsSER,False,5
+5,SAUR,SER,Vineet Dhankhar,7.0,0,41,1,0,SAURvsSER,False,6
+6,SER,SAUR,Chetan Sakariya,10.0,0,57,3,0,SAURvsSER,False,1
+7,SER,SAUR,Chirag Jani,4.5,0,33,1,0,SAURvsSER,False,2
+8,SER,SAUR,Ankur Panwar,6.0,0,42,1,0,SAURvsSER,False,3
+9,SER,SAUR,Ravindra Jadeja,10.0,0,48,1,0,SAURvsSER,False,4
+10,SER,SAUR,Dharmendrasinh Jadeja,10.0,0,30,3,0,SAURvsSER,False,5
+11,SER,SAUR,Sammar Gajjar,5.0,1,17,1,0,SAURvsSER,False,6
+0,SER,AP,Satyanarayana Raju,8.0,1,30,2,0,SERvsAP,False,1
+1,SER,AP,Tripurana Vijay,10.0,1,33,1,0,SERvsAP,False,2
+2,SER,AP,Jagarlapudi Ram,8.0,0,38,3,0,SERvsAP,False,3
+3,SER,AP,Bhupathiraju Munish Varma,3.0,0,15,0,0,SERvsAP,False,4
+4,SER,AP,Bodhala Vinay Kumar,10.0,0,23,1,0,SERvsAP,False,5
+5,SER,AP,Maramreddy Hemanth Reddy (c),6.0,1,23,3,0,SERvsAP,False,6
+6,AP,SER,Nitin Yadav,6.1,1,28,1,0,SERvsAP,False,1
+7,AP,SER,Poonam Poonia,8.0,0,34,0,0,SERvsAP,False,2
+8,AP,SER,Pulkit Narang,8.0,1,18,1,0,SERvsAP,False,3
+9,AP,SER,Amit Shukla,10.0,1,40,2,0,SERvsAP,False,4
+10,AP,SER,Vineet Dhankhar,5.0,0,34,0,0,SERvsAP,False,5
+11,AP,SER,Abhishek Tiwari,1.0,0,7,1,0,SERvsAP,False,6
+0,SER,DEL,Ishant,6.0,1,16,1,2,SERvsDEL,False,1
+1,SER,DEL,Harshit Rana,10.0,0,47,4,9,SERvsDEL,False,2
+2,SER,DEL,Prince Yadav,7.5,2,28,3,2,SERvsDEL,False,3
+3,SER,DEL,Navdeep Saini,6.0,1,22,0,1,SERvsDEL,False,4
+4,SER,DEL,Ayush Badoni,7.0,0,28,1,0,SERvsDEL,False,5
+5,SER,DEL,Harsh Tyagi,6.0,0,30,1,0,SERvsDEL,False,6
+6,DEL,SER,Nitin Yadav,4.0,0,41,1,0,SERvsDEL,False,1
+7,DEL,SER,Poonam Poonia,5.0,0,27,0,1,SERvsDEL,False,2
+8,DEL,SER,Pal Raj Bahadur,3.0,0,39,0,0,SERvsDEL,False,3
+9,DEL,SER,Aditya Kumar,3.0,0,37,0,1,SERvsDEL,False,4
+10,DEL,SER,Pulkit Narang (c),4.4,0,34,1,0,SERvsDEL,False,5
+0,SER,GUJ,Nagwaswalla,8.2,1,34,4,0,SERvsGUJ,False,1
+1,SER,GUJ,Chintan Gaja (c),10.0,2,42,2,0,SERvsGUJ,False,2
+2,SER,GUJ,Japagnya Bhatt,5.0,0,26,0,0,SERvsGUJ,False,3
+3,SER,GUJ,Hemang Patel,3.0,0,10,0,0,SERvsGUJ,False,4
+4,SER,GUJ,Ravi Bishnoi,10.0,1,40,3,0,SERvsGUJ,False,5
+5,SER,GUJ,Vishal Jayswal,6.0,0,25,1,0,SERvsGUJ,False,6
+6,GUJ,SER,Nitin Yadav,6.0,0,30,1,0,SERvsGUJ,False,1
+7,GUJ,SER,Mohit Jangra,4.0,0,41,0,0,SERvsGUJ,False,2
+8,GUJ,SER,Poonam Poonia,4.5,0,35,0,0,SERvsGUJ,False,3
+9,GUJ,SER,Nitin Tanwar,10.0,0,42,0,0,SERvsGUJ,False,4
+10,GUJ,SER,Arjun Sharma,10.0,0,36,1,0,SERvsGUJ,False,5
+0,SER,HAR,Anshul Kamboj,10.0,1,43,4,0,SERvsHAR,False,1
+1,SER,HAR,Sumit Kumar,10.0,0,48,1,0,SERvsHAR,False,2
+2,SER,HAR,Anuj Thakral,10.0,0,54,1,0,SERvsHAR,False,3
+3,SER,HAR,Samant Jakhar,7.0,1,45,1,0,SERvsHAR,False,4
+4,SER,HAR,Parth Vats,9.0,0,51,0,0,SERvsHAR,False,5
+5,SER,HAR,Amit Rana,4.0,0,24,0,0,SERvsHAR,False,6
+6,HAR,SER,Mohit Jangra,6.0,0,41,0,0,SERvsHAR,False,1
+7,HAR,SER,Nitin Yadav,8.0,1,35,2,0,SERvsHAR,False,2
+8,HAR,SER,Poonam Poonia,8.0,0,49,0,0,SERvsHAR,False,3
+9,HAR,SER,Arjun Sharma,10.0,0,79,0,0,SERvsHAR,False,4
+10,HAR,SER,Pulkit Narang,8.0,0,54,0,0,SERvsHAR,False,5
+11,HAR,SER,Ravi Chauhan,3.0,0,12,1,0,SERvsHAR,False,6
+12,HAR,SER,Mohit Ahlawat,0.1,0,4,0,0,SERvsHAR,False,7
+0,SER,ODSA,Rajesh Mohanty,9.0,2,25,3,0,SERvsODSA,False,1
+1,SER,ODSA,Debabrata Pradhan,2.0,0,16,0,0,SERvsODSA,False,2
+2,SER,ODSA,Sambit S Baral,8.5,0,21,4,0,SERvsODSA,False,3
+3,SER,ODSA,Badal Biswal,2.0,0,20,2,0,SERvsODSA,False,4
+4,ODSA,SER,Nitin Yadav,8.0,2,20,2,0,SERvsODSA,False,1
+5,ODSA,SER,Poonam Poonia,9.3,0,27,4,0,SERvsODSA,False,2
+6,ODSA,SER,Pal Raj Bahadur,7.0,0,36,0,0,SERvsODSA,False,3
+0,SKM,HP,Abhishek Kumar,8.0,0,49,0,0,SKMvsHP,False,1
+1,SKM,HP,Vaibhav Arora,7.0,0,44,1,0,SKMvsHP,False,2
+2,SKM,HP,Mridul Surroch (c),8.0,2,24,3,0,SKMvsHP,False,3
+3,SKM,HP,Aryaman Singh Dhaliwal,8.0,0,21,1,0,SKMvsHP,False,4
+4,SKM,HP,Mayank Dagar,7.0,0,22,1,0,SKMvsHP,False,5
+5,HP,SKM,Palzor Tamang,4.0,0,20,0,0,SKMvsHP,False,1
+6,HP,SKM,Md Saptulla,2.0,0,14,0,0,SKMvsHP,False,2
+7,HP,SKM,Lee Yong Lepcha (c),3.0,0,21,0,0,SKMvsHP,False,3
+8,HP,SKM,Gurinder Singh,5.0,0,28,0,1,SKMvsHP,False,4
+9,HP,SKM,Abishek Kumar,2.0,0,18,0,0,SKMvsHP,False,5
+10,HP,SKM,Ankur Malik,6.0,0,29,1,0,SKMvsHP,False,6
+11,HP,SKM,Siddharth Prasad,4.1,0,32,0,0,SKMvsHP,False,7
+0,SKM,MAH,Rajvardhan Hangargekar,7.2,2,21,4,0,SKMvsMAH,False,1
+1,SKM,MAH,Pradeep Dadhe,9.0,0,35,0,0,SKMvsMAH,False,2
+2,SKM,MAH,Ramakrishna Ghosh,7.0,1,22,3,0,SKMvsMAH,False,3
+3,SKM,MAH,Satyajeet Bachhav,8.0,0,29,1,0,SKMvsMAH,False,4
+4,SKM,MAH,Arshin Kulkarni,1.0,0,2,0,0,SKMvsMAH,False,5
+5,SKM,MAH,Vicky Ostwal,8.0,0,37,2,0,SKMvsMAH,False,6
+6,MAH,SKM,Palzor Tamang,5.0,0,22,0,0,SKMvsMAH,False,1
+7,MAH,SKM,Kranthi Kumar,4.0,0,26,0,0,SKMvsMAH,False,2
+8,MAH,SKM,Abishek Kumar,2.0,0,25,0,0,SKMvsMAH,False,3
+9,MAH,SKM,Gurinder Singh,3.0,0,24,1,0,SKMvsMAH,False,4
+10,MAH,SKM,Lee Yong Lepcha (c),2.0,0,20,1,0,SKMvsMAH,False,5
+11,MAH,SKM,Ankur Malik,1.0,0,16,0,0,SKMvsMAH,False,6
+12,MAH,SKM,Md Saptulla,1.0,0,17,0,0,SKMvsMAH,False,7
+0,SKM,MUM,Thakur (c),6.0,0,19,2,2,SKMvsMUM,False,1
+1,SKM,MUM,Tushar Deshpande,8.0,0,32,1,4,SKMvsMUM,False,2
+2,SKM,MUM,Tanush Kotian,9.0,0,63,1,1,SKMvsMUM,False,3
+3,SKM,MUM,Sylvester DSouza,7.0,0,28,0,2,SKMvsMUM,False,4
+4,SKM,MUM,Shams Mulani,10.0,0,51,1,1,SKMvsMUM,False,5
+5,SKM,MUM,Musheer Khan,10.0,1,37,1,1,SKMvsMUM,False,6
+6,MUM,SKM,Palzor Tamang,5.0,2,28,0,0,SKMvsMUM,False,1
+7,MUM,SKM,Kranthi Kumar,6.0,0,60,1,4,SKMvsMUM,False,2
+8,MUM,SKM,Gurinder Singh,5.0,0,37,0,0,SKMvsMUM,False,3
+9,MUM,SKM,Abhishek Kr Shah,4.0,0,24,0,1,SKMvsMUM,False,4
+10,MUM,SKM,Ankur Malik,4.0,0,41,1,2,SKMvsMUM,False,5
+11,MUM,SKM,Md Saptulla,4.0,0,26,0,0,SKMvsMUM,False,6
+12,MUM,SKM,Lee Yong Lepcha (c),2.3,0,20,0,0,SKMvsMUM,False,7
+0,SKM,PUN,Arshdeep Singh,10.0,1,34,5,0,SKMvsPUN,False,1
+1,SKM,PUN,Sukhdeep Bajwa,5.0,0,24,2,0,SKMvsPUN,False,2
+2,SKM,PUN,Gurnoor Brar,6.0,1,13,1,0,SKMvsPUN,False,3
+3,SKM,PUN,Markande,1.2,0,2,2,0,SKMvsPUN,False,4
+4,PUN,SKM,Palzor Tamang,3.0,0,32,0,0,SKMvsPUN,False,1
+5,PUN,SKM,Kranthi Kumar,2.0,0,24,0,0,SKMvsPUN,False,2
+6,PUN,SKM,Abishek Kumar,1.0,0,14,0,0,SKMvsPUN,False,3
+7,PUN,SKM,Rahul Kumar Prasad,0.2,0,11,0,0,SKMvsPUN,False,4
+0,SKM,UTK,Abhay Negi,7.0,0,42,1,0,SKMvsUTK,False,1
+1,SKM,UTK,Aryan Garg,1.0,0,11,0,0,SKMvsUTK,False,2
+2,SKM,UTK,Agnivesh Ayachi,5.0,0,33,1,0,SKMvsUTK,False,3
+3,SKM,UTK,Mayank Mishra,7.0,0,44,1,0,SKMvsUTK,False,4
+4,SKM,UTK,J Suchith,7.0,0,47,2,0,SKMvsUTK,False,5
+5,SKM,UTK,Shashwat Dangwal,1.0,0,4,1,0,SKMvsUTK,False,6
+6,SKM,UTK,Yuvraj Chaudhary,5.0,0,32,1,0,SKMvsUTK,False,7
+7,UTK,SKM,Palzor Tamang,7.0,0,42,1,0,SKMvsUTK,False,1
+8,UTK,SKM,Lee Yong Lepcha (c),7.0,0,54,0,0,SKMvsUTK,False,2
+9,UTK,SKM,Abishek Kumar,3.1,0,27,0,0,SKMvsUTK,False,3
+10,UTK,SKM,Gurinder Singh,5.0,0,32,1,0,SKMvsUTK,False,4
+11,UTK,SKM,Ankur Malik,5.0,0,42,1,0,SKMvsUTK,False,5
+12,UTK,SKM,Rahul Kumar Prasad,4.0,0,24,0,0,SKMvsUTK,False,6
+0,TN,JHKD,Sushant Mishra,9.0,2,51,2,0,TNvsJHKD,False,1
+1,TN,JHKD,Shubham Singh,7.0,0,53,4,0,TNvsJHKD,False,2
+2,TN,JHKD,Utkarsh Singh,6.0,0,32,1,1,TNvsJHKD,False,3
+3,TN,JHKD,Rajandeep Singh,8.0,0,35,1,3,TNvsJHKD,False,4
+4,TN,JHKD,Md Kounain Quraishi,2.0,0,8,0,0,TNvsJHKD,False,5
+5,TN,JHKD,Anukul Roy,7.0,0,32,1,0,TNvsJHKD,False,6
+6,TN,JHKD,Manishi,6.0,0,26,1,0,TNvsJHKD,False,7
+7,JHKD,TN,Gurjapneet Singh,7.0,0,49,0,2,TNvsJHKD,False,1
+8,JHKD,TN,Govinth Ganesh,5.0,0,34,0,2,TNvsJHKD,False,2
+9,JHKD,TN,Mohamed Ali,8.0,0,43,0,0,TNvsJHKD,False,3
+10,JHKD,TN,Sonu Yadav,3.0,0,26,0,0,TNvsJHKD,False,4
+11,JHKD,TN,Pradosh Ranjan Paul,9.0,0,41,1,1,TNvsJHKD,False,5
+12,JHKD,TN,Ravisrinivasan Sai Kishore,9.0,0,45,0,0,TNvsJHKD,False,6
+0,TN,KAR,Prasidh,10.0,0,60,0,0,TNvsKAR,False,1
+1,TN,KAR,Abhilash Shetty,7.5,0,57,4,0,TNvsKAR,False,2
+2,TN,KAR,Vidyadhar Patil,10.0,0,62,2,0,TNvsKAR,False,3
+3,TN,KAR,Shreyas Gopal,10.0,0,47,1,0,TNvsKAR,False,4
+4,TN,KAR,Shreesha Achar,10.0,0,47,2,0,TNvsKAR,False,5
+5,TN,KAR,Padikkal,2.0,0,14,0,0,TNvsKAR,False,6
+6,KAR,TN,Gurjapneet Singh,9.0,2,35,1,0,TNvsKAR,False,1
+7,KAR,TN,Govinth Ganesh,10.0,0,72,1,0,TNvsKAR,False,2
+8,KAR,TN,Ravisrinivasan Sai Kishore,10.0,0,51,1,0,TNvsKAR,False,3
+9,KAR,TN,Sonu Yadav,8.1,0,68,1,0,TNvsKAR,False,4
+10,KAR,TN,Mohamed Ali,5.0,0,33,0,0,TNvsKAR,False,5
+11,KAR,TN,Sunny Sandhu,4.0,0,25,1,0,TNvsKAR,False,6
+12,KAR,TN,Pradosh Ranjan Paul,1.0,0,5,0,0,TNvsKAR,False,7
+0,TN,KER,MD Nidheesh,9.0,0,71,0,0,TNvsKER,False,1
+1,TN,KER,Muhammed Sharafuddeen,2.0,0,15,0,0,TNvsKER,False,2
+2,TN,KER,Ankit Sharma,10.0,0,43,1,0,TNvsKER,False,3
+3,TN,KER,Baba Aparajith,10.0,1,47,0,0,TNvsKER,False,4
+4,TN,KER,Eden Apple Tom,9.0,0,46,6,0,TNvsKER,False,5
+5,TN,KER,Biju Narayanan,10.0,0,65,1,0,TNvsKER,False,6
+6,KER,TN,Gurjapneet Singh,4.0,0,22,0,0,TNvsKER,False,1
+7,KER,TN,Sunny Sandhu,7.0,0,44,0,0,TNvsKER,False,2
+8,KER,TN,Ravisrinivasan Sai Kishore,7.0,1,37,2,0,TNvsKER,False,3
+9,KER,TN,Sonu Yadav,3.0,0,24,0,0,TNvsKER,False,4
+10,KER,TN,Sachin Rathi,10.0,1,52,4,0,TNvsKER,False,5
+11,KER,TN,Mohamed Ali,9.2,0,36,4,0,TNvsKER,False,6
+0,TN,MP,Venkatesh Iyer (c),10.0,0,44,0,0,TNvsMP,False,1
+1,TN,MP,Aryan Pandey,9.0,0,52,0,0,TNvsMP,False,2
+2,TN,MP,Tripuresh Singh,9.3,0,61,2,0,TNvsMP,False,3
+3,TN,MP,Mangesh Yadav,9.0,0,45,2,0,TNvsMP,False,4
+4,TN,MP,Kumar Kartikeya,10.0,0,62,3,0,TNvsMP,False,5
+5,TN,MP,Saransh Jain,2.0,0,13,0,0,TNvsMP,False,6
+6,MP,TN,Gurjapneet Singh,9.2,1,60,2,0,TNvsMP,False,1
+7,MP,TN,Govinth Ganesh,10.0,1,54,4,0,TNvsMP,False,2
+8,MP,TN,Sonu Yadav,10.0,0,60,2,0,TNvsMP,False,3
+9,MP,TN,Sunny Sandhu,2.0,0,12,0,0,TNvsMP,False,4
+10,MP,TN,Ravisrinivasan Sai Kishore,10.0,0,42,0,0,TNvsMP,False,5
+11,MP,TN,Mohamed Ali,6.0,0,42,0,0,TNvsMP,False,6
+12,MP,TN,Pradosh Ranjan Paul,2.0,0,13,0,0,TNvsMP,False,7
+0,TN,PDC,Gaurav Yadav,9.0,0,64,0,0,TNvsPDC,False,1
+1,TN,PDC,Adil Ayub Tunda,10.0,1,84,2,0,TNvsPDC,False,2
+2,TN,PDC,Aman Khan (c),10.0,0,67,1,0,TNvsPDC,False,3
+3,TN,PDC,Sagar Udeshi,10.0,0,42,2,0,TNvsPDC,False,4
+4,TN,PDC,Jayant Yadav,10.0,0,40,1,0,TNvsPDC,False,5
+5,TN,PDC,Pugazhendi Akash,1.0,0,9,1,0,TNvsPDC,False,6
+6,PDC,TN,Gurjapneet Singh,8.5,0,32,4,0,TNvsPDC,False,1
+7,PDC,TN,Sunny Sandhu,5.0,0,33,0,0,TNvsPDC,False,2
+8,PDC,TN,Sonu Yadav,8.0,0,31,2,0,TNvsPDC,False,3
+9,PDC,TN,Ravisrinivasan Sai Kishore,10.0,0,48,2,1,TNvsPDC,False,4
+10,PDC,TN,Pradosh Ranjan Paul,5.0,0,18,0,0,TNvsPDC,False,5
+11,PDC,TN,Sachin Rathi,10.0,0,46,2,0,TNvsPDC,False,6
+0,TN,TRI,Abhijit K Sarkar,10.0,1,43,1,0,TNvsTRI,False,1
+1,TN,TRI,M Murasingh (c),10.0,1,50,2,0,TNvsTRI,False,2
+2,TN,TRI,Vijay Shankar,10.0,1,49,0,0,TNvsTRI,False,3
+3,TN,TRI,Ajay Sarkar,10.0,0,49,1,0,TNvsTRI,False,4
+4,TN,TRI,Swapnil Singh,10.0,0,59,0,0,TNvsTRI,False,5
+5,TRI,TN,Gurjapneet Singh,8.0,0,26,6,0,TNvsTRI,False,1
+6,TRI,TN,CV Achyuth,5.0,0,40,0,0,TNvsTRI,False,2
+7,TRI,TN,Washington Sundar,10.0,0,36,1,0,TNvsTRI,False,3
+8,TRI,TN,Varun Chakaravarthy,7.4,1,23,2,0,TNvsTRI,False,4
+9,TRI,TN,Ravisrinivasan Sai Kishore,8.0,0,36,0,0,TNvsTRI,False,5
+10,TRI,TN,Karthick Manikandan,1.0,0,22,0,0,TNvsTRI,False,6
+11,TRI,TN,Mohamed Ali,3.0,0,20,0,0,TNvsTRI,False,7
+0,TRI,JHKD,Sushant Mishra,10.0,1,52,6,0,TRIvsJHKD,False,1
+1,TRI,JHKD,Shubham Singh,10.0,0,63,1,0,TRIvsJHKD,False,2
+2,TRI,JHKD,Anukul Roy,10.0,0,59,0,0,TRIvsJHKD,False,3
+3,TRI,JHKD,Manishi,9.0,1,51,0,0,TRIvsJHKD,False,4
+4,TRI,JHKD,Rajandeep Singh,8.0,0,63,1,0,TRIvsJHKD,False,5
+5,TRI,JHKD,Utkarsh Singh,3.0,0,23,0,0,TRIvsJHKD,False,6
+6,JHKD,TRI,Abhijit K Sarkar,10.0,3,40,4,0,TRIvsJHKD,False,1
+7,JHKD,TRI,Manisankar Murasingh (c),6.0,0,28,0,1,TRIvsJHKD,False,2
+8,JHKD,TRI,Ajay Sarkar,5.0,0,23,2,0,TRIvsJHKD,False,3
+9,JHKD,TRI,Swapnil Singh,9.1,1,28,2,0,TRIvsJHKD,False,4
+10,JHKD,TRI,Debaprasad Krishnanaman Sinha,1.0,0,3,0,0,TRIvsJHKD,False,5
+0,TRI,MP,Venkatesh Iyer (c),10.0,0,44,4,4,TRIvsMP,False,1
+1,TRI,MP,Aryan Pandey,7.0,0,43,0,1,TRIvsMP,False,2
+2,TRI,MP,Tripuresh Singh,7.0,0,46,0,0,TRIvsMP,False,3
+3,TRI,MP,Rahul Batham,8.0,0,47,0,0,TRIvsMP,False,4
+4,TRI,MP,Kumar Kartikeya,10.0,0,56,2,1,TRIvsMP,False,5
+5,TRI,MP,Saransh Jain,8.0,0,41,1,0,TRIvsMP,False,6
+6,MP,TRI,Saruk Hossain,8.0,0,52,1,3,TRIvsMP,False,1
+7,MP,TRI,Manisankar Murasingh (c),8.0,0,46,1,1,TRIvsMP,False,2
+8,MP,TRI,Abhijit K Sarkar,7.0,0,60,1,1,TRIvsMP,False,3
+9,MP,TRI,Swapnil Singh,10.0,0,51,0,0,TRIvsMP,False,4
+10,MP,TRI,Bikramjit Debnath,3.0,0,26,0,0,TRIvsMP,False,5
+11,MP,TRI,Vijay Shankar,8.0,0,49,3,0,TRIvsMP,False,6
+0,TRI,RAJ,Khaleel Ahmed,10.0,1,51,2,0,TRIvsRAJ,False,1
+1,TRI,RAJ,Aniket Choudhary,9.5,1,64,3,0,TRIvsRAJ,False,2
+2,TRI,RAJ,Ashok Sharma,8.0,0,53,2,0,TRIvsRAJ,False,3
+3,TRI,RAJ,Manav Suthar (c),10.0,1,44,1,0,TRIvsRAJ,False,4
+4,TRI,RAJ,Kukna Ajay Singh,10.0,0,51,1,0,TRIvsRAJ,False,5
+5,TRI,RAJ,Lomror,2.0,0,14,0,0,TRIvsRAJ,False,6
+6,RAJ,TRI,Manisankar Murasingh (c),8.0,0,30,3,0,TRIvsRAJ,False,1
+7,RAJ,TRI,Abhijit K Sarkar,6.0,0,41,0,0,TRIvsRAJ,False,2
+8,RAJ,TRI,Swapnil Singh,7.0,0,32,0,0,TRIvsRAJ,False,3
+9,RAJ,TRI,Parvez Sultan,10.0,0,42,1,0,TRIvsRAJ,False,4
+10,RAJ,TRI,Viki Saha,6.0,0,38,1,0,TRIvsRAJ,False,5
+11,RAJ,TRI,Vijay Shankar,7.2,1,30,4,0,TRIvsRAJ,False,6
+0,UP,BRD,Rasikh Salam,10.0,0,102,1,0,UPvsBRD,False,1
+1,UP,BRD,Raj Limbani,10.0,0,74,4,0,UPvsBRD,False,2
+2,UP,BRD,A Sheth,10.0,2,62,0,0,UPvsBRD,False,3
+3,UP,BRD,Krunal Pandya (c),10.0,0,64,0,0,UPvsBRD,False,4
+4,UP,BRD,Aryan Chavda,7.0,0,46,2,0,UPvsBRD,False,5
+5,UP,BRD,Priyanshu Moliya,3.0,0,19,0,0,UPvsBRD,False,6
+6,BRD,UP,Kunal Tyagi,7.0,1,44,1,0,UPvsBRD,False,1
+7,BRD,UP,Vaibhav Chaudhary,2.1,0,6,0,0,UPvsBRD,False,2
+8,BRD,UP,Sameer Rizvi,5.5,0,43,2,0,UPvsBRD,False,3
+9,BRD,UP,Vipraj Nigam,10.0,0,67,2,0,UPvsBRD,False,4
+10,BRD,UP,Zeeshan Ansari,10.0,1,53,3,0,UPvsBRD,False,5
+11,BRD,UP,Rinku Singh (c),5.0,0,29,1,0,UPvsBRD,False,6
+12,BRD,UP,Prashant Veer,10.0,0,69,1,0,UPvsBRD,False,7
+0,UP,CDG,Sandeep Sharma,10.0,1,76,1,0,UPvsCDG,False,1
+1,UP,CDG,Jagjit Singh,10.0,0,64,0,0,UPvsCDG,False,2
+2,UP,CDG,Rohit Dhanda,10.0,0,69,0,0,UPvsCDG,False,3
+3,UP,CDG,Taranpreet Singh,10.0,0,74,2,0,UPvsCDG,False,4
+4,UP,CDG,Nishunk Birla,9.0,0,72,1,0,UPvsCDG,False,5
+5,UP,CDG,Arslan Khan,1.0,0,11,0,0,UPvsCDG,False,6
+6,CDG,UP,Kartik Tyagi,6.0,0,45,1,0,UPvsCDG,False,1
+7,CDG,UP,Vaibhav Chaudhary,5.0,1,18,1,0,UPvsCDG,False,2
+8,CDG,UP,Prashant Veer,5.0,1,11,1,0,UPvsCDG,False,3
+9,CDG,UP,Zeeshan Ansari,7.0,0,29,4,0,UPvsCDG,False,4
+10,CDG,UP,Vipraj Nigam,6.3,0,35,2,0,UPvsCDG,False,5
+0,UP,HYD,Chinntla Rakshan Readdi,10.0,0,62,1,0,UPvsHYD,False,1
+1,UP,HYD,Kartikeya Kak,10.0,0,76,0,0,UPvsHYD,False,2
+2,UP,HYD,T Thyagarajan,10.0,0,51,1,0,UPvsHYD,False,3
+3,UP,HYD,Arfaz Ahmed Mohammad,8.0,0,59,2,0,UPvsHYD,False,4
+4,UP,HYD,Nitin Sai Yadav,10.0,0,60,1,0,UPvsHYD,False,5
+5,UP,HYD,Aelgani Varun Goud,2.0,0,16,0,0,UPvsHYD,False,6
+6,HYD,UP,Vaibhav Chaudhary,6.0,0,43,0,0,UPvsHYD,False,1
+7,HYD,UP,Kartik Tyagi,6.0,0,45,2,0,UPvsHYD,False,2
+8,HYD,UP,Rinku Singh (c),3.0,0,29,0,0,UPvsHYD,False,3
+9,HYD,UP,Vipraj Nigam,8.0,0,40,1,0,UPvsHYD,False,4
+10,HYD,UP,Zeeshan Ansari,10.0,0,31,4,0,UPvsHYD,False,5
+11,HYD,UP,Prashant Veer,10.0,0,47,3,0,UPvsHYD,False,6
+0,UP,JK,Auqib Nabi,10.0,0,73,2,0,UPvsJK,False,1
+1,UP,JK,Sunil Kumar,8.0,2,38,0,0,UPvsJK,False,2
+2,UP,JK,Nasir Lone,9.0,0,48,1,0,UPvsJK,False,3
+3,UP,JK,Yawer Hassan,1.0,0,12,0,0,UPvsJK,False,4
+4,UP,JK,Abid Mushtaq,10.0,0,53,0,0,UPvsJK,False,5
+5,UP,JK,M Ashwin,9.0,0,79,1,0,UPvsJK,False,6
+6,UP,JK,Kawalpreet Singh,1.0,0,13,0,0,UPvsJK,False,7
+7,JK,UP,Karan Chaudhary,8.0,1,75,0,0,UPvsJK,False,1
+8,JK,UP,Prashant Veer,9.0,0,33,1,0,UPvsJK,False,2
+9,JK,UP,Vipraj Nigam,10.0,0,51,1,0,UPvsJK,False,3
+10,JK,UP,Kuldeep Yadav,10.0,1,47,2,0,UPvsJK,False,4
+11,JK,UP,Zeeshan Ansari,10.0,0,49,3,0,UPvsJK,False,5
+12,JK,UP,Sameer Rizvi,1.0,0,9,0,0,UPvsJK,False,6
+0,UP,SAUR,Chetan Sakariya,10.0,2,54,3,0,UPvsSAUR,False,1
+1,UP,SAUR,Aditya Jadeja,3.0,0,27,0,3,UPvsSAUR,False,2
+2,UP,SAUR,Chirag Jani,5.0,0,44,0,0,UPvsSAUR,False,3
+3,UP,SAUR,Ankur Panwar,10.0,0,75,2,1,UPvsSAUR,False,4
+4,UP,SAUR,Prerak Mankad,7.0,0,47,2,1,UPvsSAUR,False,5
+5,UP,SAUR,Dharmendrasinh Jadeja,10.0,0,38,0,0,UPvsSAUR,False,6
+6,UP,SAUR,Prasanta Rana,5.0,0,24,1,2,UPvsSAUR,False,7
+7,SAUR,UP,Vineet Panwar,7.0,0,41,0,1,UPvsSAUR,False,1
+8,SAUR,UP,Karan Chaudhary,5.1,0,33,1,0,UPvsSAUR,False,2
+9,SAUR,UP,Prashant Veer,9.0,0,53,1,0,UPvsSAUR,False,3
+10,SAUR,UP,Zeeshan Ansari,9.0,0,46,0,2,UPvsSAUR,False,4
+11,SAUR,UP,Vipraj Nigam,8.0,0,46,1,1,UPvsSAUR,False,5
+12,SAUR,UP,Rinku Singh (c),2.0,0,15,0,0,UPvsSAUR,False,6
+0,UP,VID,Praful Hinge,8.0,0,61,0,0,UPvsVID,False,1
+1,UP,VID,Nachiket Bhute,10.0,0,70,1,0,UPvsVID,False,2
+2,UP,VID,Yash Thakur,9.0,0,77,1,0,UPvsVID,False,3
+3,UP,VID,Parth Rekhade,10.0,0,54,1,0,UPvsVID,False,4
+4,UP,VID,Harsh Dubey (c),10.0,0,51,1,0,UPvsVID,False,5
+5,UP,VID,Atharva Taide,3.0,0,24,0,0,UPvsVID,False,6
+6,VID,UP,Kartik Tyagi,9.0,0,79,2,0,UPvsVID,False,1
+7,VID,UP,Prashant Veer,10.0,1,44,1,0,UPvsVID,False,2
+8,VID,UP,Vipraj Nigam,10.0,0,56,2,0,UPvsVID,False,3
+9,VID,UP,Zeeshan Ansari,10.0,1,46,1,0,UPvsVID,False,4
+10,VID,UP,Kuldeep Yadav,10.0,0,52,3,0,UPvsVID,False,5
+11,VID,UP,Sameer Rizvi,1.0,0,4,0,0,UPvsVID,False,6
+0,VID,ASM,Mukhtar Hussain,8.0,1,35,0,0,VIDvsASM,False,1
+1,VID,ASM,Ayushman Malakar,6.0,2,31,1,0,VIDvsASM,False,2
+2,VID,ASM,Akash Sengupta,10.0,0,77,3,0,VIDvsASM,False,3
+3,VID,ASM,Avinov Choudhury,6.0,0,51,0,0,VIDvsASM,False,4
+4,VID,ASM,Swarupam Purkayastha,10.0,0,63,1,0,VIDvsASM,False,5
+5,VID,ASM,Denish Das,10.0,0,47,1,0,VIDvsASM,False,6
+6,ASM,VID,Harsh Dubey (c),8.0,2,16,1,0,VIDvsASM,False,1
+7,ASM,VID,Nachiket Bhute,5.0,0,29,1,0,VIDvsASM,False,2
+8,ASM,VID,Parth Rekhade,10.0,1,45,4,0,VIDvsASM,False,3
+9,ASM,VID,Yash Kadam,2.0,0,9,0,1,VIDvsASM,False,4
+10,ASM,VID,Yash Thakur,6.0,0,34,2,1,VIDvsASM,False,5
+11,ASM,VID,Atharva Taide,4.0,0,15,1,0,VIDvsASM,False,6
+0,VID,BEN,Shami,10.0,2,65,2,0,VIDvsBEN,False,1
+1,VID,BEN,Mukesh Kumar,9.0,0,46,0,0,VIDvsBEN,False,2
+2,VID,BEN,Akash Deep,9.0,0,86,0,2,VIDvsBEN,False,3
+3,VID,BEN,Shahbaz Ahmed,10.0,0,74,0,2,VIDvsBEN,False,4
+4,VID,BEN,A Gani,10.0,0,80,2,0,VIDvsBEN,False,5
+5,VID,BEN,Karan Lal,2.0,0,18,0,0,VIDvsBEN,False,6
+6,BEN,VID,Darshan Nalkande,10.0,0,79,1,1,VIDvsBEN,False,1
+7,BEN,VID,Yash Thakur,9.0,0,64,2,3,VIDvsBEN,False,2
+8,BEN,VID,Nachiket Bhute,9.5,0,71,2,1,VIDvsBEN,False,3
+9,BEN,VID,Parth Rekhade,10.0,0,66,2,1,VIDvsBEN,False,4
+10,BEN,VID,Harsh Dubey (c),10.0,0,95,0,2,VIDvsBEN,False,5
+0,VID,DEL,Ishant Sharma (c),9.0,0,47,2,3,VIDvsDEL,False,1
+1,VID,DEL,Navdeep Saini,9.0,1,68,2,7,VIDvsDEL,False,2
+2,VID,DEL,Prince Yadav,10.0,1,59,2,5,VIDvsDEL,False,3
+3,VID,DEL,Mayank Gusain,1.0,0,9,0,0,VIDvsDEL,False,4
+4,VID,DEL,Harsh Tyagi,8.0,0,42,0,0,VIDvsDEL,False,5
+5,VID,DEL,Hrithik Shokeen,10.0,0,52,0,0,VIDvsDEL,False,6
+6,VID,DEL,Nitish Rana,3.0,0,19,2,0,VIDvsDEL,False,7
+7,DEL,VID,Praful Hinge,8.0,0,54,2,0,VIDvsDEL,False,1
+8,DEL,VID,Nachiket Bhute,7.1,0,51,4,5,VIDvsDEL,False,2
+9,DEL,VID,Yash Kadam,10.0,1,25,1,0,VIDvsDEL,False,3
+10,DEL,VID,Harsh Dubey (c),10.0,1,36,3,1,VIDvsDEL,False,4
+11,DEL,VID,Yash Thakur,7.0,0,37,0,1,VIDvsDEL,False,5
+12,DEL,VID,Aman Mokhade,3.0,0,17,0,0,VIDvsDEL,False,6
+0,VID,HYD,Kartikeya Kak,10.0,0,87,3,0,VIDvsHYD,False,1
+1,VID,HYD,B Punnaiah,10.0,0,75,0,0,VIDvsHYD,False,2
+2,VID,HYD,Chinntla Rakshan Readdi,10.0,0,84,1,0,VIDvsHYD,False,3
+3,VID,HYD,Aniketh Reddy,10.0,0,59,0,0,VIDvsHYD,False,4
+4,VID,HYD,Nitin Sai Yadav,10.0,0,58,1,0,VIDvsHYD,False,5
+5,HYD,VID,Praful Hinge,9.0,0,53,1,0,VIDvsHYD,False,1
+6,HYD,VID,Nachiket Bhute,8.2,0,54,2,0,VIDvsHYD,False,2
+7,HYD,VID,Yash Thakur,5.0,0,23,1,0,VIDvsHYD,False,3
+8,HYD,VID,Yash Kadam,8.0,0,29,2,0,VIDvsHYD,False,4
+9,HYD,VID,Harsh Dubey (c),10.0,0,39,3,0,VIDvsHYD,False,5
+10,HYD,VID,Ravikumar Samarth,1.0,0,6,0,0,VIDvsHYD,False,6
+11,HYD,VID,Parth Rekhade,8.0,0,68,1,0,VIDvsHYD,False,7
+0,VID,SAUR,Jaydev Unadkat,10.0,0,65,0,0,VIDvsSAUR,False,1
+1,VID,SAUR,Chetan Sakariya,10.0,0,45,2,1,VIDvsSAUR,False,2
+2,VID,SAUR,Chirag Jani,10.0,0,65,2,1,VIDvsSAUR,False,3
+3,VID,SAUR,Ankur Panwar,10.0,0,65,4,4,VIDvsSAUR,False,4
+4,VID,SAUR,Prerak Mankad,7.0,0,43,0,0,VIDvsSAUR,False,5
+5,VID,SAUR,Dharmendrasinh Jadeja,3.0,0,27,0,0,VIDvsSAUR,False,6
+6,SAUR,VID,Yash Thakur,9.5,0,50,4,7,VIDvsSAUR,False,1
+7,SAUR,VID,Nachiket Bhute,9.0,2,46,3,1,VIDvsSAUR,False,2
+8,SAUR,VID,Darshan Nalkande,10.0,1,52,2,6,VIDvsSAUR,False,3
+9,SAUR,VID,Harsh Dubey (c),10.0,0,59,1,0,VIDvsSAUR,False,4
+10,SAUR,VID,Parth Rekhade,10.0,0,69,0,2,VIDvsSAUR,False,5
+0,ARNP,MGLY,Akash Choudhary,8.0,0,26,5,0,ARNPvsMGLY,True,1
+1,ARNP,MGLY,Abhishek Kumar,6.2,1,29,1,0,ARNPvsMGLY,True,2
+2,ARNP,MGLY,Ram Gurung,5.0,1,26,0,0,ARNPvsMGLY,True,3
+3,ARNP,MGLY,Anish Charak,10.0,1,35,1,0,ARNPvsMGLY,True,4
+4,ARNP,MGLY,Jaskirat Singh,6.0,0,25,0,0,ARNPvsMGLY,True,5
+5,ARNP,MGLY,Dippu Sangma (c),6.0,0,26,0,0,ARNPvsMGLY,True,6
+6,ARNP,MGLY,Riboklang Hynniewta,3.0,0,20,1,0,ARNPvsMGLY,True,7
+7,MGLY,ARNP,Tanish Patkar,5.0,1,22,1,0,ARNPvsMGLY,True,1
+8,MGLY,ARNP,Lee Kamra,3.0,0,25,0,0,ARNPvsMGLY,True,2
+9,MGLY,ARNP,Saiyam Paresh,4.0,0,42,0,0,ARNPvsMGLY,True,3
+10,MGLY,ARNP,Techi Doria (c),6.1,0,46,2,0,ARNPvsMGLY,True,4
+11,MGLY,ARNP,Techi Neri,3.0,0,30,1,0,ARNPvsMGLY,True,5
+12,MGLY,ARNP,Nabam Joshi,2.0,0,28,0,0,ARNPvsMGLY,True,6
+0,ARNP,MIZ,Karthik CA,10.0,0,63,3,5,ARNPvsMIZ,True,1
+1,ARNP,MIZ,Khiangte Vanrotlinga,10.0,1,30,0,0,ARNPvsMIZ,True,2
+2,ARNP,MIZ,TC Vanlalremruata,8.0,0,36,3,0,ARNPvsMIZ,True,3
+3,ARNP,MIZ,B Lalnunfela,5.0,0,38,0,1,ARNPvsMIZ,True,4
+4,ARNP,MIZ,Cariappa,9.4,2,34,3,0,ARNPvsMIZ,True,5
+5,ARNP,MIZ,Naveen Gurung,4.0,0,28,0,3,ARNPvsMIZ,True,6
+6,ARNP,MIZ,Joseph Lalthankhuma (c),3.0,0,16,1,0,ARNPvsMIZ,True,7
+7,MIZ,ARNP,Mibom Mosu,7.0,1,34,1,2,ARNPvsMIZ,True,1
+8,MIZ,ARNP,Penjor Mangal,5.0,0,32,1,2,ARNPvsMIZ,True,2
+9,MIZ,ARNP,Dheeraj Antin,10.0,0,39,1,1,ARNPvsMIZ,True,3
+10,MIZ,ARNP,Suryansh Singh,2.0,0,17,0,1,ARNPvsMIZ,True,4
+11,MIZ,ARNP,Techi Neri,7.4,0,31,1,0,ARNPvsMIZ,True,5
+12,MIZ,ARNP,Techi Doria,9.0,0,41,5,0,ARNPvsMIZ,True,6
+13,MIZ,ARNP,Nabam Tempol,4.0,0,21,0,0,ARNPvsMIZ,True,7
+0,ARNP,MNP,Bishworjit Konthoujam (c),10.0,0,43,1,0,ARNPvsMNP,True,1
+1,ARNP,MNP,Pheiroijam Jotin,9.5,0,55,5,0,ARNPvsMNP,True,2
+2,ARNP,MNP,Ajay Lamabam Singh,10.0,0,32,0,0,ARNPvsMNP,True,3
+3,ARNP,MNP,Kishan Singha,10.0,0,40,3,0,ARNPvsMNP,True,4
+4,ARNP,MNP,Johnson Singh,2.0,0,13,0,0,ARNPvsMNP,True,5
+5,ARNP,MNP,L Keishangbam,2.0,0,12,0,0,ARNPvsMNP,True,6
+6,ARNP,MNP,Chingakham Bidash,6.0,0,36,0,0,ARNPvsMNP,True,7
+7,MNP,ARNP,Mibom Mosu,7.3,0,36,2,0,ARNPvsMNP,True,1
+8,MNP,ARNP,Tanish Patkar,4.0,0,27,0,0,ARNPvsMNP,True,2
+9,MNP,ARNP,Tadakamalla Mohith,6.0,0,26,0,0,ARNPvsMNP,True,3
+10,MNP,ARNP,Nabam Joshi,4.0,0,24,0,0,ARNPvsMNP,True,4
+11,MNP,ARNP,Techi Doria,10.0,0,51,2,0,ARNPvsMNP,True,5
+12,MNP,ARNP,Techi Neri,10.0,0,62,1,0,ARNPvsMNP,True,6
+13,MNP,ARNP,Nabam Tempol,5.0,0,23,1,0,ARNPvsMNP,True,7
+0,ARNP,NGL,Dip Borah,8.0,1,24,2,0,ARNPvsNGL,True,1
+1,ARNP,NGL,Nagaho Chishi,6.0,0,38,0,0,ARNPvsNGL,True,2
+2,ARNP,NGL,Imliwati Lemtur,10.0,1,43,2,0,ARNPvsNGL,True,3
+3,ARNP,NGL,Akavi Yeptho,9.0,0,41,2,0,ARNPvsNGL,True,4
+4,ARNP,NGL,Nchumbemo Humtsoe,7.0,0,23,0,0,ARNPvsNGL,True,5
+5,ARNP,NGL,Jonathan R (c),10.0,0,68,0,0,ARNPvsNGL,True,6
+6,NGL,ARNP,Mibom Mosu,7.0,0,50,0,0,ARNPvsNGL,True,1
+7,NGL,ARNP,Penjor Mangal,6.0,0,39,1,0,ARNPvsNGL,True,2
+8,NGL,ARNP,Baddula Sunil Yadav,8.2,0,37,0,0,ARNPvsNGL,True,3
+9,NGL,ARNP,Techi Doria,10.0,0,50,0,0,ARNPvsNGL,True,4
+10,NGL,ARNP,Nabam Kama,4.0,0,25,0,0,ARNPvsNGL,True,5
+11,NGL,ARNP,Anshuman,4.0,0,40,0,0,ARNPvsNGL,True,6
+0,BIH,ARNP,Mibom Mosu,9.0,0,116,0,0,BIHvsARNP,True,1
+1,BIH,ARNP,Suryansh Singh,9.0,0,98,0,0,BIHvsARNP,True,2
+2,BIH,ARNP,Tadakamalla Mohith,9.0,0,99,2,0,BIHvsARNP,True,3
+3,BIH,ARNP,Nabam Tempol,5.0,0,72,0,0,BIHvsARNP,True,4
+4,BIH,ARNP,Dheeraj Antin,9.0,0,81,1,0,BIHvsARNP,True,5
+5,BIH,ARNP,Techi Neri,8.0,0,83,2,0,BIHvsARNP,True,6
+6,BIH,ARNP,Techi Doria,1.0,0,20,0,0,BIHvsARNP,True,7
+7,ARNP,BIH,Sabir Khan,7.1,0,28,1,0,BIHvsARNP,True,1
+8,ARNP,BIH,Badal Kanaoujia,5.0,0,31,0,0,BIHvsARNP,True,2
+9,ARNP,BIH,Akash Raj,8.0,1,29,3,0,BIHvsARNP,True,3
+10,ARNP,BIH,Suraj Kashyap,10.0,3,31,3,0,BIHvsARNP,True,4
+11,ARNP,BIH,Himanshu Tiwari,8.0,0,33,2,0,BIHvsARNP,True,5
+12,ARNP,BIH,Vaibhav Suryavanshi,4.0,0,19,0,0,BIHvsARNP,True,6
+0,BIH,MNP,Bishworjit Konthoujam (c),10.0,0,55,3,0,BIHvsMNP,True,1
+1,BIH,MNP,Pheiroijam Jotin,10.0,0,41,3,2,BIHvsMNP,True,2
+2,BIH,MNP,Chingakham Bidash,6.0,0,50,0,2,BIHvsMNP,True,3
+3,BIH,MNP,Kishan Singha,10.0,0,45,1,0,BIHvsMNP,True,4
+4,BIH,MNP,Ajay Lamabam Singh,10.0,1,56,1,0,BIHvsMNP,True,5
+5,BIH,MNP,L Keishangbam,2.0,0,16,0,0,BIHvsMNP,True,6
+6,BIH,MNP,K Priyojit Singh,2.0,0,15,1,0,BIHvsMNP,True,7
+7,MNP,BIH,Sabir Khan,4.0,1,20,0,0,BIHvsMNP,True,1
+8,MNP,BIH,Badal Kanaoujia,6.0,1,28,0,3,BIHvsMNP,True,2
+9,MNP,BIH,Sakibul Gani (c),9.0,0,55,4,1,BIHvsMNP,True,3
+10,MNP,BIH,Suraj Kashyap,9.0,1,39,1,0,BIHvsMNP,True,4
+11,MNP,BIH,Himanshu Singh,7.0,0,38,0,0,BIHvsMNP,True,5
+12,MNP,BIH,Himanshu Tiwari,10.0,0,45,4,0,BIHvsMNP,True,6
+13,MNP,BIH,Akash Raj,5.0,0,33,0,0,BIHvsMNP,True,7
+0,MGLY,BIH,Shabbir Khan,8.0,1,40,1,0,MGLYvsBIH,True,1
+1,MGLY,BIH,Sabir Khan,9.0,1,50,3,0,MGLYvsBIH,True,2
+2,MGLY,BIH,Mangal Mahrour,7.0,0,21,2,0,MGLYvsBIH,True,3
+3,MGLY,BIH,Suraj Kashyap,8.0,0,30,0,0,MGLYvsBIH,True,4
+4,MGLY,BIH,Akash Raj,6.0,1,30,1,0,MGLYvsBIH,True,5
+5,MGLY,BIH,Himanshu Tiwari,9.0,1,28,2,0,MGLYvsBIH,True,6
+6,MGLY,BIH,Vaibhav Suryavanshi,3.0,0,11,0,0,MGLYvsBIH,True,7
+7,BIH,MGLY,Akash Choudhary,10.0,1,51,2,0,MGLYvsBIH,True,1
+8,BIH,MGLY,Dippu Sangma (c),5.0,0,54,0,0,MGLYvsBIH,True,2
+9,BIH,MGLY,Swarajeet Das,6.0,0,41,0,0,MGLYvsBIH,True,3
+10,BIH,MGLY,Ram Gurung,5.0,0,25,0,0,MGLYvsBIH,True,4
+11,BIH,MGLY,Anish Charak,6.0,0,40,0,0,MGLYvsBIH,True,5
+12,BIH,MGLY,Larry Sangma,0.3,0,8,0,0,MGLYvsBIH,True,6
+0,MGLY,MIZ,Karthik CA,9.5,0,49,6,0,MGLYvsMIZ,True,1
+1,MGLY,MIZ,Naveen Gurung,7.0,0,53,0,0,MGLYvsMIZ,True,2
+2,MGLY,MIZ,Khiangte Vanrotlinga,10.0,1,74,1,0,MGLYvsMIZ,True,3
+3,MGLY,MIZ,TC Vanlalremruata,10.0,0,53,0,0,MGLYvsMIZ,True,4
+4,MGLY,MIZ,Cariappa,10.0,0,46,3,0,MGLYvsMIZ,True,5
+5,MGLY,MIZ,B Lalnunfela,3.0,0,15,0,0,MGLYvsMIZ,True,6
+6,MIZ,MGLY,Akash Choudhary,9.5,0,44,6,0,MGLYvsMIZ,True,1
+7,MIZ,MGLY,Swarajeet Das,5.0,0,20,1,0,MGLYvsMIZ,True,2
+8,MIZ,MGLY,Dippu Sangma (c),7.0,0,58,1,0,MGLYvsMIZ,True,3
+9,MIZ,MGLY,Aryan Bora,6.0,0,27,0,0,MGLYvsMIZ,True,4
+10,MIZ,MGLY,Ram Gurung,4.0,0,29,0,0,MGLYvsMIZ,True,5
+11,MIZ,MGLY,Anish Charak,6.0,1,24,1,0,MGLYvsMIZ,True,6
+12,MIZ,MGLY,Swastic Chettri,1.0,0,6,0,0,MGLYvsMIZ,True,7
+0,MGLY,MNP,Bishworjit Konthoujam (c),8.0,0,30,1,0,MGLYvsMNP,True,1
+1,MGLY,MNP,Pheiroijam Jotin,8.0,0,27,2,0,MGLYvsMNP,True,2
+2,MGLY,MNP,K Priyojit Singh,10.0,0,36,2,0,MGLYvsMNP,True,3
+3,MGLY,MNP,Chingakham Bidash,3.0,0,24,0,0,MGLYvsMNP,True,4
+4,MGLY,MNP,Kishan Singha,10.0,0,68,5,0,MGLYvsMNP,True,5
+5,MGLY,MNP,L Keishangbam,6.0,0,43,0,0,MGLYvsMNP,True,6
+6,MNP,MGLY,Akash Choudhary,10.0,0,46,1,0,MGLYvsMNP,True,1
+7,MNP,MGLY,Abhishek Kumar,5.0,0,40,0,0,MGLYvsMNP,True,2
+8,MNP,MGLY,Swarajeet Das,5.3,0,31,1,0,MGLYvsMNP,True,3
+9,MNP,MGLY,Ram Gurung (c),8.0,0,36,1,0,MGLYvsMNP,True,4
+10,MNP,MGLY,Anish Charak,6.0,0,31,0,0,MGLYvsMNP,True,5
+11,MNP,MGLY,Jaskirat Singh,2.0,0,27,0,0,MGLYvsMNP,True,6
+12,MNP,MGLY,Riboklang Hynniewta,7.0,0,25,3,0,MGLYvsMNP,True,7
+0,MGLY,NGL,Dip Borah,10.0,2,34,4,0,MGLYvsNGL,True,1
+1,MGLY,NGL,Akavi Yeptho,9.0,0,29,1,0,MGLYvsNGL,True,2
+2,MGLY,NGL,Imliwati Lemtur,10.0,1,46,0,2,MGLYvsNGL,True,3
+3,MGLY,NGL,Ronit More,9.3,2,32,3,0,MGLYvsNGL,True,4
+4,MGLY,NGL,Nischal,1.0,0,7,0,0,MGLYvsNGL,True,5
+5,MGLY,NGL,Jonathan R (c),10.0,0,40,2,0,MGLYvsNGL,True,6
+6,NGL,MGLY,Akash Choudhary,8.0,0,28,2,1,MGLYvsNGL,True,1
+7,NGL,MGLY,Swarajeet Das,4.0,0,26,0,0,MGLYvsNGL,True,2
+8,NGL,MGLY,Dippu Sangma (c),2.0,0,25,0,0,MGLYvsNGL,True,3
+9,NGL,MGLY,Anish Charak,7.0,0,26,0,0,MGLYvsNGL,True,4
+10,NGL,MGLY,Ram Gurung,5.0,0,22,1,0,MGLYvsNGL,True,5
+11,NGL,MGLY,Aryan Bora,5.5,0,34,0,1,MGLYvsNGL,True,6
+12,NGL,MGLY,Swastic Chettri,3.0,0,21,0,0,MGLYvsNGL,True,7
+13,NGL,MGLY,Jaskirat Singh,2.0,0,9,0,0,MGLYvsNGL,True,8
+0,MIZ,BIH,Honey Singh,7.0,2,31,3,0,MIZvsBIH,True,1
+1,MIZ,BIH,S Gani (c),5.0,0,38,1,0,MIZvsBIH,True,2
+2,MIZ,BIH,Akash Raj,4.0,0,28,0,0,MIZvsBIH,True,3
+3,MIZ,BIH,Himanshu Tiwari,6.0,0,38,0,0,MIZvsBIH,True,4
+4,MIZ,BIH,Himanshu Singh,10.0,0,45,3,0,MIZvsBIH,True,5
+5,MIZ,BIH,Sachin Kumar Singh,10.0,0,51,0,0,MIZvsBIH,True,6
+6,MIZ,BIH,Suraj Kashyap,3.4,0,22,3,0,MIZvsBIH,True,7
+7,BIH,MIZ,Khiangte Vanrotlinga,8.0,0,71,0,0,MIZvsBIH,True,1
+8,BIH,MIZ,B Lalnunfela,6.0,1,45,2,0,MIZvsBIH,True,2
+9,BIH,MIZ,Marema,10.0,0,60,3,0,MIZvsBIH,True,3
+10,BIH,MIZ,Codanda Ajit Karthik,5.0,0,39,0,0,MIZvsBIH,True,4
+11,BIH,MIZ,Sahil Reza,3.0,0,30,0,0,MIZvsBIH,True,5
+12,BIH,MIZ,Joseph Lalthankhuma (c),2.1,0,15,0,0,MIZvsBIH,True,6
+0,MIZ,MNP,Bishworjit Konthoujam (c),7.5,0,34,4,0,MIZvsMNP,True,1
+1,MIZ,MNP,Pheiroijam Jotin,8.0,1,33,2,0,MIZvsMNP,True,2
+2,MIZ,MNP,Chingakham Bidash,7.0,0,32,2,0,MIZvsMNP,True,3
+3,MIZ,MNP,K Priyojit Singh,5.0,0,18,1,0,MIZvsMNP,True,4
+4,MIZ,MNP,Kishan Singha,10.0,0,39,0,0,MIZvsMNP,True,5
+5,MIZ,MNP,L Keishangbam,2.0,0,12,0,0,MIZvsMNP,True,6
+6,MIZ,MNP,Johnson Singh,6.0,0,29,0,0,MIZvsMNP,True,7
+7,MNP,MIZ,KC Cariappa,10.0,1,37,1,0,MIZvsMNP,True,1
+8,MNP,MIZ,Marema,9.0,0,58,0,0,MIZvsMNP,True,2
+9,MNP,MIZ,TC Vanlalremruata,4.1,0,41,0,0,MIZvsMNP,True,3
+10,MNP,MIZ,Khiangte Vanrotlinga,6.0,0,37,1,0,MIZvsMNP,True,4
+11,MNP,MIZ,Codanda Ajit Karthik,4.0,0,24,0,0,MIZvsMNP,True,5
+12,MNP,MIZ,Joseph Lalthankhuma (c),1.0,0,3,0,0,MIZvsMNP,True,6
+0,MNP,BIH,Shabbir Khan,8.0,1,30,7,0,MNPvsBIH,True,1
+1,MNP,BIH,Sabir Khan,7.0,0,37,0,0,MNPvsBIH,True,2
+2,MNP,BIH,Suraj Kashyap,10.0,1,19,0,0,MNPvsBIH,True,3
+3,MNP,BIH,Akash Raj,6.0,0,27,0,0,MNPvsBIH,True,4
+4,MNP,BIH,Sachin Kumar Singh,9.0,1,29,0,0,MNPvsBIH,True,5
+5,MNP,BIH,Himanshu Tiwari,7.5,0,23,3,0,MNPvsBIH,True,6
+6,BIH,MNP,Bishworjit Konthoujam (c),8.0,1,33,1,0,MNPvsBIH,True,1
+7,BIH,MNP,Pheiroijam Jotin,5.2,0,34,1,0,MNPvsBIH,True,2
+8,BIH,MNP,Kishan Thokchom,8.0,0,42,1,0,MNPvsBIH,True,3
+9,BIH,MNP,L Kishan Singha,8.0,0,47,1,0,MNPvsBIH,True,4
+10,BIH,MNP,Langlonyamba Keishangbam,2.0,0,13,0,0,MNPvsBIH,True,5
+0,NGL,BIH,Shabbir Khan,7.0,2,18,1,0,NGLvsBIH,True,1
+1,NGL,BIH,Sabir Khan,6.0,0,34,1,0,NGLvsBIH,True,2
+2,NGL,BIH,Akash Raj,9.1,0,47,2,0,NGLvsBIH,True,3
+3,NGL,BIH,Himanshu Tiwari,5.0,0,33,0,0,NGLvsBIH,True,4
+4,NGL,BIH,S Gani (c),7.0,0,41,0,0,NGLvsBIH,True,5
+5,NGL,BIH,Suraj Kashyap,10.0,1,23,5,0,NGLvsBIH,True,6
+6,NGL,BIH,Kumar Rajnish,2.0,0,13,0,0,NGLvsBIH,True,7
+7,BIH,NGL,Dip Borah,8.5,1,60,1,0,NGLvsBIH,True,1
+8,BIH,NGL,Akavi Yeptho,5.0,0,48,0,0,NGLvsBIH,True,2
+9,BIH,NGL,Imliwati Lemtur,10.0,0,26,0,0,NGLvsBIH,True,3
+10,BIH,NGL,Ronit More,9.0,0,36,0,0,NGLvsBIH,True,4
+11,BIH,NGL,Rongsen Jonathan (c),5.0,0,44,0,0,NGLvsBIH,True,5
+0,NGL,MIZ,Karthik CA,10.0,1,82,2,0,NGLvsMIZ,True,1
+1,NGL,MIZ,Khiangte Vanrotlinga,9.0,0,80,1,0,NGLvsMIZ,True,2
+2,NGL,MIZ,TC Vanlalremruata,5.0,0,42,0,0,NGLvsMIZ,True,3
+3,NGL,MIZ,Marema,10.0,0,73,0,0,NGLvsMIZ,True,4
+4,NGL,MIZ,Cariappa,10.0,0,68,1,0,NGLvsMIZ,True,5
+5,NGL,MIZ,Joseph Lalthankhuma (c),5.0,0,35,0,0,NGLvsMIZ,True,6
+6,NGL,MIZ,Sahil Reza,1.0,0,13,0,0,NGLvsMIZ,True,7
+7,MIZ,NGL,Dip Borah,6.0,1,38,1,0,NGLvsMIZ,True,1
+8,MIZ,NGL,Ronit More,6.0,0,42,1,0,NGLvsMIZ,True,2
+9,MIZ,NGL,Imliwati Lemtur,10.0,1,35,3,0,NGLvsMIZ,True,3
+10,MIZ,NGL,Akavi Yeptho,9.0,0,36,3,0,NGLvsMIZ,True,4
+11,MIZ,NGL,Rongsen Jonathan (c),6.0,0,38,0,0,NGLvsMIZ,True,5
+12,MIZ,NGL,Dega Nischal,2.0,0,17,0,0,NGLvsMIZ,True,6
+13,MIZ,NGL,Hem Chetri,3.0,0,14,1,0,NGLvsMIZ,True,7
+0,NGL,MNP,Bishworjit Konthoujam (c),9.3,1,38,2,0,NGLvsMNP,True,1
+1,NGL,MNP,Pheiroijam Jotin,8.0,1,30,1,0,NGLvsMNP,True,2
+2,NGL,MNP,Chingakham Bidash,3.0,0,36,0,0,NGLvsMNP,True,3
+3,NGL,MNP,Kishan Singha,8.0,0,29,0,0,NGLvsMNP,True,4
+4,NGL,MNP,Ajay Lamabam Singh,7.0,0,31,1,0,NGLvsMNP,True,5
+5,NGL,MNP,Johnson Singh,7.0,0,35,3,0,NGLvsMNP,True,6
+6,NGL,MNP,L Keishangbam,6.0,0,21,3,0,NGLvsMNP,True,7
+7,MNP,NGL,Rongsen Jonathan (c),10.0,0,52,3,0,NGLvsMNP,True,1
+8,MNP,NGL,Dip Borah,10.0,2,36,2,0,NGLvsMNP,True,2
+9,MNP,NGL,Akavi Yeptho,9.5,0,47,3,0,NGLvsMNP,True,3
+10,MNP,NGL,Ronit More,10.0,0,54,0,0,NGLvsMNP,True,4
+11,MNP,NGL,Imliwati Lemtur,10.0,0,50,1,0,NGLvsMNP,True,5
