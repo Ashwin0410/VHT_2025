@@ -3,20 +3,16 @@
 # Python Dependencies for Render Deployment
 # =============================================================================
 
-# Build tools (required for Python 3.13)
-setuptools>=65.0.0
-wheel
-
 # Core Framework
 dash==2.14.2
 dash-bootstrap-components==1.5.0
 
-# Data Processing
+# Data Processing (compatible with Python 3.11)
 pandas==2.0.3
 numpy==1.24.3
 
 # Visualization
 plotly==5.18.0
 
-# Production Server (REQUIRED for Render)
+# Production Server
 gunicorn==21.2.0
